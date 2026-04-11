@@ -274,7 +274,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Trần Nhân Tông",
   year: "1258 - 1308",
   period: "Nhà Trần",
-  image: "",
+  image: "image/TranNhanTong.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị hoàng đế anh minh lãnh đạo Đại Việt chiến thắng quân Mông - Nguyên và là người sáng lập Thiền phái Trúc Lâm Yên Tử.",
@@ -290,7 +290,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lê Lợi",
   year: "1385 - 1433",
   period: "Thời Hậu Lê",
-  image: "URL ảnh đại diện",
+  image: "image/Vua Lê Lợi.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lê Lợi là anh hùng dân tộc, lãnh tụ tối cao của khởi nghĩa Lam Sơn và là người sáng lập triều đại Hậu Lê hưng thịnh.",
@@ -306,7 +306,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Trãi",
   year: "1380 - 1442",
   period: "Thời Lê Sơ",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenTrai.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nguyễn Trãi là nhà chính trị, quân sự, văn hóa kiệt xuất và là công thần hàng đầu của khởi nghĩa Lam Sơn, người đặt nền móng tư tưởng cho độc lập dân tộc thời Lê.",
@@ -322,7 +322,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lê Thánh Tông",
   year: "1442 - 1497",
   period: "Nhà Hậu Lê",
-  image: "URL ảnh đại diện",
+  image: "image/Lê Thánh Tông - Lê Tư Thành.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị hoàng đế anh minh bậc nhất lịch sử Việt Nam, người đưa triều Lê đạt đến thời kỳ cực thịnh về mọi mặt từ chính trị, quân sự đến văn hóa.",
@@ -338,7 +338,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Bỉnh Khiêm",
   year: "1491 - 1585",
   period: "Nhà Mạc / Lê - Trịnh",
-  image: "URL ảnh đại diện",
+  image: "image/Nhà thơ_ Nguyễn Bỉnh Khiêm.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà thơ, nhà triết học và nhà giáo lỗi lạc của Việt Nam thế kỷ XVI, được người đời kính trọng gọi là Trạng Trình nhờ tài tiên tri và tầm nhìn chiến lược sâu rộng.",
@@ -354,7 +354,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Trịnh Kiểm",
   year: "1503 - 1570",
   period: "Lê Trung Hưng",
-  image: "URL ảnh đại diện Trịnh Kiểm",
+  image: "image/MINH KHANG THÁI VƯƠNG - TRỊNH KIỂM.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Người đặt nền móng cho thế lực họ Trịnh và chế độ 'vua Lê - chúa Trịnh', có vai trò quyết định trong việc khôi phục nhà Lê và đối đầu với nhà Mạc.",
@@ -370,7 +370,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Hoàng",
   year: "1525 - 1613",
   period: "Thời Lê Trung Hưng",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenHoang.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nguyễn Hoàng là người đặt nền móng cho chính quyền họ Nguyễn ở Đàng Trong, biến vùng Thuận - Quảng hoang vu thành khu vực ổn định và giàu tiềm năng.",
@@ -386,7 +386,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Huệ (Quang Trung)",
   year: "1753 - 1792",
   period: "Thời Tây Sơn",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenHue.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lãnh tụ kiệt xuất của phong trào Tây Sơn, người lật đổ các tập đoàn phong kiến mục nát và đánh tan quân xâm lược Xiêm, Thanh để thống nhất đất nước.",
@@ -402,7 +402,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Nhạc",
   year: "1734 - 1793",
   period: "Thời Tây Sơn",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenNhac.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Thủ lĩnh chính trị kiêm người đặt nền móng cho phong trào Tây Sơn, góp công lớn trong việc lật đổ các tập đoàn phong kiến mục nát Đàng Trong và Đàng Ngoài.",
@@ -418,7 +418,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Lữ",
   year: "Thế kỷ XVIII",
   period: "Thời Tây Sơn",
-  image: "",
+  image: "image/NguyenLu.jpg",
   side: "left",
   summary: "Một trong ba anh em lãnh đạo phong trào Tây Sơn, đóng vai trò quan trọng trong việc xây dựng lực lượng và ổn định vùng kiểm soát phía Nam trong giai đoạn đầu của cuộc khởi nghĩa.",
   biography: "Nguyễn Lữ sinh khoảng giữa thế kỷ XVIII tại Bình Định trong một gia đình nông dân có truyền thống võ nghệ. Là em út trong ba anh em Tây Sơn, ông có tính cách điềm đạm, thiên về tu dưỡng tinh thần và chịu ảnh hưởng sâu sắc của tư tưởng Phật giáo.",
@@ -430,7 +430,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Ngô Thì Nhậm",
   year: "1746 - 1803",
   period: "Thời Tây Sơn",
-  image: "URL ảnh đại diện",
+  image: "image/NgoThiNham.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Danh sĩ, nhà chính trị và ngoại giao kiệt xuất cuối thế kỷ XVIII, mưu sĩ quan trọng giúp vua Quang Trung củng cố triều đại Tây Sơn.",
@@ -446,7 +446,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Gia Long",
   year: "1762 - 1820 (Lên ngôi 1802)",
   period: "Nhà Nguyễn",
-  image: "URL ảnh đại diện Gia Long",
+  image: "image/GiaLOng.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị hoàng đế sáng lập triều Nguyễn, người có công thống nhất đất nước sau nhiều năm phân tranh và đặt quốc hiệu là Việt Nam.",
@@ -462,7 +462,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Minh Mạng",
   year: "1820 - 1841",
   period: "Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/MinhMang.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị hoàng đế thứ hai của triều Nguyễn, nổi tiếng với công cuộc cải cách hành chính quyết liệt và xây dựng bộ máy nhà nước tập quyền theo tư tưởng Nho giáo.",
@@ -478,7 +478,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Vua Tự Đức",
   year: "1847 - 1883",
   period: "Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/TuDuc.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị vua thứ tư của triều Nguyễn, nổi tiếng với học vấn uyên thâm nhưng trị vì trong giai đoạn đầy biến động khi thực dân Pháp bắt đầu xâm lược.",
@@ -494,7 +494,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Trương Định",
   year: "1820 - 1864",
   period: "Kháng chiến chống Pháp (Thế kỷ XIX)",
-  image: "URL ảnh Trương Định",
+  image: "image/TruongDinh.png",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lãnh tụ tiêu biểu của nghĩa quân Nam Kỳ trong giai đoạn đầu kháng chiến chống Pháp, nổi tiếng với tinh thần đặt lợi ích dân tộc lên trên mệnh lệnh triều đình.",
@@ -510,7 +510,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Trung Trực",
   year: "1838 - 1868",
   period: "Kháng chiến chống Pháp (Thế kỷ XIX)",
-  image: "",
+  image: "image/NguyenTrungTruc.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nguyễn Trung Trực là thủ lĩnh nghĩa quân tiêu biểu trong phong trào kháng Pháp tại Nam Bộ, nổi tiếng với chiến công đốt tàu Hy Vọng và tinh thần bất khuất trước giặc.",
@@ -526,7 +526,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Phan Đình Phùng",
   year: "1847 - 1895",
   period: "Phong trào Cần Vương",
-  image: "URL ảnh đại diện",
+  image: "image/PhanDinhPhung.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lãnh tụ tiêu biểu nhất của phong trào Cần Vương cuối thế kỷ XIX, nổi tiếng với cuộc khởi nghĩa Hương Khê bền bỉ chống thực dân Pháp.",
@@ -542,7 +542,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Hoàng Hoa Thám",
   year: "1858 - 1913",
   period: "Thời kỳ Pháp thuộc",
-  image: "URL ảnh đại diện",
+  image: "image/HoangHoaTham.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Hoàng Hoa Thám (Đề Thám) là thủ lĩnh kiệt xuất của khởi nghĩa Yên Thế, biểu tượng bất khuất của phong trào chống Pháp cuối thế kỷ XIX - đầu thế kỷ XX.",
@@ -558,7 +558,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Phan Bội Châu",
   year: "1867 - 1940",
   period: "Thời kỳ Pháp thuộc",
-  image: "URL ảnh đại diện",
+  image: "image/PhanBoiChau.jpeg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lãnh tụ tiêu biểu của phong trào yêu nước đầu thế kỷ XX, người khởi xướng xu hướng dân chủ tư sản và phong trào Đông Du.",
@@ -574,7 +574,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Phan Châu Trinh",
   year: "1872 - 1926",
   period: "Thời kỳ Pháp thuộc",
-  image: "",
+  image: "image/PhanChauTrinh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà yêu nước tiêu biểu đầu thế kỷ XX với tư tưởng canh tân, chủ trương 'khai dân trí, chấn dân khí, hậu dân sinh' để giành độc lập thay vì đấu tranh vũ trang.",
@@ -590,7 +590,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Chủ tịch Hồ Chí Minh",
   year: "1890 - 1969",
   period: "Thời kỳ đấu tranh giải phóng dân tộc",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenTatThanh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lãnh tụ vĩ đại của dân tộc Việt Nam, người tìm ra con đường giải phóng dân tộc theo hướng cách mạng vô sản và đặt nền móng cho Đảng Cộng sản Việt Nam.",
