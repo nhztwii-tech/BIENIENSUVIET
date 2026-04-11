@@ -67,7 +67,7 @@ side: "left",
 summary: "Hai Bà Trưng (Trưng Trắc, Trưng Nhị) là hai nữ anh hùng lãnh đạo cuộc khởi nghĩa chống ách đô hộ nhà Đông Hán vào năm 40. Cuộc khởi nghĩa giành thắng lợi ban đầu và khôi phục độc lập trong thời gian ngắn, trở thành biểu tượng bất khuất của dân tộc Việt Nam.",
 biography: "Hai Bà Trưng sinh ra trong một gia đình Lạc tướng ở Mê Linh (nay thuộc Hà Nội), có cha là Trưng Định. Trưng Trắc là vợ của Thi Sách – một hào trưởng có tinh thần chống ách cai trị của nhà Hán. Sau khi Thi Sách bị chính quyền đô hộ sát hại, hai bà đã kế thừa truyền thống gia đình, đứng lên tập hợp lực lượng và lãnh đạo nhân dân khởi nghĩa chống ngoại xâm.",
 activities: "Năm 40, Hai Bà Trưng phất cờ khởi nghĩa tại Hát Môn, nhanh chóng nhận được sự hưởng ứng rộng khắp, chiếm lại nhiều thành trì và đánh đổ chính quyền đô hộ Đông Hán. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh, khôi phục nền độc lập trong khoảng 3 năm. Đến năm 43, cuộc khởi nghĩa bị đàn áp bởi quân Đông Hán do Mã Viện chỉ huy và thất bại.",
-legacy: Hai Bà Trưng để lại giá trị to lớn trong việc hun đúc lòng yêu nước, tinh thần độc lập dân tộc và ý chí đấu tranh chống ngoại xâm. Hình tượng hai bà trở thành biểu tượng tiêu biểu cho sự bất khuất và vai trò của phụ nữ trong lịch sử Việt Nam. Trong hiện tại, tinh thần ấy tiếp tục truyền cảm hứng cho thế hệ trẻ về trách nhiệm bảo vệ chủ quyền và xây dựng đất nước vững mạnh.
+legacy: "Hai Bà Trưng để lại giá trị to lớn trong việc hun đúc lòng yêu nước, tinh thần độc lập dân tộc và ý chí đấu tranh chống ngoại xâm. Hình tượng hai bà trở thành biểu tượng tiêu biểu cho sự bất khuất và vai trò của phụ nữ trong lịch sử Việt Nam. Trong hiện tại, tinh thần ấy tiếp tục truyền cảm hứng cho thế hệ trẻ về trách nhiệm bảo vệ chủ quyền và xây dựng đất nước vững mạnh."
 },
 
     {
@@ -106,5 +106,65 @@ activities: "Sau khi Lý Nam Đế rút lui, Triệu Quang Phục tiếp tục l
 legacy: "Triệu Quang Phục để lại bài học lớn về ý chí kiên cường, tinh thần tự chủ và nghệ thuật quân sự linh hoạt. Ông thể hiện tinh thần sáng tạo trong chiến tranh, biết tận dụng địa hình để giành lợi thế. Giá trị ấy đến nay vẫn là nguồn cảm hứng cho thế hệ trẻ trong việc thích ứng, vượt khó và giữ vững trách nhiệm với đất nước."
 },
 
-    
+   {
+name: "Mai Thúc Loan",
+year: "khoảng 722 (đầu thế kỉ VIII)",
+period: "Thời Bắc thuộc",
+image: "URL_ẢNH_MAI_THUC_LOAN",
+side: "left",
+summary: "Mai Thúc Loan là thủ lĩnh cuộc khởi nghĩa lớn chống ách đô hộ nhà Đường, được nhân dân suy tôn là Mai Hắc Đế. Cuộc khởi nghĩa thể hiện mạnh mẽ tinh thần độc lập và ý chí tự chủ của dân tộc Việt Nam thời Bắc thuộc.",
+biography: "Mai Thúc Loan sinh vào cuối thế kỉ VII tại vùng Nam Đàn (Nghệ An ngày nay), xuất thân trong một gia đình nghèo khó. Từ nhỏ ông đã sớm phải lao động vất vả, từng đi phu gánh cống nạp sản vật sang Trung Quốc nên thấu hiểu sâu sắc nỗi khổ của nhân dân dưới ách đô hộ. Chính hoàn cảnh sống đó đã hun đúc trong ông lòng yêu nước và ý chí đứng lên đấu tranh giành lại tự do cho dân tộc.",
+activities: "Năm 722, Mai Thúc Loan lãnh đạo nhân dân nổi dậy chống lại chính quyền nhà Đường. Nghĩa quân nhanh chóng phát triển mạnh, mở rộng kiểm soát nhiều vùng rộng lớn và ông xưng đế, lấy hiệu Mai Hắc Đế, xây dựng chính quyền tự chủ. Ông còn liên kết với các lực lượng bên ngoài như Lâm Ấp và Chân Lạp để tăng cường sức mạnh kháng chiến. Sau đó, nhà Đường huy động lực lượng lớn đàn áp, cuộc khởi nghĩa thất bại và ông hy sinh.",
+legacy: "Cuộc đời và sự nghiệp của Mai Thúc Loan để lại bài học sâu sắc về lòng yêu nước, tinh thần kiên cường và ý chí vượt qua nghịch cảnh. Ông là biểu tượng cho khát vọng độc lập dân tộc, nhắc nhở thế hệ hôm nay phải biết trân trọng hòa bình, sống có trách nhiệm với đất nước và không ngừng nỗ lực vượt khó. Đồng thời, tư duy liên kết lực lượng của ông cũng thể hiện giá trị của đoàn kết và hợp tác trong sự nghiệp xây dựng, bảo vệ Tổ quốc."
+},
+
+    {
+name: "Phùng Hưng",
+year: "chưa rõ – 791",
+period: "Thời Bắc thuộc (thế kỷ VIII)",
+image: "URL ảnh đại diện",
+side: "left",
+summary: "Phùng Hưng là thủ lĩnh tiêu biểu lãnh đạo khởi nghĩa chống ách đô hộ nhà Đường ở vùng Đường Lâm. Ông được nhân dân tôn xưng là Bố Cái Đại Vương, ghi dấu trong lịch sử đấu tranh giành tự chủ dân tộc.",
+biography: "Phùng Hưng (chưa rõ năm sinh – mất năm 791) sinh tại Đường Lâm (nay thuộc Hà Nội), trong một gia đình hào trưởng có uy tín tại địa phương. Từ nhỏ ông đã nổi tiếng với sức khỏe phi thường, tính cách cương trực và tinh thần nghĩa hiệp. Nhờ điều kiện gia đình cùng uy tín cá nhân, ông sớm trở thành người lãnh đạo, tập hợp lực lượng và được nhân dân tin tưởng ủng hộ.",
+activities: "Phùng Hưng cùng em là Phùng Hải đã phát động cuộc khởi nghĩa chống lại sự cai trị hà khắc của nhà Đường. Nghĩa quân nhanh chóng phát triển, mở rộng ảnh hưởng và tiến đến bao vây, chiếm thành Tống Bình – trung tâm cai trị của nhà Đường ở nước ta. Sau khi giành được quyền kiểm soát, ông tổ chức quản lý đất nước, đem lại sự ổn định cho nhân dân trước khi qua đời.",
+legacy: "Hình tượng Phùng Hưng để lại bài học sâu sắc về tinh thần yêu nước, ý chí tự chủ và lòng dũng cảm chống ngoại xâm. Tinh thần đoàn kết, dám đứng lên đấu tranh vì lợi ích dân tộc của ông vẫn còn nguyên giá trị trong công cuộc xây dựng và bảo vệ Tổ quốc ngày nay. Ông cũng nhắc nhở thế hệ trẻ về trách nhiệm giữ gìn độc lập, phát huy truyền thống và không ngừng vươn lên để phát triển đất nước bền vững."
+},
+
+    {
+name: "Khúc Thừa Dụ",
+year: "Cuối thế kỉ IX - đầu thế kỉ X",
+period: "Thời kì Bắc thuộc lần cuối",
+image: "CHƯA_CÓ_LINK_ẢNH",
+side: "left",
+summary: "Khúc Thừa Dụ là hào trưởng vùng Hồng Châu, người đã lãnh đạo nhân dân giành quyền tự chủ từ tay nhà Đường vào năm 905. Ông mở ra bước ngoặt quan trọng, đặt nền móng cho thời kì độc lập lâu dài của dân tộc Việt Nam.",
+biography: "Khúc Thừa Dụ sinh vào khoảng giữa thế kỉ IX trong một gia đình hào trưởng có thế lực ở vùng Hồng Châu (nay thuộc Hải Dương). Ông là người khoan hòa, có uy tín lớn trong nhân dân và được dân chúng tin tưởng. Nhờ vị thế xã hội và ảnh hưởng địa phương, ông sớm xây dựng được lực lượng riêng, chuẩn bị nền tảng cho việc nắm quyền khi thời cơ xuất hiện.",
+activities: "Năm 905, khi nhà Đường suy yếu, Khúc Thừa Dụ lãnh đạo nhân dân nổi dậy, chiếm thành Tống Bình và tự xưng Tiết độ sứ. Nhà Đường buộc phải công nhận quyền cai quản của ông, đánh dấu việc người Việt giành lại quyền tự chủ trên thực tế. Dù thời gian cầm quyền không dài, ông đã đặt nền móng cho bộ máy tự chủ sau này, được tiếp nối và củng cố dưới thời con trai là Khúc Hạo.",
+legacy: "Tấm gương Khúc Thừa Dụ thể hiện tinh thần tự chủ, biết nắm bắt thời cơ và đặt lợi ích dân tộc lên hàng đầu. Bài học rút ra là cần xây dựng nội lực vững mạnh, giữ vững độc lập, đồng thời linh hoạt trong đối ngoại. Tinh thần ấy vẫn còn nguyên giá trị trong hiện đại: muốn phát triển bền vững phải dựa vào sức mình, đoàn kết và chủ động trước biến động thời cuộc."
+},
+
+    {
+  name: "Dương Đình Nghệ",
+  year: "cuối thế kỉ IX - 937",
+  period: "Thời kỳ đầu giành độc lập tự chủ (đầu thế kỉ X)",
+  image: "URL ảnh đại diện",
+  side: "left",
+  summary: "Dương Đình Nghệ là tướng lĩnh kiệt xuất đầu thế kỉ X, có công đánh bại quân Nam Hán, giành lại quyền tự chủ cho đất nước. Ông cũng là người đặt nền móng quan trọng cho sự nghiệp độc lập dân tộc và là thầy của Ngô Quyền.",
+  biography: "Dương Đình Nghệ quê ở Ái Châu (nay thuộc Thanh Hóa), sinh vào khoảng cuối thế kỉ IX. Ông lớn lên trong bối cảnh đất nước bị nhà Đường đô hộ, sớm nuôi chí khôi phục nền độc lập. Xuất thân là một hào trưởng có thế lực tại địa phương, ông xây dựng lực lượng gồm khoảng 3.000 con nuôi được huấn luyện bài bản, trở thành nền tảng quân sự quan trọng cho các cuộc đấu tranh về sau.",
+  activities: "Năm 931, Dương Đình Nghệ lãnh đạo quân từ Ái Châu tiến ra Bắc, đánh bại quân Nam Hán, giải phóng thành Đại La và giành lại quyền tự chủ cho đất nước. Sau chiến thắng, ông giữ chức Tiết độ sứ, tiếp tục củng cố chính quyền và ổn định vùng đất vừa giành lại được. Đến năm 937, ông bị thuộc tướng Kiều Công Tiễn phản bội và sát hại, tạo nên biến động lớn trong tình hình chính trị thời bấy giờ.",
+  legacy: "Dương Đình Nghệ để lại bài học sâu sắc về lòng yêu nước, ý chí tự cường và tầm nhìn chiến lược trong việc xây dựng lực lượng. Ông đặc biệt chú trọng việc đào tạo nhân tài, tiêu biểu là Ngô Quyền, cho thấy giá trị lâu dài của giáo dục và chuẩn bị con người cho tương lai. Trong hiện tại, tinh thần ấy vẫn mang ý nghĩa lớn, nhắc nhở mỗi người cần sống có trách nhiệm, không ngừng rèn luyện bản thân và góp phần xây dựng nền tảng vững chắc cho sự phát triển bền vững của đất nước."
+},
+
+    {
+name: "Ngô Quyền",
+year: "898 - 944",
+period: "Cuối Bắc thuộc - thời kỳ đầu độc lập",
+image: "URL ảnh",
+side: "left",
+summary: "Ngô Quyền là anh hùng dân tộc đã lãnh đạo chiến thắng Bạch Đằng năm 938, chấm dứt hơn 1000 năm Bắc thuộc. Ông mở ra thời kỳ độc lập tự chủ lâu dài cho Việt Nam.",
+biography: "Ngô Quyền sinh năm 898 tại Đường Lâm trong một gia đình hào trưởng có thế lực. Cha ông là Ngô Mân, người có uy tín trong vùng. Từ nhỏ ông đã nổi bật với tài năng và chí lớn, sau này được Dương Đình Nghệ tin tưởng, gả con gái và giao trọng trách cai quản vùng đất quan trọng. Ông mất năm 944 sau thời gian trị vì đất nước.",
+activities: "Sau khi Dương Đình Nghệ bị Kiều Công Tiễn sát hại, Ngô Quyền đem quân ra Bắc tiêu diệt Kiều Công Tiễn và chuẩn bị đối phó quân Nam Hán xâm lược. Năm 938, ông chỉ huy trận Bạch Đằng, cho đóng cọc gỗ nhọn dưới lòng sông, lợi dụng thủy triều để đánh tan quân địch. Sau chiến thắng, ông lên ngôi vua, đóng đô ở Cổ Loa và xây dựng chính quyền độc lập tự chủ.",
+legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước, ý chí tự cường và nghệ thuật quân sự sáng tạo. Chiến thắng Bạch Đằng thể hiện sức mạnh của trí tuệ và lòng dân trong sự nghiệp bảo vệ Tổ quốc. Tinh thần ấy đến nay vẫn có giá trị trong việc xây dựng đất nước, đề cao sự chủ động, sáng tạo và đoàn kết dân tộc."
+}
+
+
 ];
