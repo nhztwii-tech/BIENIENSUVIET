@@ -258,5 +258,253 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   legacy: "Ông là biểu tượng của tinh thần đại đoàn kết, ý chí quật cường và lòng yêu nước. Bài học về việc đặt lợi ích quốc gia lên trên cá nhân và tầm nhìn chiến lược của ông vẫn giữ nguyên giá trị trong công cuộc xây dựng, bảo vệ Tổ quốc và hội nhập quốc tế ngày nay."
 },
 
+    {
+  name: "Trần Quang Khải",
+  year: "1241 - 1294",
+  period: "Nhà Trần",
+  image: "URL_ANH_DAI_DIEN",
+  side: "left",
+  summary: "Danh tướng, nhà chính trị và nhà thơ kiệt xuất thời Trần, người giữ vai trò trụ cột trong kháng chiến chống Nguyên - Mông và là tác giả bài thơ 'Tụng giá hoàn kinh sư' nổi tiếng.",
+  biography: "Trần Quang Khải (1241–1294) là con trai thứ ba của vua Trần Thái Tông, em trai vua Trần Thánh Tông. Được phong tước Chiêu Minh Vương, ông lớn lên trong môi trường hoàng tộc giàu truyền thống văn võ. Từ nhỏ, ông đã bộc lộ tư chất thông minh, học vấn uyên thâm và tài năng quân sự xuất chúng, sớm trở thành đại thần trụ cột của triều đình.",
+  activities: "Trong cuộc kháng chiến chống Mông – Nguyên lần thứ hai (1285), ông giữ chức Thượng tướng Thái sư, chỉ huy quân đội đánh tan quân giặc ở bến Chương Dương, tạo bước ngoặt quyết định để giải phóng Thăng Long. Bên cạnh tài cầm quân, ông còn là người có công lớn trong việc giữ gìn sự đoàn kết trong nội bộ hoàng tộc (điển hình là việc giảng hòa với Trần Quốc Tuấn) và là một nhà thơ lớn với những vần thơ hào sảng, tràn đầy tinh thần tự tôn dân tộc.",
+  legacy: "Ông là biểu tượng cho tinh thần yêu nước, sự tận hiến và lối sống văn võ toàn tài. Di sản của ông để lại bài học về lòng đoàn kết dân tộc, ý chí kiên cường trước ngoại bang và tầm quan trọng của việc bồi đắp cả trí tuệ lẫn tâm hồn. Thế hệ trẻ hôm nay học tập ở ông tinh thần trách nhiệm với Tổ quốc và ý thức giữ gìn bản sắc văn hóa dân tộc trong công cuộc xây dựng đất nước."
+},
+
+    {
+  name: "Trần Nhân Tông",
+  year: "1258 - 1308",
+  period: "Nhà Trần",
+  image: "",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị hoàng đế anh minh lãnh đạo Đại Việt chiến thắng quân Mông - Nguyên và là người sáng lập Thiền phái Trúc Lâm Yên Tử.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Nhân Tông tên thật là Trần Khâm, con trưởng của vua Trần Thánh Tông. Ông lên ngôi năm 1278 trong bối cảnh đất nước đối mặt với họa xâm lăng. Là người có trí tuệ và lòng nhân ái, ông được giáo dục toàn diện cả về văn hóa lẫn quân sự từ sớm.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông cùng các danh tướng lãnh đạo nhân dân đánh bại hai cuộc xâm lược của quân Mông – Nguyên (1285, 1288). Sau khi nhường ngôi, ông xuất gia tại núi Yên Tử, sáng lập Thiền phái Trúc Lâm – dòng Phật giáo nhập thế của người Việt, đồng thời để lại nhiều tác phẩm văn học giá trị.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương về tinh thần yêu nước, ý chí độc lập và sự đoàn kết toàn dân của ông là bài học quý báu cho công cuộc bảo vệ Tổ quốc. Lối sống giản dị và tư tưởng của ông giúp con người hiện đại tìm thấy sự cân bằng giữa vật chất và đạo đức, giữa phát triển và bản sắc dân tộc."
+},
+
+    {
+  name: "Lê Lợi",
+  year: "1385 - 1433",
+  period: "Thời Hậu Lê",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lê Lợi là anh hùng dân tộc, lãnh tụ tối cao của khởi nghĩa Lam Sơn và là người sáng lập triều đại Hậu Lê hưng thịnh.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lê Lợi sinh năm 1385 tại Lam Sơn, Thanh Hóa trong một gia đình hào trưởng giàu có và uy tín. Ông là người có chí lớn, giàu lòng yêu nước và có khả năng thu phục nhân tâm xuất sắc. Chứng kiến cảnh nhà Minh đô hộ tàn bạo, ông đã dành tâm huyết để tập hợp lực lượng, chờ đợi thời cơ để khôi phục độc lập dân tộc.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1418, ông phất cờ khởi nghĩa tại Lam Sơn. Dưới sự lãnh đạo tài tình của ông và sự phò tá của các danh tướng như Nguyễn Trãi, nghĩa quân Lam Sơn đã vượt qua những năm tháng gian khổ ban đầu để từng bước lớn mạnh. Sau chuỗi thắng lợi vang dội mà đỉnh cao là chiến thắng năm 1427, quân Minh buộc phải rút về nước. Năm 1428, Lê Lợi lên ngôi hoàng đế (Lê Thái Tổ), chính thức mở ra kỷ nguyên độc lập tự chủ lâu dài.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hình tượng Lê Lợi để lại bài học vô giá về lòng yêu nước, ý chí kiên cường và sức mạnh của khối đại đoàn kết toàn dân. Ông minh chứng cho tư tưởng 'lấy dân làm gốc' trong công cuộc giữ nước. Ngày nay, tinh thần Lam Sơn nhắc nhở mỗi cá nhân về trách nhiệm với Tổ quốc, ý chí vượt khó và khát vọng xây dựng một đất nước hùng cường, tự chủ."
+},
+
+    {
+  name: "Nguyễn Trãi",
+  year: "1380 - 1442",
+  period: "Thời Lê Sơ",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nguyễn Trãi là nhà chính trị, quân sự, văn hóa kiệt xuất và là công thần hàng đầu của khởi nghĩa Lam Sơn, người đặt nền móng tư tưởng cho độc lập dân tộc thời Lê.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Trãi (hiệu Ức Trai) sinh năm 1380 tại Thăng Long, quê gốc Hải Dương. Ông sinh ra trong gia đình có truyền thống khoa bảng và yêu nước với cha là Nguyễn Phi Khanh và mẹ là Trần Thị Thái. Sự kiện tiễn cha tại ải Nam Quan và lời dặn dò cứu nước đã trở thành động lực lớn nhất xuyên suốt cuộc đời ông.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông gia nhập nghĩa quân Lam Sơn, trở thành mưu sĩ thân cận của Lê Lợi, trực tiếp soạn thảo 'Bình Ngô đại cáo' và các thư từ ngoại giao ('Quân trung từ mệnh tập') giúp đánh bại quân Minh. Sau độc lập, ông cống hiến xây dựng triều chính nhưng sau đó gặp bi kịch oan khuất trong vụ án Lệ Chi Viên (1442) dẫn đến án chu di tam tộc. Năm 1464, ông được vua Lê Thánh Tông minh oan.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tư tưởng 'lấy dân làm gốc' và triết lý nhân nghĩa của Nguyễn Trãi là bài học quý giá về lòng yêu nước và đạo lý sống cho thế hệ trẻ. Trong bối cảnh hiện đại, tinh thần ngoại giao khôn khéo và trí tuệ của ông vẫn là kim chỉ nam cho công cuộc xây dựng, bảo vệ Tổ quốc và hội nhập quốc tế."
+},
+
+    {
+  name: "Lê Thánh Tông",
+  year: "1442 - 1497",
+  period: "Nhà Hậu Lê",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị hoàng đế anh minh bậc nhất lịch sử Việt Nam, người đưa triều Lê đạt đến thời kỳ cực thịnh về mọi mặt từ chính trị, quân sự đến văn hóa.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lê Thánh Tông tên thật là Lê Tư Thành, sinh năm 1442, là con trai của vua Lê Thái Tông. Ông lên ngôi vào năm 1460 sau khi dẹp loạn trong triều đình, lấy niên hiệu là Quang Thuận và sau đó là Hồng Đức. Từng trải qua giai đoạn khó khăn thời niên thiếu trong hoàng tộc, ông đã rèn luyện được bản lĩnh và tư duy trị quốc sâu sắc trước khi gánh vác trọng trách giang sơn.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong 38 năm trị vì (1460–1497), ông đã thực hiện cuộc cải cách hành chính quy mô lớn, chia cả nước thành 13 đạo thừa tuyên để quản lý chặt chẽ. Ông ban hành Bộ luật Hồng Đức - bộ luật tiến bộ và hoàn chỉnh nhất thời phong kiến; đẩy mạnh giáo dục, khoa cử và đề cao Nho giáo. Về quân sự, ông trực tiếp chỉ huy mở rộng lãnh thổ về phía Nam, củng cố biên giới và xây dựng một nhà nước quân chủ tập quyền vững mạnh toàn diện.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tư tưởng trị quốc của ông để lại bài học vô giá về việc thượng tôn pháp luật, xây dựng bộ máy quản lý minh bạch và trọng dụng nhân tài thông qua giáo dục. Những thành tựu của thời kỳ Hồng Đức vẫn là mẫu mực về việc kết hợp phát triển kinh tế, giữ vững kỷ cương nhà nước với bảo vệ chủ quyền lãnh thổ và phát huy bản sắc văn hóa dân tộc trong bối cảnh hiện đại."
+},
+
+    {
+  name: "Nguyễn Bỉnh Khiêm",
+  year: "1491 - 1585",
+  period: "Nhà Mạc / Lê - Trịnh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà thơ, nhà triết học và nhà giáo lỗi lạc của Việt Nam thế kỷ XVI, được người đời kính trọng gọi là Trạng Trình nhờ tài tiên tri và tầm nhìn chiến lược sâu rộng.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Bỉnh Khiêm sinh năm 1491 tại làng Trung Am, Hải Phòng. Từ nhỏ ông đã nổi tiếng thông minh, tinh thông kinh sử và lý học. Năm 1535, dưới triều nhà Mạc, ông đỗ Trạng nguyên và được vua Mạc Đăng Doanh trọng dụng. Dù sống giữa thời loạn lạc, ông vẫn giữ vững phẩm chất thanh liêm, cương trực, không màng danh lợi tầm thường.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau một thời gian làm quan, ông dâng sớ xin chém 18 gian thần nhưng không được chấp thuận nên cáo quan về quê ở ẩn. Tại quê nhà, ông lập am Bạch Vân, mở trường dạy học và đào tạo nên nhiều nhân tài cho đất nước. Dù ẩn cư, ông vẫn là bậc cố vấn tâm linh và chính trị quan trọng, đưa ra những lời sấm ký định hướng vận mệnh cho các thế lực họ Mạc, họ Trịnh và họ Nguyễn trong cuộc phân tranh.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Ông để lại bài học vô giá về nhân cách sống thanh cao, biết tiến thoái đúng lúc và luôn đặt lợi ích dân tộc lên trên hết. Trong xã hội hiện đại, tư tưởng của ông về đạo đức, tầm nhìn dài hạn và tinh thần học tập suốt đời vẫn là kim chỉ nam sáng giá cho thế hệ trẻ về bản lĩnh và lối sống cống hiến."
+},
+
+    {
+  name: "Trịnh Kiểm",
+  year: "1503 - 1570",
+  period: "Lê Trung Hưng",
+  image: "URL ảnh đại diện Trịnh Kiểm",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Người đặt nền móng cho thế lực họ Trịnh và chế độ 'vua Lê - chúa Trịnh', có vai trò quyết định trong việc khôi phục nhà Lê và đối đầu với nhà Mạc.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trịnh Kiểm sinh năm 1503 tại Thanh Hóa trong một gia đình bình dân. Ông là con rể của Nguyễn Kim - người lãnh đạo phong trào phục Lê diệt Mạc. Sau khi cha vợ qua đời, ông kế tục sự nghiệp lãnh đạo, dần khẳng định vị thế và nắm giữ quyền lực tuyệt đối trong triều đình.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau khi nắm binh quyền, Trịnh Kiểm tổ chức lực lượng chống nhà Mạc, đưa vua Lê Trang Tông lên ngôi để khôi phục chính thống nhà Lê. Ông củng cố căn cứ tại Thanh Hóa, Nghệ An và tiến hành nhiều chiến dịch quân sự lớn, tạo ra cục diện Nam - Bắc triều và xây dựng nền móng quyền lực riêng biệt cho dòng họ Trịnh.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Để lại bài học về ý chí vươn lên và khả năng nắm bắt thời cơ chính trị để xây dựng lực lượng bền vững. Tuy nhiên, sự tập trung quyền lực của ông cũng là lời nhắc nhở hiện đại về trách nhiệm, tính minh bạch và việc đặt lợi ích quốc gia lên trên lợi ích cá nhân trong lãnh đạo."
+},
+
+    {
+  name: "Nguyễn Hoàng",
+  year: "1525 - 1613",
+  period: "Thời Lê Trung Hưng",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nguyễn Hoàng là người đặt nền móng cho chính quyền họ Nguyễn ở Đàng Trong, biến vùng Thuận - Quảng hoang vu thành khu vực ổn định và giàu tiềm năng.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Hoàng (1525–1613) là con trai của công thần Nguyễn Kim. Sau khi cha mất, trước sự chèn ép của anh rể Trịnh Kiểm, ông đã nghe theo lời khuyên 'Hoành Sơn nhất đái, vạn đại dung thân' của Trạng Trình Nguyễn Bỉnh Khiêm để xin vào trấn thủ vùng Thuận Hóa năm 1558, bắt đầu sự nghiệp gây dựng cơ đồ phương Nam.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Tại Thuận - Quảng, ông thực hiện chính sách vỗ về dân chúng, khuyến khích khai hoang và phát triển kinh tế biển. Ông khôn khéo giữ lễ với triều đình Lê - Trịnh để có thời gian củng cố lực lượng. Dưới sự cai trị của ông, vùng đất Đàng Trong trở nên trù phú, thu hút lưu dân và trở thành căn cứ vững chắc giúp mở rộng lãnh thổ về phía Nam.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Nguyễn Hoàng để lại bài học về tư duy chiến lược, khả năng thích ứng và tầm nhìn dài hạn. Ông cho thấy giá trị của việc dám rời xa vùng an toàn để khai phá tiềm năng mới, xây dựng nền móng từ lòng dân và kinh tế, góp phần quan trọng vào quá trình định hình lãnh thổ Việt Nam hiện đại."
+},
+
+    {
+  name: "Nguyễn Huệ (Quang Trung)",
+  year: "1753 - 1792",
+  period: "Thời Tây Sơn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lãnh tụ kiệt xuất của phong trào Tây Sơn, người lật đổ các tập đoàn phong kiến mục nát và đánh tan quân xâm lược Xiêm, Thanh để thống nhất đất nước.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Huệ sinh năm 1753 tại làng Tây Sơn (Bình Định) trong một gia đình nông dân. Là người thông minh, nhanh nhẹn và có chí lớn từ nhỏ, ông cùng các anh em (Nguyễn Nhạc, Nguyễn Lữ) đã dựng cờ khởi nghĩa trong bối cảnh xã hội rối ren và chính quyền phong kiến suy yếu.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là linh hồn quân sự của quân Tây Sơn với những chiến công lừng lẫy: đại thắng quân Xiêm tại Rạch Gầm – Xoài Mút (1785) và tiêu diệt 20 vạn quân Thanh tại Ngọc Hồi – Đống Đa (1789). Sau khi lên ngôi Hoàng đế năm 1788 (niên hiệu Quang Trung), ông thực hiện nhiều cải cách về kinh tế, quân sự và giáo dục nhưng tiếc thay đã sớm qua đời vào năm 1792.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Nguyễn Huệ là biểu tượng của tinh thần yêu nước, ý chí tự cường và tài năng quân sự thiên bẩm. Cuộc đời ông để lại bài học về tư duy đổi mới, quyết đoán cho thế hệ trẻ, đồng thời nhắc nhở trách nhiệm giữ gìn chủ quyền và phát triển đất nước bền vững."
+},
+
+    {
+  name: "Nguyễn Nhạc",
+  year: "1734 - 1793",
+  period: "Thời Tây Sơn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Thủ lĩnh chính trị kiêm người đặt nền móng cho phong trào Tây Sơn, góp công lớn trong việc lật đổ các tập đoàn phong kiến mục nát Đàng Trong và Đàng Ngoài.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Sinh khoảng năm 1734 tại Bình Định trong gia đình nông dân - thương nhân. Sớm thấu hiểu nỗi khổ của nhân dân dưới ách cai trị phong kiến, ông cùng hai em (Nguyễn Huệ, Nguyễn Lữ) đã nuôi chí khởi nghĩa từ vùng Tây Sơn thượng đạo.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1771, phất cờ khởi nghĩa Tây Sơn, thu hút đông đảo các tầng lớp bị áp bức. Dưới sự lãnh đạo của ông, nghĩa quân lần lượt đánh bại Chúa Nguyễn và lật đổ Chúa Trịnh. Năm 1778, ông xưng đế, lấy hiệu Thái Đức, chính thức xác lập chính quyền Tây Sơn.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Để lại bài học về sức mạnh của tinh thần đoàn kết và khả năng tập hợp quần chúng để tạo bước ngoặt lịch sử. Đồng thời, sự suy yếu do mâu thuẫn nội bộ sau này cũng là lời nhắc nhở sâu sắc về tầm quan trọng của sự thống nhất trong công cuộc xây dựng đất nước."
+},
+
+    {
+  name: "Nguyễn Lữ",
+  year: "Thế kỷ XVIII",
+  period: "Thời Tây Sơn",
+  image: "",
+  side: "left",
+  summary: "Một trong ba anh em lãnh đạo phong trào Tây Sơn, đóng vai trò quan trọng trong việc xây dựng lực lượng và ổn định vùng kiểm soát phía Nam trong giai đoạn đầu của cuộc khởi nghĩa.",
+  biography: "Nguyễn Lữ sinh khoảng giữa thế kỷ XVIII tại Bình Định trong một gia đình nông dân có truyền thống võ nghệ. Là em út trong ba anh em Tây Sơn, ông có tính cách điềm đạm, thiên về tu dưỡng tinh thần và chịu ảnh hưởng sâu sắc của tư tưởng Phật giáo.",
+  activities: "Trong phong trào Tây Sơn, ông chỉ huy quân đội đánh chiếm vùng Gia Định và mở rộng thế lực về phía Nam. Sau khi phong trào lớn mạnh, ông được phong vương và trực tiếp quản lý khu vực Nam Bộ. Tuy nhiên, trước sự phản công của Nguyễn Ánh, ông dần thất thế và rút lui khỏi các hoạt động quân sự lớn về sau.",
+  legacy: "Hình ảnh Nguyễn Lữ đại diện cho tinh thần đoàn kết và ý chí chống bất công. Bài học từ ông nhấn mạnh vai trò không thể thay thế của mỗi cá nhân trong một tập thể lớn, cũng như giá trị của sự khiêm nhường và lòng trung thành với lý tưởng chung của dân tộc."
+},
+
+    {
+  name: "Ngô Thì Nhậm",
+  year: "1746 - 1803",
+  period: "Thời Tây Sơn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh sĩ, nhà chính trị và ngoại giao kiệt xuất cuối thế kỷ XVIII, mưu sĩ quan trọng giúp vua Quang Trung củng cố triều đại Tây Sơn.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Ngô Thì Nhậm sinh năm 1746 tại làng Tả Thanh Oai (nay thuộc Hà Nội) trong một gia đình khoa bảng danh giá. Là con trai của danh sĩ Ngô Thì Sĩ, ông sớm bộc lộ tài năng văn chương và tư duy chính trị sắc bén, từng đỗ Tiến sĩ và làm quan dưới triều Lê - Trịnh trước khi theo phò nhà Tây Sơn.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau khi gia nhập quân Tây Sơn, ông trở thành cố vấn chiến lược cho Quang Trung, đóng vai trò then chốt trong việc hoạch định chính sách và đặc biệt là công tác ngoại giao khéo léo với nhà Thanh sau năm 1789 để giữ vững hòa bình. Bên cạnh chính trị, ông còn là nhà tư tưởng lớn, nghiên cứu Phật học và sáng lập dòng thiền Trúc Lâm mới.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Cuộc đời ông là bài học về tinh thần linh hoạt, biết đặt lợi ích dân tộc lên trên tư tưởng cá nhân trong thời thế biến động. Ông biểu trưng cho hình mẫu trí thức bản lĩnh, dám hành động vì đại nghĩa và để lại di sản tư tưởng dung hòa Nho - Phật - Lão độc đáo cho hậu thế."
+},
+
+    {
+  name: "Gia Long",
+  year: "1762 - 1820 (Lên ngôi 1802)",
+  period: "Nhà Nguyễn",
+  image: "URL ảnh đại diện Gia Long",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị hoàng đế sáng lập triều Nguyễn, người có công thống nhất đất nước sau nhiều năm phân tranh và đặt quốc hiệu là Việt Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Gia Long tên thật là Nguyễn Phúc Ánh, sinh năm 1762 tại Gia Định, là hậu duệ của các chúa Nguyễn. Tuổi thơ của ông gắn liền với biến cố gia tộc bị phong trào Tây Sơn lật đổ, phải sống cuộc đời lưu vong và nhiều lần thoát chết trong gang tấc, từ đó hun đúc ý chí phục quốc mạnh mẽ.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Từ cuối thế kỷ XVIII, Nguyễn Ánh gây dựng lực lượng, vừa chiến đấu vừa tìm kiếm sự hỗ trợ bên ngoài. Sau nhiều năm giao tranh, ông dần chiếm lại Gia Định, miền Trung rồi tiến ra Bắc. Năm 1802, ông đánh bại hoàn toàn nhà Tây Sơn, lên ngôi hoàng đế, lấy niên hiệu Gia Long, đóng đô tại Huế và thiết lập bộ máy quân chủ tập quyền chặt chẽ.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Gia Long để lại bài học về ý chí bền bỉ và tầm nhìn chiến lược trong khó khăn. Dù còn những tranh luận lịch sử, ông có vai trò quan trọng trong việc thống nhất lãnh thổ và đặt nền móng cho sự ổn định quốc gia sau thời kỳ loạn lạc. Tinh thần kiên định và khả năng thích ứng của ông vẫn còn nguyên giá trị cho hiện tại."
+},
+
+    {
+  name: "Minh Mạng",
+  year: "1820 - 1841",
+  period: "Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị hoàng đế thứ hai của triều Nguyễn, nổi tiếng với công cuộc cải cách hành chính quyết liệt và xây dựng bộ máy nhà nước tập quyền theo tư tưởng Nho giáo.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Minh Mạng tên thật là Nguyễn Phúc Đảm (1791 - 1841), là con trai thứ tư của vua Gia Long. Ông được nuôi dạy nghiêm cẩn từ nhỏ, thông minh, chăm chỉ và thấm nhuần Nho học sâu sắc trước khi kế vị ngai vàng vào năm 1820.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông tiến hành cải cách hành chính lớn nhất lịch sử phong kiến Việt Nam khi chia cả nước thành 30 tỉnh và 1 phủ Thừa Thiên. Vua Minh Mạng đẩy mạnh giáo dục khoa cử, hoàn thiện hệ thống luật pháp và mở rộng lãnh thổ quốc gia. Tuy nhiên, ông cũng thực hiện chính sách bế quan tỏa cảng và khắt khe với đạo Thiên Chúa, tạo nên sự ngăn cách với các nước phương Tây.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Để lại bài học về quản trị quốc gia khoa học, tinh thần giữ vững kỷ cương và khẳng định chủ quyền lãnh thổ. Đồng thời, qua chính sách đối ngoại của ông, hậu thế nhận thấy tầm quan trọng của việc kết hợp giữa bảo tồn bản sắc dân tộc với tư duy mở cửa, hội nhập để phát triển đất nước."
+},
+
+    {
+  name: "Vua Tự Đức",
+  year: "1847 - 1883",
+  period: "Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị vua thứ tư của triều Nguyễn, nổi tiếng với học vấn uyên thâm nhưng trị vì trong giai đoạn đầy biến động khi thực dân Pháp bắt đầu xâm lược.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Tự Đức tên thật là Nguyễn Phúc Hồng Nhậm (1829 - 1883), con trai vua Thiệu Trị và bà Từ Dũ. Ông lên ngôi năm 18 tuổi, là người thông minh, hiếu học, có tư chất Nho học sâu sắc và giỏi thơ văn. Tuy nhiên, ông có sức khỏe yếu và không có con nối dõi.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trị vì trong 36 năm, ông duy trì chính sách bảo thủ, đóng cửa với phương Tây và đề cao Nho giáo. Khi Pháp xâm lược năm 1858, triều đình chống trả thiếu hiệu quả, dẫn đến việc ký Hiệp ước Nhâm Tuất (1862) mất 3 tỉnh miền Đông Nam Kỳ. Nội bộ triều đình chia rẽ sâu sắc giữa hai phe chủ chiến và chủ hòa trong khi đất nước dần mất chủ quyền.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Để lại bài học lịch sử về tầm quan trọng của việc đổi mới và cải cách đất nước để không bị tụt hậu trước sự thay đổi của thời đại. Triều đại ông nhắc nhở về việc đoàn kết nội bộ và tầm nhìn thực tiễn trong bảo vệ chủ quyền, đồng thời lưu giữ những giá trị văn chương, tri thức quý báu của dân tộc."
+},
+
+    {
+  name: "Trương Định",
+  year: "1820 - 1864",
+  period: "Kháng chiến chống Pháp (Thế kỷ XIX)",
+  image: "URL ảnh Trương Định",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lãnh tụ tiêu biểu của nghĩa quân Nam Kỳ trong giai đoạn đầu kháng chiến chống Pháp, nổi tiếng với tinh thần đặt lợi ích dân tộc lên trên mệnh lệnh triều đình.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trương Định sinh năm 1820 tại Quảng Ngãi, sau đó vào Gia Định lập nghiệp. Xuất thân trong gia đình giàu truyền thống yêu nước, ông có tài tổ chức và tinh thần nghĩa hiệp, từng được triều đình phong chức quan nhờ công khai khẩn đất hoang và giữ gìn an ninh vùng Gia Định.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Khi Pháp xâm lược (1858), ông lãnh đạo nghĩa quân tại Gò Công, Tân Hòa gây nhiều thiệt hại cho địch. Dù triều đình ra lệnh giải tán sau Hòa ước 1862, ông vẫn kiên quyết ở lại chiến đấu theo nguyện vọng của nhân dân với danh hiệu 'Bình Tây Đại Nguyên soái'. Năm 1864, ông bị thương nặng trong một trận chiến và đã tuẫn tiết để giữ trọn khí tiết.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Trương Định là bài học về lòng yêu nước, bản lĩnh dám nghĩ dám làm và tinh thần trách nhiệm trước quốc gia. Ông truyền cảm hứng cho thế hệ trẻ hôm nay về ý chí kiên định, không lùi bước trước khó khăn để bảo vệ và xây dựng đất nước bền vững."
+},
+
     
 ];
