@@ -164,7 +164,99 @@ summary: "Ngô Quyền là anh hùng dân tộc đã lãnh đạo chiến thắn
 biography: "Ngô Quyền sinh năm 898 tại Đường Lâm trong một gia đình hào trưởng có thế lực. Cha ông là Ngô Mân, người có uy tín trong vùng. Từ nhỏ ông đã nổi bật với tài năng và chí lớn, sau này được Dương Đình Nghệ tin tưởng, gả con gái và giao trọng trách cai quản vùng đất quan trọng. Ông mất năm 944 sau thời gian trị vì đất nước.",
 activities: "Sau khi Dương Đình Nghệ bị Kiều Công Tiễn sát hại, Ngô Quyền đem quân ra Bắc tiêu diệt Kiều Công Tiễn và chuẩn bị đối phó quân Nam Hán xâm lược. Năm 938, ông chỉ huy trận Bạch Đằng, cho đóng cọc gỗ nhọn dưới lòng sông, lợi dụng thủy triều để đánh tan quân địch. Sau chiến thắng, ông lên ngôi vua, đóng đô ở Cổ Loa và xây dựng chính quyền độc lập tự chủ.",
 legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước, ý chí tự cường và nghệ thuật quân sự sáng tạo. Chiến thắng Bạch Đằng thể hiện sức mạnh của trí tuệ và lòng dân trong sự nghiệp bảo vệ Tổ quốc. Tinh thần ấy đến nay vẫn có giá trị trong việc xây dựng đất nước, đề cao sự chủ động, sáng tạo và đoàn kết dân tộc."
-}
+},
 
+{
+  name: "Đinh Bộ Lĩnh",
+  year: "924 - 979",
+  period: "Nhà Đinh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị anh hùng dân tộc có công dẹp loạn 12 sứ quân, thống nhất đất nước và lập nên nước Đại Cồ Việt, mở ra thời kỳ độc lập tự chủ lâu dài.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Đinh Bộ Lĩnh sinh năm 924 tại Hoa Lư (Ninh Bình), là con trai của thứ sử Đinh Công Trứ. Từ nhỏ, ông đã bộc lộ khí chất lãnh đạo qua trò chơi 'cờ lau tập trận' cùng bạn bè và sớm nuôi chí lớn dẹp loạn trong bối cảnh đất nước rối ren sau thời nhà Ngô.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong thời kỳ loạn 12 sứ quân, ông xây dựng căn cứ tại Hoa Lư, chiêu mộ lực lượng và lần lượt đánh bại hoặc thu phục các sứ quân khác. Năm 968, ông thống nhất đất nước, lên ngôi Hoàng đế (Đinh Tiên Hoàng), đặt quốc hiệu Đại Cồ Việt, đóng đô tại Hoa Lư, thiết lập bộ máy nhà nước và củng cố quân đội.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Đinh Bộ Lĩnh để lại bài học vô giá về tinh thần đoàn kết và ý chí thống nhất dân tộc. Trong thời đại ngày nay, di sản của ông nhắc nhở chúng ta về tầm quan trọng của kỷ cương, sự quyết đoán của người lãnh đạo và việc đặt lợi ích quốc gia lên hàng đầu để phát triển bền vững."
+},
 
+    {
+  name: "Lê Hoàn (Lê Đại Hành)",
+  year: "941 - 1005",
+  period: "Nhà Tiền Lê",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lê Hoàn là vị hoàng đế sáng lập triều Tiền Lê, một danh tướng kiệt xuất nổi bật với chiến công đánh bại quân Tống xâm lược và công cuộc củng cố nền độc lập của quốc gia Đại Cồ Việt.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lê Hoàn sinh năm 941 tại Ái Châu (Thanh Hóa), xuất thân trong một gia đình bình dân. Từ nhỏ đã bộc lộ sự thông minh, khỏe mạnh và chí lớn. Khi trưởng thành, ông theo phò Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, sau đó giữ chức Thập đạo tướng quân - vị trí quân sự cao nhất nắm giữ binh quyền dưới triều Đinh.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 979, sau khi Đinh Tiên Hoàng bị ám sát, triều đình lâm vào khủng hoảng. Trước hiểm họa xâm lược từ nhà Tống, năm 980, Lê Hoàn được Thái hậu Dương Vân Nga và triều thần suy tôn lên làm vua. Năm 981, ông trực tiếp chỉ huy đánh tan quân Tống trên sông Bạch Đằng và Chi Lăng. Trong thời gian trị vì, ông thực hiện nghi lễ cày Tịch điền để khuyến khích nông nghiệp và củng cố bộ máy hành chính trung ương.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Lê Hoàn để lại bài học về tinh thần quyết đoán và đặt lợi ích dân tộc lên trên hết trong những khúc quanh lịch sử. Ông là biểu tượng của ý chí bảo vệ chủ quyền, sự đoàn kết và tầm nhìn chiến lược trong việc xây dựng đất nước mạnh mẽ, bản lĩnh trước mọi thử thách ngoại bang."
+},
+
+    {
+  name: "Lý Thái Tổ",
+  year: "974 - 1028",
+  period: "Nhà Lý",
+  image: "URL ảnh đại diện",
+  side: "left",
+  summary: "Vị vua sáng lập triều Lý, người có tầm nhìn chiến lược vĩ đại với quyết định dời đô về Thăng Long, mở ra thời kỳ phát triển rực rỡ cho quốc gia Đại Việt.",
+  biography: "Lý Thái Tổ (tên thật là Lý Công Uẩn) sinh năm 974 tại vùng Cổ Pháp. Thuở nhỏ, ông được nuôi dưỡng và giáo dục trong môi trường Phật giáo dưới sự hướng dẫn của thiền sư Vạn Hạnh. Với tư chất thông minh, nhân hậu và chí lớn, ông sớm tham chính và giữ các chức vụ quan trọng trong quân đội và triều đình nhà Tiền Lê.",
+  activities: "Năm 1009, ông được triều thần tôn làm vua, lập nên triều Lý. Năm 1010, ông ban hành 'Chiếu dời đô', quyết định chuyển kinh đô từ vùng núi Hoa Lư hiểm trở ra thành Đại La (Thăng Long) để thuận lợi cho việc phát triển đất nước. Trong thời gian trị vì, ông tập trung xây dựng bộ máy nhà nước, đẩy mạnh nông nghiệp, củng cố quốc phòng và lấy tinh thần nhân nghĩa làm gốc.",
+  legacy: "Lý Thái Tổ để lại bài học về tầm nhìn thời đại và bản lĩnh thay đổi để phát triển. Quyết định chọn Thăng Long làm kinh đô đã khẳng định vị thế trung tâm bền vững của đất nước cho đến tận ngày nay. Tinh thần trọng hiền tài và xây dựng quốc gia ổn định của ông vẫn là kim chỉ nam quý báu cho công cuộc bảo vệ và phát triển Tổ quốc."
+},
+
+    {
+  name: "Lý Thường Kiệt",
+  year: "1019 - 1105",
+  period: "Thời Nhà Lý",
+  image: "URL ảnh đại diện Lý Thường Kiệt",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh tướng kiệt xuất thời nhà Lý, người chỉ huy cuộc kháng chiến chống quân Tống thế kỷ XI và là tác giả của bản 'Tuyên ngôn độc lập' đầu tiên của Việt Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lý Thường Kiệt tên thật là Ngô Tuấn, sinh năm 1019 tại kinh thành Thăng Long trong một gia đình truyền thống quan lại. Từ nhỏ ông đã thông minh, học rộng, giỏi cả văn lẫn võ. Sau này ông được ban quốc tính họ Lý và trở thành đại thần thân cận, giữ nhiều chức vụ quan trọng trong triều đình nhà Lý.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Tiêu biểu nhất là cuộc kháng chiến chống quân Tống (1075–1077). Ông thực hiện chiến lược 'tiên phát chế nhân', chủ động đánh sang đất Tống để phá thế xâm lược, sau đó xây dựng phòng tuyến sông Như Nguyệt đánh bại hoàn toàn quân địch. Bài thơ 'Nam Quốc Sơn Hà' tương truyền của ông đã khẳng định chủ quyền dân tộc và khích lệ tinh thần binh sĩ mạnh mẽ.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Để lại bài học về tinh thần yêu nước, ý chí bảo vệ độc lập và tư duy chiến lược chủ động 'tiên phát chế nhân'. Tấm gương của ông về sự chuẩn bị kỹ lưỡng, dám nghĩ dám làm và đặt lợi ích quốc gia lên trên hết vẫn là nguồn cảm hứng lớn cho thế hệ trẻ trong việc xây dựng và bảo vệ Tổ quốc hôm nay."
+},
+
+  {
+  name: "Trần Thái Tông",
+  year: "1218 - 1277",
+  period: "Nhà Trần",
+  image: "URL ảnh đại diện Trần Thái Tông",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị vua khai sáng triều Trần, nhà chính trị tài năng và nhà tư tưởng Phật giáo sâu sắc, người đặt nền móng vững chắc cho sự hưng thịnh của quốc gia.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Thái Tông tên thật là Trần Cảnh, sinh năm 1218 trong gia tộc họ Trần có thế lực lớn cuối thời Lý. Ông lên ngôi năm 1225 khi mới 8 tuổi sau cuộc chuyển giao quyền lực từ nhà Lý sang nhà Trần dưới sự sắp đặt của Trần Thủ Độ. Dù lên ngôi khi còn nhỏ và chịu nhiều áp lực chính trị, ông đã dần trưởng thành, khẳng định bản lĩnh của một vị quân chủ có tư duy độc lập và trách nhiệm.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong giai đoạn trị vì (1225–1258), ông chú trọng củng cố chính quyền, xây dựng quân đội và phát triển kinh tế. Thành tựu quân sự lớn nhất là trực tiếp lãnh đạo kháng chiến chống quân Mông Cổ lần thứ nhất (1258) giành thắng lợi. Sau khi nhường ngôi, ông làm Thái thượng hoàng cố vấn triều đình và nghiên cứu Phật học, để lại các tác phẩm giá trị như 'Khóa hư lục'.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Để lại bài học về sự kết hợp giữa 'trị quốc' và 'tu thân', đề cao đạo đức và bản lĩnh của người lãnh đạo. Tinh thần gánh vác trách nhiệm sớm, không ngừng học hỏi và chú trọng xây dựng nội lực quốc gia của ông vẫn là tấm gương sáng cho thế hệ trẻ và mang ý nghĩa quản trị đất nước bền vững cho đến ngày nay."
+},
+
+    {
+  name: "Trần Hưng Đạo",
+  year: "1228 - 1300",
+  period: "Thời Nhà Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị anh hùng dân tộc, danh tướng kiệt xuất thời Trần, người có công lớn trong ba lần lãnh đạo quân dân Đại Việt đánh bại quân xâm lược Mông – Nguyên thế kỷ XIII.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Hưng Đạo tên thật là Trần Quốc Tuấn, con của An Sinh Vương Trần Liễu, thuộc hoàng tộc nhà Trần. Ông là người văn võ toàn tài, học thức uyên thâm. Dù gia đình có biến cố, ông đã gác bỏ thù riêng, đặt đại nghĩa dân tộc và lòng trung quân lên trên hết để trở thành trụ cột của triều đình.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Giữ chức Quốc công Tiết chế, trực tiếp chỉ huy quân đội đánh bại quân Mông – Nguyên vào các năm 1258, 1285 và 1288. Ông nổi tiếng với chiến lược 'vườn không nhà trống' và chiến thắng lẫy lừng trên sông Bạch Đằng năm 1288. Ông còn là tác giả của 'Hịch tướng sĩ' và 'Binh thư yếu lược', những tác phẩm quân sự và cổ vũ tinh thần yêu nước bất hủ.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Ông là biểu tượng của tinh thần đại đoàn kết, ý chí quật cường và lòng yêu nước. Bài học về việc đặt lợi ích quốc gia lên trên cá nhân và tầm nhìn chiến lược của ông vẫn giữ nguyên giá trị trong công cuộc xây dựng, bảo vệ Tổ quốc và hội nhập quốc tế ngày nay."
+},
+
+    
 ];
