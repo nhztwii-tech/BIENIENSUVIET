@@ -506,5 +506,101 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   legacy: "Tấm gương của Trương Định là bài học về lòng yêu nước, bản lĩnh dám nghĩ dám làm và tinh thần trách nhiệm trước quốc gia. Ông truyền cảm hứng cho thế hệ trẻ hôm nay về ý chí kiên định, không lùi bước trước khó khăn để bảo vệ và xây dựng đất nước bền vững."
 },
 
+    {
+  name: "Nguyễn Trung Trực",
+  year: "1838 - 1868",
+  period: "Kháng chiến chống Pháp (Thế kỷ XIX)",
+  image: "",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nguyễn Trung Trực là thủ lĩnh nghĩa quân tiêu biểu trong phong trào kháng Pháp tại Nam Bộ, nổi tiếng với chiến công đốt tàu Hy Vọng và tinh thần bất khuất trước giặc.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Trung Trực (1838–1868), tên thật là Nguyễn Văn Lịch, sinh ra tại Long An trong một gia đình nông dân. Từ nhỏ, ông đã sớm bộc lộ tính cách nghĩa khí, gan dạ và tinh thần bênh vực kẻ yếu. Khi thực dân Pháp xâm lược Nam Kỳ, ông đã từ bỏ cuộc sống bình dị để gia nhập nghĩa quân, nhanh chóng trở thành một thủ lĩnh có uy tín nhờ tài năng và lòng yêu nước.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong thập niên 1860, ông lãnh đạo nghĩa quân đánh Pháp tại Tân An, Rạch Giá và Hà Tiên. Năm 1861, ông chỉ huy trận đánh vang dội đốt cháy tàu chiến L’Esperance (Hy Vọng) trên sông Vàm Cỏ Đông. Năm 1868, ông tiếp tục lập công khi đánh chiếm đồn Kiên Giang. Sau khi bị bắt và đưa đi hành hình tại Rạch Giá, ông đã để lại câu nói bất hủ: 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Cuộc đời ông là biểu tượng cho khí phách hiên ngang và lòng trung nghĩa của người dân Nam Bộ. Trong xã hội hiện đại, tinh thần Nguyễn Trung Trực là bài học quý giá về trách nhiệm công dân, sự dấn thân bảo vệ Tổ quốc và giữ gìn bản sắc dân tộc. Hình ảnh ông nhắc nhở thế hệ trẻ phải biết trân trọng độc lập, sống có lý tưởng và không ngừng nỗ lực đóng góp cho sự phát triển của đất nước."
+},
+
+    {
+  name: "Phan Đình Phùng",
+  year: "1847 - 1895",
+  period: "Phong trào Cần Vương",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lãnh tụ tiêu biểu nhất của phong trào Cần Vương cuối thế kỷ XIX, nổi tiếng với cuộc khởi nghĩa Hương Khê bền bỉ chống thực dân Pháp.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Phan Đình Phùng sinh năm 1847 tại làng Đông Thái, Hà Tĩnh trong một gia đình nhà nho truyền thống. Ông đỗ Đình nguyên Tiến sĩ năm 1877 và giữ chức quan chính trực dưới triều Tự Đức. Với tính cách kiên trung, ông từng dám can gián vua và sau đó từ bỏ quan lộ để tập trung vào sự nghiệp cứu nước khi thực dân Pháp xâm lược.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Hưởng ứng chiếu Cần Vương năm 1885, ông lãnh đạo cuộc khởi nghĩa Hương Khê tại vùng núi Hà Tĩnh. Cùng với Cao Thắng, ông xây dựng căn cứ, huấn luyện quân đội và tự chế tạo vũ khí hiện đại. Cuộc khởi nghĩa kéo dài hơn 10 năm (1885–1896), gây nhiều tổn thất cho quân Pháp và trở thành đỉnh cao của phong trào kháng chiến chống Pháp cuối thế kỷ XIX.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông để lại bài học vô giá về khí tiết, lòng yêu nước và ý chí bất khuất. Trong thời đại mới, tinh thần kiên định lý tưởng và sự chuẩn bị bài bản, tự cường của ông vẫn là nguồn cảm hứng lớn để thế hệ trẻ học tập, rèn luyện và bảo vệ tổ quốc."
+},
+
+    {
+  name: "Hoàng Hoa Thám",
+  year: "1858 - 1913",
+  period: "Thời kỳ Pháp thuộc",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Hoàng Hoa Thám (Đề Thám) là thủ lĩnh kiệt xuất của khởi nghĩa Yên Thế, biểu tượng bất khuất của phong trào chống Pháp cuối thế kỷ XIX - đầu thế kỷ XX.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Hoàng Hoa Thám sinh khoảng năm 1858 tại vùng trung du Bắc Kỳ (nay thuộc tỉnh Bắc Giang), xuất thân trong một gia đình nông dân nghèo. Tuổi trẻ của ông gắn liền với cuộc sống lao động vất vả và sớm chứng kiến cảnh đất nước bị xâm lược, nhân dân lầm than. Điều đó đã hun đúc trong ông tinh thần phản kháng mạnh mẽ và ý chí đứng lên chống lại ách thống trị của thực dân Pháp.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là lãnh tụ tiêu biểu của Khởi nghĩa Yên Thế, phong trào đấu tranh vũ trang chống Pháp kéo dài nhất (gần 30 năm). Dưới sự lãnh đạo của ông, nghĩa quân xây dựng căn cứ vững chắc tại Yên Thế, áp dụng chiến thuật du kích linh hoạt, nhiều lần đánh bại các cuộc càn quét lớn của địch. Dù bị đàn áp khốc liệt, ông vẫn kiên trì chiến đấu cho đến khi hy sinh vào năm 1913.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông nhắc nhở thế hệ hôm nay về lòng yêu nước, ý chí tự cường và tinh thần bền bỉ. Trong bối cảnh hiện đại, giá trị này thể hiện qua việc kiên định mục tiêu học tập, rèn luyện để bảo vệ Tổ quốc. Tinh thần đoàn kết và sáng tạo của ông vẫn là bài học quan trọng trong công cuộc phát triển đất nước thời đại mới."
+},
+
+    {
+  name: "Phan Bội Châu",
+  year: "1867 - 1940",
+  period: "Thời kỳ Pháp thuộc",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lãnh tụ tiêu biểu của phong trào yêu nước đầu thế kỷ XX, người khởi xướng xu hướng dân chủ tư sản và phong trào Đông Du.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Sinh năm 1867 tại Nghệ An trong một gia đình nhà nho yêu nước. Từ nhỏ đã nổi tiếng thông minh, sớm tiếp thu giáo dục Nho học và nuôi chí lớn cứu nước trong bối cảnh đất nước bị thực dân Pháp đô hộ.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Tổ chức phong trào Đông Du đưa thanh niên sang Nhật Bản học tập; thành lập Hội Duy Tân nhằm canh tân đất nước. Sau đó hoạt động tại Trung Quốc, lập Việt Nam Quang Phục Hội với mục tiêu giành độc lập dân tộc. Dù bị bắt giam nhiều lần, ông vẫn kiên trì con đường cách mạng.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương sáng về lòng yêu nước, tinh thần tự học và ý chí đổi mới tư duy. Truyền cảm hứng cho thế hệ trẻ về trách nhiệm với Tổ quốc, tinh thần chủ động tiếp thu tri thức hiện đại để xây dựng và bảo vệ đất nước bền vững."
+},
+
+    {
+  name: "Phan Châu Trinh",
+  year: "1872 - 1926",
+  period: "Thời kỳ Pháp thuộc",
+  image: "",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà yêu nước tiêu biểu đầu thế kỷ XX với tư tưởng canh tân, chủ trương 'khai dân trí, chấn dân khí, hậu dân sinh' để giành độc lập thay vì đấu tranh vũ trang.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Phan Châu Trinh sinh năm 1872 tại Quảng Nam trong một gia đình nhà Nho yêu nước. Cha ông từng tham gia phong trào Cần Vương. Năm 1901, ông đỗ Phó bảng nhưng sớm từ quan để tìm con đường cứu nước mới thông qua con đường cải cách xã hội.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là linh hồn của phong trào Duy Tân, cổ vũ đổi mới giáo dục, kinh tế và lối sống. Khác với xu hướng bạo động của Phan Bội Châu, ông chủ trương cải cách ôn hòa, bãi bỏ quân chủ chuyên chế và yêu cầu chính quyền thực dân thực thi dân chủ. Ông từng sang Pháp vận động và diễn thuyết trước khi về nước tiếp tục truyền bá tư tưởng dân chủ năm 1925.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tư tưởng của ông về vai trò của giáo dục (nâng cao dân trí), ý thức công dân và tinh thần tự lực tự cường vẫn là những bài học quý giá cho công cuộc đổi mới, xây dựng xã hội dân chủ và hội nhập quốc tế của Việt Nam ngày nay."
+},
+
+    {
+  name: "Nguyễn Tất Thành",
+  year: "1890 - 1945",
+  period: "Thời kỳ đấu tranh giải phóng dân tộc",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lãnh tụ vĩ đại của dân tộc Việt Nam, người tìm ra con đường giải phóng dân tộc theo hướng cách mạng vô sản và đặt nền móng cho Đảng Cộng sản Việt Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Sinh ngày 19/5/1890 tại làng Kim Liên, Nam Đàn, Nghệ An trong một gia đình nhà nho yêu nước. Cha là Nguyễn Sinh Sắc và mẹ là Hoàng Thị Loan. Tuổi thơ của Người gắn liền với cảnh nước mất nhà tan, từ đó sớm hun đúc lòng yêu nước và ý chí cứu nước mãnh liệt.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1911, Người rời bến Nhà Rồng ra đi tìm đường cứu nước, bôn ba qua nhiều châu lục và tiếp cận chủ nghĩa Mác – Lênin. Năm 1930, Người sáng lập Đảng Cộng sản Việt Nam. Năm 1945, Người trở về lãnh đạo Cách mạng Tháng Tám thành công, khai sinh ra nước Việt Nam Dân chủ Cộng hòa.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Để lại tấm gương sáng ngời về lòng yêu nước, ý chí tự học và khát vọng vươn ra thế giới. Thế hệ trẻ hôm nay học được ở Người tinh thần dấn thân, bản lĩnh kiên trì và tư duy độc lập để xây dựng, bảo vệ Tổ quốc trong thời đại hội nhập."
+},
+
     
 ];
