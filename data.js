@@ -10,30 +10,54 @@ window.HISTORICAL_DATA = [
   activities: "Theo truyền thuyết, Kinh Dương Vương được Đế Minh giao cai quản phương Nam và đã lập nên nước Xích Quỷ – nhà nước sơ khai đầu tiên của người Việt cổ. Ông góp phần gắn kết các bộ lạc, ổn định đời sống cư dân và hình thành ý thức cộng đồng ban đầu. Ông là người mở đầu dòng dõi vua Hùng thông qua Lạc Long Quân, đánh dấu giai đoạn hình thành quốc gia sơ khai.",
   legacy: "Kinh Dương Vương mang giá trị biểu tượng về cội nguồn dân tộc, khơi dậy tinh thần đoàn kết và ý thức chung về nguồn gốc Việt Nam. Hình tượng ông góp phần nuôi dưỡng niềm tự hào dân tộc, nhắc nhở trách nhiệm gìn giữ bản sắc văn hóa và tiếp tục xây dựng đất nước bền vững trong hiện tại và tương lai."
 },
-
-    {
-        name: "Hùng Vương",
-        year: "2879 TCN - 258 TCN",
-        period: "Thời kỳ Hồng Bàng",
-        image: "https://images.unsplash.com/photo-1621066551323-863a3434199c?auto=format&fit=crop&q=80&w=1000",
-        side: "left",
-        summary: "Hùng Vương là danh hiệu dùng để chỉ các vị vua cai trị nhà nước Văn Lang - nhà nước đầu tiên của người Việt. Đây là biểu tượng của sự đoàn kết và nguồn gốc 'Con Rồng Cháu Tiên'.",
-        biography: "Theo truyền thuyết, Hùng Vương là con trưởng của Lạc Long Quân và Âu Cơ. Sau khi cha mẹ chia 100 người con (50 lên rừng, 50 xuống biển), người con cả lên làm vua, đóng đô ở Phong Châu (Phú Thọ ngày nay).",
-        activities: "Trong suốt 18 đời vua Hùng, các ngài đã có công khai phá vùng đất phù sa sông Hồng, dạy dân trồng lúa nước, dệt vải và chăn nuôi. Thời kỳ này cũng hình thành các phong tục đặc trưng như bánh chưng bánh giầy, xăm mình để tránh thủy quái.",
-        legacy: `Ngày nay, tín ngưỡng thờ cúng Hùng Vương đã trở thành Di sản văn hóa phi vật thể của nhân loại. <img src="https://images.unsplash.com/photo-1599707334391-702214420712?auto=format&fit=crop&q=80&w=800" alt="Lễ hội Đền Hùng"> Câu nói của Bác Hồ: "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước" là kim chỉ nam cho lòng yêu nước của mọi thế hệ Việt Nam.`
-    },
     
-    {
-        name: "Thục Phán – An Dương Vương",
-        year: "Thế kỉ III TCN – khoảng 179 TCN",
-        period: "Thời kỳ Âu Lạc",
-        image: "image/AnDuongVuong.jpg",
-        side: "right",
-        summary: "An Dương Vương (Thục Phán) là vị vua sáng lập nước Âu Lạc, nổi bật với việc xây thành Cổ Loa và chế tạo nỏ thần. Ông để lại bài học lịch sử sâu sắc về sự cảnh giác trong bảo vệ đất nước qua câu chuyện Mỵ Châu – Trọng Thủy.",
-        biography: "Tên thật là Thục Phán, ông được tôn xưng là An Dương Vương sau khi lên ngôi. Xuất thân là thủ lĩnh người Âu Việt, sống ở vùng núi phía Bắc (nay thuộc Bắc Bộ Việt Nam), vào khoảng thế kỉ III TCN. Ông đã thống nhất hai bộ tộc Âu Việt và Lạc Việt, thành lập nước Âu Lạc – một bước ngoặt lớn trong lịch sử dân tộc. Triều đại của ông kết thúc khoảng năm 179 TCN khi Âu Lạc thất bại trước Nam Việt của Triệu Đà.",
-        activities: "An Dương Vương có ba đóng góp nổi bật trong quá trình trị vì:\n\nVề xây dựng đất nước: Ông hợp nhất các bộ tộc Âu Việt và Lạc Việt để lập nước Âu Lạc, dời đô về Cổ Loa và cho xây thành Cổ Loa với kiến trúc xoáy ốc độc đáo, quy mô lớn – một công trình phòng thủ tiêu biểu của thời đại.\n\nVề phát triển quân sự: Ông chủ trương chế tạo nỏ thần – vũ khí lợi hại bậc nhất thời bấy giờ – và xây dựng đội quân hùng mạnh, đủ sức chống lại các thế lực ngoại xâm.\n\nVề chống ngoại xâm: Ban đầu ông nhiều lần đánh bại quân xâm lược của Triệu Đà. Tuy nhiên, về sau do mất cảnh giác, bí mật quân sự bị lộ qua câu chuyện Mỵ Châu – Trọng Thủy, khiến Âu Lạc rơi vào tay Triệu Đà.",
-        legacy: "Giá trị lớn nhất An Dương Vương để lại là bài học về sự kết hợp giữa xây dựng và bảo vệ đất nước. Ông cho thấy muốn phát triển bền vững cần có nền tảng vững chắc từ đoàn kết dân tộc, tổ chức quốc gia và sức mạnh quốc phòng.\n\nĐồng thời, thất bại của ông trước Triệu Đà cũng là lời nhắc nhở xuyên thời đại: dù trong thời kỳ hội nhập hay phát triển, không được chủ quan hay mất cảnh giác trước những âm mưu bên ngoài. Người lãnh đạo phải luôn đề cao trách nhiệm với vận mệnh dân tộc, giữ vững bản lĩnh và bảo vệ lợi ích quốc gia lên trên hết."
-    },
+{
+  name: "Lạc Long Quân",
+  year: "Khoảng thiên niên kỷ III TCN",
+  period: "Thời kỳ Hùng Vương (truyền thuyết dựng nước đầu tiên)",
+  image: "URL_anh_lac_long_quan",
+  side: "left",
+  summary: "Lạc Long Quân là nhân vật huyền thoại, được xem là tổ phụ của người Việt, gắn với truyền thuyết Con Rồng Cháu Tiên.",
+  biography: "Lạc Long Quân (còn gọi là Sùng Lãm) là con của Kinh Dương Vương và Long Nữ, thuộc dòng dõi rồng trong truyền thuyết dân gian Việt Nam. Ông sinh sống vào khoảng thiên niên kỷ III TCN, được miêu tả là người có sức mạnh và tài năng phi thường, gắn liền với buổi đầu hình thành cộng đồng Lạc Việt.",
+  activities: "Lạc Long Quân được truyền thuyết kể là người có công diệt trừ yêu quái, giúp bảo vệ cuộc sống bình yên cho cư dân Lạc Việt, đồng thời dạy dân cách trồng trọt, chăn nuôi và ổn định đời sống. Ông kết duyên với Âu Cơ, sinh ra bọc trăm trứng, nở thành một trăm người con. Sau đó, năm mươi con theo cha xuống biển, năm mươi con theo mẹ lên núi để cai quản các vùng, hình thành nên cộng đồng người Việt cổ.",
+  legacy: `Lạc Long Quân mang giá trị sâu sắc trong việc hình thành ý thức cội nguồn dân tộc với truyền thuyết “Con Rồng Cháu Tiên”, góp phần nuôi dưỡng tinh thần đoàn kết, gắn bó của người Việt. Hình tượng ông còn thể hiện khát vọng chinh phục tự nhiên, xây dựng đời sống ổn định và phát triển bền vững, có ý nghĩa lâu dài đối với việc giáo dục tinh thần dân tộc và ý thức cộng đồng trong xã hội hiện nay.`
+},
+    
+{
+name: "Âu Cơ",
+year: "Không rõ (truyền thuyết thời kỳ Hùng Vương)",
+period: "Thời kỳ Hùng Vương (truyền thuyết)",
+image: "URL_ẢNH_ÂU_CƠ",
+side: "left",
+summary: "Âu Cơ là nhân vật truyền thuyết, được xem là Quốc Mẫu của người Việt, gắn với tích bọc trăm trứng sinh ra trăm người con. Bà cùng Lạc Long Quân tạo nên nguồn gốc chung của dân tộc Việt Nam.",
+biography: "Âu Cơ là con gái của Đế Lai, thuộc dòng tiên, sống theo truyền thuyết vào khoảng thiên niên kỷ III TCN. Bà mang vẻ đẹp và phẩm chất cao quý, xuất thân từ vùng núi cao. Sau khi gặp Lạc Long Quân, bà kết duyên và trở thành người mẹ của trăm người con, được xem là tổ tiên của các vua Hùng và dân tộc Việt.",
+activities: "Theo truyền thuyết, Âu Cơ cùng Lạc Long Quân sinh ra bọc trăm trứng, nở thành trăm người con. Do khác biệt nguồn gốc tiên – rồng, hai người chia tay, Âu Cơ dẫn 50 người con lên núi sinh sống. Tại đây, bà góp phần mở mang vùng núi, xây dựng cuộc sống và hình thành cộng đồng cư dân miền cao thời kỳ đầu.",
+legacy: "Hình tượng Âu Cơ mang ý nghĩa sâu sắc về cội nguồn dân tộc và tinh thần đoàn kết 'con Rồng cháu Tiên'. Câu chuyện bọc trăm trứng nhấn mạnh mọi người Việt đều chung một nguồn gốc, tăng cường sự gắn kết cộng đồng. Đồng thời, hình ảnh bà còn thể hiện vai trò người mẹ và tinh thần khai phá, xây dựng bền vững của con người Việt Nam."
+},    
+
+{
+name: "Hùng Vương",
+year: "2879 TCN - 258 TCN",
+period: "Thời kỳ Hùng Vương – Văn Lang",
+image: "",
+side: "left",
+summary: "Hùng Vương là danh xưng chung của các vị vua đầu tiên của nước Văn Lang, có công dựng nên nhà nước sơ khai của người Việt cổ. Đây là thời kỳ đặt nền móng cho quốc gia và bản sắc dân tộc Việt Nam.",
+biography: "Hùng Vương được xem là hậu duệ của Lạc Long Quân và Âu Cơ, thuộc truyền thuyết 'con Rồng cháu Tiên'. Theo truyền thuyết, có 18 đời vua Hùng thay nhau trị vì nước Văn Lang trong khoảng thiên niên kỷ II–III TCN. Kinh đô đặt tại Phong Châu (thuộc Phú Thọ ngày nay), quản lý các bộ lạc Lạc Việt trong một nhà nước sơ khai.",
+activities: "Trong quá trình cai trị, các vua Hùng đã bước đầu xây dựng bộ máy nhà nước đơn giản, chia đất nước thành các bộ do Lạc tướng đứng đầu. Họ chú trọng phát triển nông nghiệp lúa nước, đúc đồng gắn với văn hóa Đông Sơn, ổn định đời sống nhân dân và tăng cường đoàn kết giữa các bộ lạc. Đồng thời, thời kỳ này cũng gắn với các truyền thuyết chống ngoại xâm như Thánh Gióng đánh giặc Ân.",
+legacy: Thời đại Hùng Vương để lại giá trị to lớn về ý thức cội nguồn và truyền thống “uống nước nhớ nguồn” của dân tộc Việt Nam. Đây là giai đoạn khẳng định quá trình dựng nước từ rất sớm, góp phần hình thành tinh thần đoàn kết và lòng yêu nước. Những giá trị ấy đến nay vẫn có ý nghĩa quan trọng, giúp thế hệ trẻ giữ gìn bản sắc văn hóa, phát huy truyền thống dân tộc và hướng tới xây dựng đất nước phát triển bền vững trong thời kỳ hội nhập.
+},
+    
+{
+name: "Thục Phán - An Dương Vương",
+year: "khoảng thế kỷ III TCN",
+period: "Thời kỳ Âu Lạc",
+image: "CHEN_LINK_ANH",
+side: "left",
+summary: "Vua sáng lập nước Âu Lạc, thống nhất các bộ lạc Âu Việt và Lạc Việt sau thời Hùng Vương, xây dựng thành Cổ Loa. Gắn liền với bài học cảnh giác qua truyền thuyết Mỵ Châu – Trọng Thủy.",
+biography: "Thục Phán là thủ lĩnh người Âu Việt, sống vào khoảng thế kỷ III TCN. Sau khi đánh bại các vua Hùng, ông lên ngôi, lấy hiệu An Dương Vương và lập nên nước Âu Lạc. Ông chọn vùng đất Cổ Loa (nay thuộc Hà Nội) làm kinh đô, thể hiện tầm nhìn chiến lược về chính trị và quân sự.",
+activities: "Trong thời kỳ trị vì, Thục Phán An Dương Vương cho xây dựng thành Cổ Loa kiên cố, tổ chức bộ máy nhà nước và phát triển lực lượng quân sự với nỏ liên châu. Ông lãnh đạo nhân dân chống lại sự xâm lược của Triệu Đà và ban đầu giành thắng lợi. Tuy nhiên, do mất cảnh giác và bị nội gián (Trọng Thủy), Âu Lạc dần suy yếu và cuối cùng sụp đổ.",
+legacy: Hình tượng Thục Phán An Dương Vương để lại bài học sâu sắc về tinh thần xây dựng và bảo vệ đất nước, cũng như tầm quan trọng của quốc phòng vững mạnh. Đồng thời nhấn mạnh sự cảnh giác trước âm mưu xâm lược từ bên ngoài. Câu chuyện cũng nhắc nhở thế hệ hôm nay phải đặt lợi ích quốc gia lên trên hết, giữ vững bản lĩnh và không chủ quan trong mọi hoàn cảnh, đặc biệt trong bối cảnh hội nhập và cạnh tranh toàn cầu.
+},
     {
         name: "Hai Bà Trưng",
         year: "14 - 43",
