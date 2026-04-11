@@ -1,5 +1,17 @@
 window.HISTORICAL_DATA = [
     {
+  name: "Kinh Dương Vương",
+  year: "Thời kỳ Hồng Bàng (truyền thuyết)",
+  period: "Thời kỳ dựng nước đầu tiên",
+  image: "URL_ẢNH",
+  side: "left",
+  summary: "Kinh Dương Vương được xem là thủy tổ của người Việt, người sáng lập nước Xích Quỷ trong truyền thuyết. Ông là biểu tượng cho nguồn gốc lâu đời và sự hình thành sớm của dân tộc Việt Nam.",
+  biography: "Kinh Dương Vương, tên thật Lộc Tục, là con của Đế Minh. Ông được giao cai quản phương Nam và được xem là người đặt nền móng cho nhà nước sơ khai Xích Quỷ. Ông kết duyên với Long Nữ và sinh ra Lạc Long Quân, mở đầu dòng dõi các vua Hùng. Dù mang yếu tố truyền thuyết, nhân vật này thể hiện quan niệm về cội nguồn và sự hình thành dân tộc Việt từ rất sớm.",
+  activities: "Theo truyền thuyết, Kinh Dương Vương được Đế Minh giao cai quản phương Nam và đã lập nên nước Xích Quỷ – nhà nước sơ khai đầu tiên của người Việt cổ. Ông góp phần gắn kết các bộ lạc, ổn định đời sống cư dân và hình thành ý thức cộng đồng ban đầu. Ông là người mở đầu dòng dõi vua Hùng thông qua Lạc Long Quân, đánh dấu giai đoạn hình thành quốc gia sơ khai.",
+  legacy: "Kinh Dương Vương mang giá trị biểu tượng về cội nguồn dân tộc, khơi dậy tinh thần đoàn kết và ý thức chung về nguồn gốc Việt Nam. Hình tượng ông góp phần nuôi dưỡng niềm tự hào dân tộc, nhắc nhở trách nhiệm gìn giữ bản sắc văn hóa và tiếp tục xây dựng đất nước bền vững trong hiện tại và tương lai."
+},
+
+    {
         name: "Hùng Vương",
         year: "2879 TCN - 258 TCN",
         period: "Thời kỳ Hồng Bàng",
@@ -10,6 +22,7 @@ window.HISTORICAL_DATA = [
         activities: "Trong suốt 18 đời vua Hùng, các ngài đã có công khai phá vùng đất phù sa sông Hồng, dạy dân trồng lúa nước, dệt vải và chăn nuôi. Thời kỳ này cũng hình thành các phong tục đặc trưng như bánh chưng bánh giầy, xăm mình để tránh thủy quái.",
         legacy: `Ngày nay, tín ngưỡng thờ cúng Hùng Vương đã trở thành Di sản văn hóa phi vật thể của nhân loại. <img src="https://images.unsplash.com/photo-1599707334391-702214420712?auto=format&fit=crop&q=80&w=800" alt="Lễ hội Đền Hùng"> Câu nói của Bác Hồ: "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước" là kim chỉ nam cho lòng yêu nước của mọi thế hệ Việt Nam.`
     },
+    
     {
         name: "Thục Phán – An Dương Vương",
         year: "Thế kỉ III TCN – khoảng 179 TCN",
