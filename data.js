@@ -602,5 +602,453 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   legacy: "Để lại tấm gương sáng ngời về lòng yêu nước, ý chí tự học và khát vọng vươn ra thế giới. Thế hệ trẻ hôm nay học được ở Người tinh thần dấn thân, bản lĩnh kiên trì và tư duy độc lập để xây dựng, bảo vệ Tổ quốc trong thời đại hội nhập."
 },
 
+    {
+  name: "Thiệu Trị (Nguyễn Phúc Miên Tông)",
+  year: "1841 - 1847",
+  period: "Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị hoàng đế thứ ba của triều Nguyễn, người nỗ lực duy trì trật tự Nho giáo và bảo vệ chủ quyền quốc gia theo đường lối của vua cha Minh Mạng.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Thiệu Trị tên thật là Nguyễn Phúc Miên Tông, sinh năm 1807, là con trưởng của vua Minh Mạng. Ông được giáo dục kỹ lưỡng theo Nho học từ nhỏ và sớm được chọn làm người kế vị. Sau khi vua cha qua đời năm 1841, ông lên ngôi lấy niên hiệu là Thiệu Trị. Ông được biết đến là người hiếu học, giỏi văn chương và có tâm huyết với việc trị nước.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong giai đoạn trị vì, Thiệu Trị tiếp tục duy trì mô hình quân chủ tập quyền, chú trọng bảo vệ lãnh thổ và trật tự xã hội. Ông thực hiện chính sách cứng rắn đối với hoạt động truyền đạo Thiên Chúa và sự xâm nhập của phương Tây để bảo vệ văn hóa truyền thống. Tuy nhiên, triều đại của ông chủ yếu tập trung vào việc giữ ổn định, chưa có những cải cách mang tính đột phá trước những biến động lớn của thời đại.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Thiệu Trị để lại bài học về lòng tự tôn dân tộc và ý thức bảo vệ bản sắc văn hóa. Tuy nhiên, sự bảo thủ của triều đại ông cũng là lời nhắc nhở sâu sắc cho thế hệ hôm nay: bên cạnh việc giữ gìn truyền thống, cần phải chủ động đổi mới, học hỏi và thích ứng với sự thay đổi của thế giới để phát triển đất nước bền vững."
+},
+
+    {
+  name: "Nguyễn Công Trứ",
+  year: "1778 - 1858",
+  period: "Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Một danh nhân lớn thời nhà Nguyễn, nổi bật trong nhiều lĩnh vực từ chính trị, quân sự đến văn học, với tư tưởng sống phóng khoáng và chí làm trai lừng lẫy.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Công Trứ sinh năm 1778 tại Hà Tĩnh trong một gia đình nhà nho nghèo. Dù con đường thi cử lận đận, mãi đến năm 41 tuổi mới đỗ Giải nguyên, ông vẫn luôn nuôi chí lớn và tin vào tài năng của bản thân để vượt qua nghịch cảnh, lập thân và cống hiến cho đất nước.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông từng giữ nhiều chức vụ quan trọng như Doanh điền sứ, Thượng thư dưới triều Nguyễn. Dấu ấn lớn nhất của ông là công cuộc khai hoang lập ấp tại Tiền Hải (Thái Bình) và Kim Sơn (Ninh Bình), mở mang bờ cõi và phát triển kinh tế. Trên quan trường, ông là người cương trực, dù nhiều lần bị giáng chức vẫn giữ vững khí tiết. Ngoài ra, ông còn để lại kho tàng thơ Nôm đặc sắc với phong cách 'ngông' đầy khí phách.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Cuộc đời ông là tấm gương về lý tưởng sống, bản lĩnh vững vàng và tinh thần trách nhiệm với xã hội. Triết lý 'làm trai cho đáng nên trai' và sự kết hợp giữa cống hiến cộng đồng với việc giữ gìn bản sắc cá nhân của ông vẫn là nguồn cảm hứng mạnh mẽ cho thế hệ trẻ hôm nay trong việc học tập và rèn luyện."
+},
+
+    {
+  name: "Nguyễn Tri Phương",
+  year: "1800 - 1873",
+  period: "Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị danh tướng, đại thần tiêu biểu của triều Nguyễn, biểu tượng của tinh thần trung quân ái quốc và ý chí kiên cường chống thực dân Pháp xâm lược.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Tri Phương (1800–1873), tên thật là Nguyễn Văn Chương, quê tại Thừa Thiên Huế. Xuất thân từ gia đình nông dân và không qua con đường khoa cử, nhưng nhờ tài năng xuất chúng và sự tận tụy, ông đã được thăng tiến qua nhiều chức vụ quan trọng như Tổng đốc, Thượng thư, trở thành trụ cột của triều đình.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là vị tướng nắm giữ những trọng trách quân sự cam go nhất, tiêu biểu là chỉ huy chống Pháp tại mặt trận Gia Định (1859) và bảo vệ thành Hà Nội (1873). Trong trận chiến giữ thành Hà Nội, dù lực lượng chênh lệch, ông vẫn kiên quyết chiến đấu đến cùng. Khi bị thương và rơi vào tay giặc, ông đã chọn cách tuyệt thực để giữ trọn khí tiết, không chịu khuất phục trước kẻ thù.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Cuộc đời Nguyễn Tri Phương là bài học sâu sắc về lòng yêu nước, tinh thần trách nhiệm và khí tiết bất khuất của người lãnh đạo. Tấm gương của ông truyền cảm hứng cho thế hệ trẻ hôm nay về bản lĩnh sống có lý tưởng, luôn đặt lợi ích của quốc gia và dân tộc lên hàng đầu trước mọi thử thách của thời đại."
+},
+
+    {
+  name: "Hoàng Diệu",
+  year: "1829 - 1882",
+  period: "Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị quan trung nghĩa tiêu biểu của triều Nguyễn, người đã anh dũng chiến đấu và tuẫn tiết để bảo vệ thành Hà Nội trước cuộc xâm lược của thực dân Pháp.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Hoàng Diệu (1829–1882) sinh ra trong một gia đình hiếu học tại Quảng Nam. Ông đỗ cử nhân và làm quan dưới triều Nguyễn, kinh qua nhiều chức vụ quan trọng. Ông nổi tiếng là người thanh liêm, chính trực, luôn được triều đình tin tưởng giao phó những trọng trách then chốt nhờ tài năng và đức độ.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1882, với cương vị Tổng đốc Hà Ninh, ông trực tiếp chỉ huy cuộc phòng thủ thành Hà Nội trước cuộc tấn công của quân Pháp do Henri Rivière cầm đầu. Dù hỏa lực đối phương mạnh áp đảo và quân triều đình gặp nhiều khó khăn, ông vẫn kiên quyết bám trụ chiến đấu. Khi thành thất thủ, để giữ trọn danh dự và khí tiết của một vị quan đầu triều, ông đã tuẫn tiết tại Võ Miếu.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hoàng Diệu là biểu tượng sáng ngời về lòng yêu nước và tinh thần trách nhiệm của người lãnh đạo. Tấm gương của ông nhắc nhở thế hệ trẻ hôm nay về việc giữ gìn danh dự cá nhân, lòng kiên định trước thử thách và luôn đặt lợi ích quốc gia lên trên hết để cống hiến cho sự nghiệp xây dựng đất nước."
+},
+
+    {
+  name: "Phan Thanh Giản",
+  year: "1796 - 1867",
+  period: "Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Một đại thần lỗi lạc của triều Nguyễn, nổi tiếng với sự thanh liêm và những nỗ lực ngoại giao không mệt mỏi trong bối cảnh thực dân Pháp xâm lược.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Phan Thanh Giản sinh năm 1796 tại Vĩnh Long trong một gia đình nhà nho nghèo hiếu học. Năm 1826, ông đỗ Tiến sĩ dưới triều Minh Mạng, trở thành người đỗ đạt cao hiếm hoi ở Nam Bộ thời bấy giờ. Với phẩm chất thanh liêm và tài năng vượt trội, ông được triều đình tin tưởng giao phó nhiều trọng trách qua các đời vua Minh Mạng, Thiệu Trị và Tự Đức.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông từng giữ chức Thượng thư, Kinh lược sứ và là nhà ngoại giao chủ chốt. Năm 1862, ông tham gia ký Hòa ước Nhâm Tuất và sau đó đi sứ sang Pháp để đàm phán chuộc lại ba tỉnh miền Đông nhưng không thành. Năm 1867, trước sức mạnh áp đảo của quân Pháp tại ba tỉnh miền Tây, với cương vị Tổng đốc Vĩnh Long, ông đã quyết định giao thành không kháng cự để tránh đổ máu cho dân chúng, sau đó uống thuốc độc tự vẫn để giữ trọn khí tiết và trách nhiệm với đất nước.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Cuộc đời ông để lại bài học về lòng trung thực, tinh thần trách nhiệm và sự dấn thân vì quốc gia. Những quyết định lịch sử của ông vẫn gợi mở cho thế hệ hôm nay về tầm quan trọng của bản lĩnh chính trị, tầm nhìn chiến lược và sự quyết đoán trong việc bảo vệ chủ quyền dân tộc. Ông là minh chứng cho một nhân cách lớn luôn trăn trở trước vận mệnh dân tộc trong cơn biến động."
+},
+
+    {
+  name: "Nguyễn Du",
+  year: "1765 - 1820",
+  period: "Thời Lê Trung hưng - Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Đại thi hào dân tộc, danh nhân văn hóa thế giới, tác giả của kiệt tác Truyện Kiều và là người đưa tiếng Việt cùng thể thơ lục bát đạt đến đỉnh cao nghệ thuật.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Du (tên chữ là Tố Như, hiệu Thanh Hiên) sinh ra tại Thăng Long trong một gia đình đại quý tộc có truyền thống khoa bảng. Cha là Nguyễn Nghiễm, từng giữ chức tể tướng triều Lê. Quê gốc của ông ở Tiên Điền, Hà Tĩnh. Ông sống trong giai đoạn lịch sử đầy biến động cuối thế kỷ XVIII - đầu thế kỷ XIX, chứng kiến sự sụp đổ của triều Lê - Trịnh và sự trỗi dậy của nhà Tây Sơn rồi nhà Nguyễn.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Cuộc đời ông trải qua nhiều thăng trầm, từng có mười năm lưu lạc 'gió bụi' sau khi nhà Lê sụp đổ. Dưới triều Nguyễn, ông ra làm quan và từng giữ chức Cần chánh điện học sĩ, sau đó được cử làm chánh sứ đi sang Trung Quốc năm 1813. Sự nghiệp văn chương của ông đồ sộ với các tập thơ chữ Hán như Thanh Hiên thi tập, Nam trung tạp ngâm và đặc biệt là Truyện Kiều (Đoạn trường tân thanh) cùng Văn tế thập loại chúng sinh bằng chữ Nôm.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Nguyễn Du để lại bài học về lòng nhân ái bao la, sự thấu cảm sâu sắc với những thân phận nhỏ bé và ý thức bảo tồn ngôn ngữ dân tộc. Di sản của ông không chỉ là những tác phẩm nghệ thuật bậc thầy mà còn là tinh thần nhân đạo cao cả, nhắc nhở thế hệ hôm nay về trách nhiệm bảo vệ những giá trị văn hóa tốt đẹp và xây dựng một xã hội đầy tình yêu thương trong bối cảnh hội nhập quốc tế."
+},
+
+    {
+  name: "Cao Bá Quát",
+  year: "1809 - 1855",
+  period: "Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh sĩ lỗi lạc thời Nguyễn được mệnh danh là 'Thánh Quát', nổi tiếng với tài văn chương xuất chúng và khí phách hiên ngang, dám đứng lên chống lại bất công.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Cao Bá Quát sinh năm 1809 tại làng Phú Thị, huyện Gia Lâm (Hà Nội) trong một gia đình nhà nho nghèo có truyền thống hiếu học. Từ nhỏ ông đã bộc lộ trí thông minh thiên bẩm, văn hay chữ tốt. Tuy nhiên, do tính cách thẳng thắn, ngang tàng và không chịu luồn cúi, đường khoa cử của ông gặp nhiều trắc trở, nhiều lần thi trượt hoặc bị đánh hỏng dù tài năng vượt trội.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông từng ra làm quan dưới triều Nguyễn nhưng sớm bất mãn với chế độ quan liêu bảo thủ. Sau nhiều lần bị giáng chức và tù đày, tiêu biểu là vụ án sửa bài thi cho thí sinh, ông đã chọn con đường đấu tranh trực diện. Năm 1854, ông tham gia lãnh đạo cuộc khởi nghĩa Mỹ Lương chống lại triều đình để bênh vực nhân dân lao khổ. Cuộc khởi nghĩa thất bại, ông bị xử tử, khép lại cuộc đời đầy bi tráng của một bậc trí thức yêu tự do.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Cao Bá Quát là biểu tượng của bản lĩnh cá nhân và tinh thần chính trực, không thỏa hiệp với tiêu cực. Di sản của ông để lại là bài học về lòng trung thực, khí chất độc lập và trách nhiệm của người trí thức đối với xã hội. Hình tượng của ông nhắc nhở thế hệ trẻ hôm nay cần có chính kiến rõ ràng, dám bảo vệ lẽ phải và không ngừng rèn luyện tài năng đi đôi với đạo đức."
+},
+
+    {
+  name: "Nguyễn Đình Chiểu",
+  year: "1822 - 1888",
+  period: "Nhà Nguyễn / Thời kỳ chống Pháp",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà thơ, nhà văn hóa lớn của dân tộc, biểu tượng cho tinh thần yêu nước quật cường và đạo lý nhân nghĩa sáng ngời dù trong hoàn cảnh mù lòa.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Đình Chiểu sinh năm 1822 tại Gia Định trong một gia đình nhà nho. Ông vốn thông minh, hiếu học từ nhỏ nhưng cuộc đời gặp nhiều biến cố đau thương: mẹ mất khi đang đi thi, vì khóc thương mẹ mà ông bị mù lòa. Dù vậy, ông không đầu hàng số phận, vẫn giữ vững khí tiết và tâm huyết với vận mệnh đất nước.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau khi mù, ông về quê mở trường dạy học, bốc thuốc chữa bệnh và dùng ngòi bút làm vũ khí chiến đấu. Khi thực dân Pháp xâm lược, ông kiên quyết giữ thái độ bất hợp tác với giặc. Những tác phẩm bất hủ như 'Lục Vân Tiên' hay 'Văn tế nghĩa sĩ Cần Giuộc' đã cổ vũ mạnh mẽ tinh thần đấu tranh của nhân dân và ca ngợi những người anh hùng nông dân xả thân vì nghĩa lớn.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông là bài học vô giá về ý chí vượt khó và lòng yêu nước không bao giờ vơi cạn. Di sản của ông nhắc nhở thế hệ trẻ ngày nay về trách nhiệm dùng tri thức để phụng sự Tổ quốc, sống có đạo đức và giữ gìn bản sắc văn hóa dân tộc. Tinh thần của cụ đồ Chiểu vẫn luôn là kim chỉ nam cho lối sống 'trọng nghĩa khinh tài' trong xã hội hiện đại."
+},
+
+    {
+  name: "Lê Chiêu Thống",
+  year: "1765 - 1793",
+  period: "Nhà Lê Trung Hưng (Giai đoạn cuối)",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị vua cuối cùng của triều Lê, trị vì trong giai đoạn đất nước rối ren và gắn liền với sự kiện cầu viện nhà Thanh đầy tranh cãi.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lê Chiêu Thống tên thật là Lê Duy Kỳ, sinh năm 1765. Ông lên ngôi năm 1786 sau khi Nguyễn Huệ ra Bắc lật đổ chúa Trịnh. Xuất thân trong thời kỳ triều đình đã mục nát và suy yếu, quyền lực thực tế của ông rất hạn chế, luôn phải phụ thuộc vào các thế lực chính trị xung quanh.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau khi lên ngôi, ông không giữ vững được quyền lực trước sự lớn mạnh của phong trào Tây Sơn. Trong tình thế đường cùng, ông đã sang Trung Quốc cầu viện nhà Thanh. Năm 1788, ông dẫn đường cho quân Thanh xâm lược nước ta nhưng quân giặc đã bị vua Quang Trung quét sạch trong chiến thắng Ngọc Hồi – Đống Đa. Sau đó, ông phải lưu vong và qua đời tại Trung Quốc vào năm 1793.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Lê Chiêu Thống để lại bài học xương máu về tinh thần độc lập, tự chủ của dân tộc. Hành động 'cõng rắn cắn gà nhà' của ông là bài học cảnh tỉnh sâu sắc cho thế hệ sau về trách nhiệm của người đứng đầu: phải luôn đặt lợi ích quốc gia lên trên hết, không được dựa dẫm vào ngoại bang và phải xây dựng nội lực đoàn kết để bảo vệ đất nước."
+},
+
+    {
+  name: "Mạc Đăng Dung",
+  year: "1483 - 1541",
+  period: "Nhà Mạc",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị vua sáng lập triều Mạc, xuất thân từ bình dân, có công ổn định xã hội sau thời kỳ loạn lạc cuối triều Lê sơ nhưng cũng gây nhiều tranh cãi về tính chính danh.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Mạc Đăng Dung sinh năm 1483 tại Hải Phòng trong một gia đình nghèo làm nghề chài lưới. Ông nổi tiếng khỏe mạnh, giỏi võ nghệ, nhờ thi đỗ lực sĩ mà gia nhập quân đội triều Lê. Trong bối cảnh triều đình suy yếu và quyền lực phe phái tranh chấp, ông đã từng bước thăng tiến nhờ lập nhiều công lao, dần nắm giữ binh quyền và trở thành thế lực mạnh nhất.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau khi dẹp loạn và củng cố vị trí, năm 1527, ông phế truất vua Lê Cung Hoàng để lên ngôi, lập ra nhà Mạc. Trong thời gian trị vì, ông nỗ lực ổn định đất nước nhưng phải đối phó với sự chống đối của các thế lực phù Lê, dẫn đến cục diện Nam - Bắc triều. Năm 1540, để tránh một cuộc chiến tranh xâm lược từ phương Bắc, ông đã chọn giải pháp ngoại giao mềm dẻo, chấp nhận thần phục nhà Minh.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Mạc Đăng Dung để lại bài học về sự vươn lên của cá nhân dựa trên thực lực trong thời loạn. Quyết định ngoại giao của ông cho thấy tầm nhìn thực tế, ưu tiên tránh chiến tranh để bảo vệ nhân dân. Tuy nhiên, lịch sử cũng nhắc nhở rằng sự bền vững của một vương triều phải đi đôi với tính chính danh và sự ủng hộ rộng rãi của toàn dân để tránh gây ra chia rẽ và xung đột kéo dài cho đất nước."
+},
+
+    {
+  name: "Hồ Quý Ly",
+  year: "1336 - 1407",
+  period: "Nhà Hồ",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Chính trị gia và nhà cải cách lỗi lạc, người thành lập nhà Hồ và thực hiện những thay đổi táo bạo về kinh tế, quân sự nhưng chưa thu phục được lòng dân.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Hồ Quý Ly sinh năm 1336 tại Thanh Hóa trong một gia đình quý tộc. Ông là người thông minh, học rộng, thăng tiến nhanh chóng trong triều đình nhà Trần nhờ tài năng và vị thế ngoại thích. Khi nhà Trần suy yếu, ông dần nắm giữ thực quyền và trở thành nhân vật quyền lực nhất trước khi chính thức lên ngôi hoàng đế.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông tiến hành nhiều cải cách tiên phong như phát hành tiền giấy (Thông bảo hội sao), hạn chế sở hữu ruộng đất và nô tì của quý tộc, chấn chỉnh giáo dục và quân sự. Năm 1400, ông lập ra nhà Hồ, đổi quốc hiệu thành Đại Ngu. Tuy nhiên, do cải cách quá nhanh và lòng dân ly tán, triều đại của ông nhanh chóng sụp đổ khi quân Minh xâm lược vào năm 1407.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hồ Quý Ly để lại bài học về tinh thần dám nghĩ dám làm và tư duy đổi mới trước khủng hoảng. Tuy nhiên, sự thất bại của ông là minh chứng cho việc mọi cuộc cải cách chỉ có thể thành công bền vững khi có sự đồng thuận của nhân dân. Đây là kinh nghiệm quý báu về việc kết hợp giữa đổi mới chính sách và củng cố khối đại đoàn kết dân tộc."
+},
+
+    {
+  name: "Trần Thủ Độ",
+  year: "1194 - 1264",
+  period: "Nhà Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Công thần khai quốc có vai trò quyết định trong việc thành lập nhà Trần, nổi tiếng là nhà chính trị cứng rắn, quyết đoán và luôn đặt lợi ích quốc gia lên hàng đầu.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Thủ Độ sinh năm 1194 tại Tức Mặc (Nam Định), xuất thân trong dòng họ Trần đầy thế lực vào cuối thời Lý. Ông là chú họ của Trần Cảnh, sớm bộc lộ tài năng tổ chức và tư duy chính trị sắc bén, trở thành nhân vật then chốt đưa dòng họ Trần lên nắm quyền lãnh đạo đất nước.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là người trực tiếp dàn xếp việc chuyển giao quyền lực từ nhà Lý sang nhà Trần vào năm 1225. Với cương vị Thái sư, ông nắm thực quyền triều chính, tiến hành các biện pháp ổn định triều đình, dẹp bỏ phe phái đối lập và xây dựng bộ máy quản lý chặt chẽ. Dù có những hành động gây tranh cãi vì sự cứng rắn, nhưng chính sự quyết liệt của ông đã giữ vững kỷ cương và tạo tiền đề cho thời kỳ hưng thịnh của nhà Trần.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Trần Thủ Độ để lại bài học sâu sắc về tinh thần trách nhiệm, bản lĩnh quyết đoán trong những thời khắc lịch sử và sự hy sinh lợi ích cá nhân vì sự tồn vong của quốc gia. Cuộc đời ông nhắc nhở thế hệ hôm nay về giá trị của kỷ luật, tính nguyên tắc và lòng tận tụy với mục tiêu chung của dân tộc."
+},
+
+    {
+  name: "Lý Chiêu Hoàng",
+  year: "1218 - 1278 (Trị vì: 1224 - 1225)",
+  period: "Nhà Lý / Nhà Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị nữ hoàng đầu tiên và duy nhất trong lịch sử phong kiến Việt Nam, người đã thực hiện cuộc chuyển giao vương triều lịch sử từ nhà Lý sang nhà Trần.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lý Chiêu Hoàng tên thật là Lý Phật Kim, sinh năm 1218, là con gái thứ của vua Lý Huệ Tông. Trong bối cảnh nhà Lý suy yếu và không có con trai nối dõi, bà được vua cha truyền ngôi khi mới 7 tuổi. Cuộc đời bà gắn liền với những biến động chính trị dữ dội khi quyền lực thực tế lúc bấy giờ nằm trong tay Thái sư Trần Thủ Độ.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Lên ngôi năm 1224, bà trị vì trong thời gian ngắn dưới sự nhiếp chính của họ Trần. Năm 1225, dưới sự sắp đặt của Trần Thủ Độ, bà kết hôn với Trần Cảnh (vua Trần Thái Tông sau này) và nhường ngôi cho chồng, kết thúc 216 năm trị vì của nhà Lý. Sau khi nhường ngôi, bà lần lượt trải qua các vị trí Hoàng hậu, công chúa và cuối cùng là phu nhân của tướng quân Lê Phụ Trần, trải qua nhiều thăng trầm bi kịch cá nhân.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Cuộc đời Lý Chiêu Hoàng để lại bài học về sự vận động nghiệt ngã của lịch sử và cái giá của việc để nội bộ triều chính suy yếu. Câu chuyện của bà nhắc nhở thế hệ hôm nay về tầm quan trọng của việc xây dựng nền móng quốc gia vững chắc, sự đoàn kết dân tộc và bản lĩnh của người lãnh đạo trong việc bảo vệ độc lập, chủ quyền trước mọi sự thao túng quyền lực từ bên ngoài."
+},
+
+    {
+  name: "Trần Thái Tông (Trần Cảnh)",
+  year: "1218 - 1277 (Trị vì: 1225 - 1258)",
+  period: "Nhà Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị vua khai sáng triều đại nhà Trần, người có công lớn trong việc củng cố nền chính trị vững mạnh và lãnh đạo cuộc kháng chiến chống quân Mông Cổ lần thứ nhất.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Cảnh sinh năm 1218, là con trai của Trần Thừa, thuộc dòng họ Trần đầy quyền thế. Năm 1225, dưới sự sắp đặt của Thái sư Trần Thủ Độ, ông kết hôn với Lý Chiêu Hoàng và được nhường ngôi khi mới 8 tuổi. Cuộc đời ông gắn liền với giai đoạn chuyển giao quyền lực lịch sử và những nỗ lực ổn định nội bộ hoàng tộc để xây dựng vương triều mới.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong hơn 30 năm trị vì, ông đã kiện toàn bộ máy nhà nước, phát triển kinh tế và quân sự. Đỉnh cao là việc ông trực tiếp lãnh đạo quân dân Đại Việt đánh bại cuộc xâm lược của quân Mông Cổ lần thứ nhất (1258). Ngoài vai trò chính trị, ông còn là một thiền sư, tác giả của 'Khóa hư lục' và là người đặt nền móng tư tưởng cho Phật giáo Trúc Lâm sau này.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hình ảnh Trần Thái Tông để lại bài học về bản lĩnh lãnh đạo khi biết đặt lợi ích quốc gia lên trên cá nhân trong những thời khắc hiểm nghèo. Tinh thần kết hợp hài hòa giữa trí tuệ Phật học và hành động quyết đoán của ông là nguồn cảm hứng cho thế hệ trẻ về việc tu dưỡng đạo đức đi đôi với trách nhiệm xây dựng, bảo vệ đất nước."
+},
+
+    {
+  name: "Võ Nguyên Giáp",
+  year: "1911 - 2013",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam, nhà quân sự kiệt xuất với tài thao lược lỗi lạc, người có đóng góp quyết định vào chiến thắng Điện Biên Phủ chấn động địa cầu.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Võ Nguyên Giáp sinh ngày 25/8/1911 tại Quảng Bình trong một gia đình giàu truyền thống yêu nước. Từng là một giáo viên dạy sử và học luật, ông sớm giác ngộ cách mạng và tham gia các phong trào đấu tranh chống thực dân. Với trí tuệ sắc bén và ý chí kiên cường, ông đã trở thành một trong những học trò xuất sắc nhất của Chủ tịch Hồ Chí Minh và là lãnh đạo chủ chốt của cách mạng Việt Nam.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là người trực tiếp xây dựng và chỉ huy lực lượng vũ trang từ những ngày đầu sơ khai. Trong kháng chiến chống Pháp, ông chỉ huy các chiến dịch quan trọng, tiêu biểu là chiến thắng Điện Biên Phủ năm 1954 đánh bại thực dân Pháp. Trong kháng chiến chống Mỹ, với vai trò Tổng Tư lệnh, ông tiếp tục hoạch định các chiến lược quân sự sáng tạo, dẫn dắt quân dân ta đi đến thắng lợi cuối cùng, thống nhất đất nước vào mùa xuân năm 1975.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Đại tướng Võ Nguyên Giáp là biểu tượng của trí tuệ, bản lĩnh và lòng yêu nước tận trung. Ông để lại bài học vô giá về tinh thần tự học, tư duy chiến lược dài hạn và phong cách làm việc kỷ luật. Đối với thế hệ trẻ ngày nay, cuộc đời ông là nguồn cảm hứng về việc đặt lợi ích dân tộc lên trên hết, luôn kiên trì và biết kết hợp tri thức thực tiễn để xây dựng và bảo vệ vững chắc chủ quyền Tổ quốc."
+},
+
+    {
+  name: "Nguyễn Chí Thanh",
+  year: "1914 - 1967",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị tướng xuất sắc của Quân đội nhân dân Việt Nam, nhà lãnh đạo chính trị lỗi lạc với tư duy chiến lược sắc bén và đóng góp quan trọng trong việc phát triển nghệ thuật chiến tranh nhân dân.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Chí Thanh tên thật là Nguyễn Vịnh, sinh ngày 1/1/1914 tại Thừa Thiên Huế trong một gia đình nông dân nghèo. Ông sớm giác ngộ cách mạng và gia nhập Đảng Cộng sản Đông Dương vào năm 1937. Dù từng bị thực dân Pháp bắt giam nhiều lần, ông vẫn giữ vững ý chí kiên cường và nhanh chóng trở thành cán bộ nòng cốt của phong trào cách mạng.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong kháng chiến chống Pháp, ông giữ nhiều chức vụ quan trọng và có công lớn trong việc xây dựng lực lượng vũ trang. Ở thời kỳ chống Mỹ, với vai trò Bí thư Trung ương Cục miền Nam, ông trực tiếp chỉ đạo chiến trường và đề ra nhiều chủ trương chiến lược táo bạo. Ông là người khởi xướng phong trào 'Tìm Mỹ mà đánh, lùng Ngụy mà diệt', thúc đẩy tinh thần tiến công mạnh mẽ của quân dân miền Nam.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Đại tướng Nguyễn Chí Thanh là biểu tượng của tinh thần kiên định, lòng trung thành tuyệt đối và phong cách làm việc sâu sát thực tiễn. Cuộc đời ông để lại bài học về sự gắn bó mật thiết với nhân dân và tư duy đổi mới trong hành động. Đối với thế hệ trẻ, ông là tấm gương về ý chí vượt khó, kỷ luật tự giác và khát vọng cống hiến hết mình cho sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam."
+},
+
+    {
+  name: "Văn Tiến Dũng",
+  year: "1917 - 2002",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị tướng chiến lược xuất sắc, Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam, người trực tiếp chỉ huy Chiến dịch Hồ Chí Minh lịch sử giải phóng miền Nam năm 1975.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Văn Tiến Dũng sinh ngày 2/5/1917 tại Hà Nội trong một gia đình lao động nghèo. Ông sớm giác ngộ và tham gia phong trào cách mạng, gia nhập Đảng Cộng sản Đông Dương vào những năm 1930. Dù nhiều lần bị thực dân Pháp bắt giam, ông vẫn giữ vững khí tiết kiên trung của người cộng sản và trở thành lãnh đạo chủ chốt trong quân đội.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là Tổng Tham mưu trưởng tại nhiệm lâu nhất trong lịch sử Việt Nam, trực tiếp chỉ đạo nhiều chiến dịch then chốt như Chiến dịch Biên giới và Tây Nguyên. Đặc biệt, với vai trò Tư lệnh Chiến dịch Hồ Chí Minh, ông đã chỉ huy quân đội thực hiện những đòn đánh táo bạo, thần tốc, dẫn đến thắng lợi hoàn toàn vào ngày 30/4/1975, thống nhất đất nước.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Đại tướng Văn Tiến Dũng để lại bài học quý giá về tư duy chiến lược, sự chuẩn bị kỹ lưỡng và quyết đoán trong hành động. Tấm gương của ông nhắc nhở thế hệ hôm nay về tinh thần kỷ luật, làm việc có kế hoạch và luôn đặt lợi ích dân tộc lên trên hết. Ông là biểu tượng của nghệ thuật quân sự linh hoạt và khát vọng hòa bình, độc lập của dân tộc Việt Nam."
+},
+
+    {
+  name: "Trường Chinh",
+  year: "1907 - 1988",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà lãnh đạo kiệt xuất, nhà lý luận chính trị lỗi lạc của cách mạng Việt Nam, người từng nhiều lần giữ chức Tổng Bí thư và có công lớn trong việc định hướng đường lối chiến lược của Đảng.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trường Chinh tên thật là Đặng Xuân Khu, sinh ngày 9/2/1907 tại Nam Định trong một gia đình giàu truyền thống yêu nước và hiếu học. Được giáo dục trong môi trường Nho học kết hợp với tư tưởng tiến bộ, ông sớm giác ngộ cách mạng và trở thành một trong những đảng viên đầu tiên của Đảng Cộng sản Đông Dương.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là kiến trúc sư của nhiều quyết sách quan trọng trong hai cuộc kháng chiến chống Pháp và chống Mỹ. Với tư cách là Tổng Bí thư và nhà lý luận hàng đầu, ông đã chỉ đạo xây dựng đường lối văn hóa, chính trị và tham gia lãnh đạo các chiến dịch lịch sử. Đặc biệt, vào những năm cuối đời, ông là người có vai trò quyết định trong việc khởi xướng công cuộc Đổi mới đất nước năm 1986.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Trường Chinh để lại bài học về sự kiên định lý tưởng, tinh thần tự học không ngừng và khả năng đổi mới tư duy mạnh mẽ. Tấm gương của ông nhắc nhở thế hệ trẻ về tầm quan trọng của việc kết hợp giữa lý luận và thực tiễn, luôn đặt lợi ích quốc gia lên trên hết và chủ động thích ứng với những thay đổi của thời đại để xây dựng đất nước bền vững."
+},
+
+    {
+  name: "Phạm Văn Đồng",
+  year: "1906 - 2000",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà lãnh đạo xuất sắc, người học trò gần gũi của Chủ tịch Hồ Chí Minh, từng giữ cương vị Thủ tướng Chính phủ lâu đời nhất trong lịch sử Việt Nam với nhiều đóng góp to lớn cho sự nghiệp giải phóng và kiến thiết đất nước.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Phạm Văn Đồng sinh ngày 1/3/1906 tại Quảng Ngãi trong một gia đình nhà nho yêu nước. Sớm tiếp thu tinh thần dân tộc, ông tham gia cách mạng từ những năm 1920. Dù từng bị thực dân Pháp bắt giam, ông vẫn giữ vững chí hướng và trở thành một trong những cán bộ nòng cốt, góp phần quan trọng vào thắng lợi của Cách mạng Tháng Tám năm 1945.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông giữ chức vụ Thủ tướng Chính phủ liên tục từ năm 1955 đến 1987. Trong suốt nhiệm kỳ, ông cùng Trung ương Đảng lãnh đạo nhân dân miền Bắc xây dựng chủ nghĩa xã hội, chi viện cho tiền tuyến miền Nam kháng chiến chống Mỹ cứu nước đến ngày thống nhất (1975). Sau đó, ông tiếp tục dẫn dắt Chính phủ trong công cuộc khôi phục và phát triển kinh tế - xã hội sau chiến tranh.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Phạm Văn Đồng để lại bài học về lòng trung thành tuyệt đối với lý tưởng cách mạng, lối sống giản dị, khiêm tốn và tinh thần tận tụy phục vụ nhân dân. Tấm gương của ông nhắc nhở thế hệ trẻ ngày nay về tầm quan trọng của việc kiên định mục tiêu, không ngừng học tập và rèn luyện đạo đức để cống hiến cho sự phát triển bền vững của Tổ quốc."
+},
+
+    {
+  name: "Lê Duẩn",
+  year: "1907 - 1986",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lãnh đạo chủ chốt của cách mạng Việt Nam, người giữ cương vị Tổng Bí thư trong thời kỳ kháng chiến chống Mỹ cứu nước và giai đoạn đầu xây dựng đất nước sau thống nhất.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lê Duẩn sinh ngày 7/4/1907 tại Quảng Trị trong một gia đình lao động. Sớm tham gia các phong trào yêu nước, ông trở thành đảng viên Đảng Cộng sản Đông Dương và từng nhiều lần bị thực dân Pháp bắt giam. Qua những năm tháng đấu tranh gian khổ, ông đã trưởng thành và trở thành nhà chiến lược xuất sắc của cách mạng.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông có vai trò đặc biệt quan trọng trong việc chỉ đạo đường lối cách mạng miền Nam sau năm 1954, trực tiếp góp phần vào thắng lợi của cuộc kháng chiến chống Mỹ và đại thắng mùa Xuân 1975. Sau khi đất nước thống nhất, trên cương vị Tổng Bí thư, ông lãnh đạo toàn Đảng, toàn dân thực hiện công cuộc xây dựng chủ nghĩa xã hội và bảo vệ biên giới Tổ quốc.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Lê Duẩn để lại bài học về tư duy chiến lược, bản lĩnh chính trị kiên định và tinh thần quyết đoán trong những thời điểm lịch sử quan trọng. Tấm gương của ông nhắc nhở thế hệ trẻ về sức mạnh của khối đại đoàn kết dân tộc và lòng yêu nước nồng nàn, tạo nền tảng vững chắc để xây dựng và phát triển đất nước bền vững trong thời đại mới."
+},
+
+    {
+  name: "Tạ Quang Bửu",
+  year: "1910 - 1986",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Một trí thức lớn, nhà toán học và nhà quản lý giáo dục chiến lược, người đặt nền móng cho hệ thống đại học và khoa học - kỹ thuật của nước Việt Nam độc lập.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Tạ Quang Bửu sinh ngày 23/7/1910 tại Nghệ An trong một gia đình hiếu học. Ông từng du học tại các trường danh tiếng ở Pháp và Anh như Đại học Oxford, chuyên sâu về toán học và vật lý. Với nền tảng tri thức uyên bác, ông là một trong những trí thức tiêu biểu được Chủ tịch Hồ Chí Minh tin tưởng và giao phó nhiều trọng trách ngay từ những ngày đầu cách mạng.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau năm 1945, ông giữ nhiều chức vụ quan trọng như Thứ trưởng Bộ Quốc phòng và Bộ trưởng Bộ Đại học và Trung học chuyên nghiệp. Ông có công lao to lớn trong việc xây dựng nền giáo dục đại học, đào tạo đội ngũ cán bộ khoa học - kỹ thuật trong điều kiện kháng chiến khó khăn. Ông cũng chính là người chắp bút và thực hiện nhiều chính sách phát triển khoa học hiện đại, giúp Việt Nam tiếp cận với trình độ tri thức thế giới.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Ông để lại tấm gương sáng về tinh thần học tập suốt đời, tư duy khoa học và lòng cống hiến vô điều kiện cho tổ quốc. Tầm nhìn chiến lược của ông về việc lấy tri thức làm nền tảng phát triển vẫn còn nguyên giá trị, nhắc nhở thế hệ trẻ ngày nay về trách nhiệm học tập, nghiên cứu để đưa khoa học - công nghệ Việt Nam vươn tầm quốc tế."
+},
+
+    {
+  name: "Trần Đại Nghĩa",
+  year: "1913 - 1997",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà khoa học, kỹ sư quân sự lỗi lạc, người đặt nền móng cho ngành công nghiệp quốc phòng Việt Nam với những sáng chế vũ khí mang tính quyết định trong kháng chiến.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Đại Nghĩa tên thật là Phạm Quang Lễ, sinh năm 1913 tại Vĩnh Long. Ông là một trí thức yêu nước tiêu biểu, từng du học Pháp và tốt nghiệp nhiều bằng kỹ sư, cử nhân tại các trường danh tiếng. Trong thời gian ở châu Âu, ông đã bí mật nghiên cứu về kỹ thuật vũ khí với mục đích trở về phục vụ tổ quốc.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1946, ông theo Bác Hồ về nước và được giao trọng trách Cục trưởng Cục Quân giới. Trong điều kiện thiếu thốn của chiến khu, ông đã lãnh đạo việc nghiên cứu và chế tạo thành công các loại vũ khí có sức công phá lớn như súng Bazooka, súng không giật (SKZ) và bom bay, tạo nên lợi thế bất ngờ trên chiến trường chống thực dân Pháp.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Ông là biểu tượng của sự kết hợp giữa tri thức đỉnh cao và lòng yêu nước nồng nàn. Tấm gương của ông truyền cảm hứng cho thế hệ trẻ về tinh thần tự lực cánh sinh, óc sáng tạo và tư duy lấy khoa học làm đòn bẩy để bảo vệ và xây dựng đất nước độc lập, hùng cường."
+},
+
+    {
+  name: "Nguyễn Thị Bình",
+  year: "1927 - Hiện nay",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nữ lãnh đạo, nhà ngoại giao xuất sắc, Trưởng phái đoàn đàm phán tại Hiệp định Paris, biểu tượng của trí tuệ và bản lĩnh Việt Nam trên mặt trận quốc tế.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Bà sinh năm 1927 tại Quảng Nam trong gia đình giàu truyền thống yêu nước (cháu ngoại cụ Phan Châu Trinh). Sớm tiếp thu tư tưởng tiến bộ, bà tham gia cách mạng từ phong trào học sinh, sinh viên và nhanh chóng trở thành một cán bộ nòng cốt trong cuộc đấu tranh giải phóng dân tộc.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong kháng chiến chống Mỹ, bà giữ chức Bộ trưởng Ngoại giao của Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam. Bà nổi tiếng thế giới với vai trò Trưởng đoàn đàm phán tại Hội nghị Paris, góp phần quan trọng vào việc ký kết Hiệp định năm 1973. Sau thống nhất, bà từng giữ chức Bộ trưởng Bộ Giáo dục và Phó Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Bà để lại bài học về bản lĩnh ngoại giao mềm dẻo nhưng kiên quyết trong việc bảo vệ lợi ích quốc gia. Hình ảnh của bà truyền cảm hứng cho thế hệ trẻ, đặc biệt là phụ nữ, về tinh thần tự tin, trí tuệ và sự cống hiến hết mình cho sự nghiệp xây dựng và hội nhập quốc tế của đất nước."
+},
+
+    {
+  name: "Nguyễn Thị Định",
+  year: "1920 - 1992",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nữ Thiếu tướng đầu tiên của Quân đội nhân dân Việt Nam, linh hồn của phong trào Đồng khởi và 'Đội quân tóc dài' huyền thoại.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Bà sinh năm 1920 tại Bến Tre trong một gia đình nông dân giàu truyền thống yêu nước. Tham gia cách mạng từ năm 16 tuổi, bà sớm bộc lộ khí tiết kiên cường dù từng bị kẻ thù bắt giam và tra tấn dã man. Cuộc đời bà gắn liền với vùng đất Nam Bộ kháng chiến.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Bà là người lãnh đạo chủ chốt của phong trào Đồng khởi Bến Tre (1960), khai sinh ra phương thức đấu tranh 'Đội quân tóc dài' độc đáo. Trong kháng chiến chống Mỹ, bà giữ chức Phó Tư lệnh Quân Giải phóng miền Nam Việt Nam. Sau ngày thống nhất, bà tiếp tục cống hiến trên nhiều cương vị cao như Phó Chủ tịch Hội đồng Nhà nước, Chủ tịch Hội Liên hiệp Phụ nữ Việt Nam.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của bà là minh chứng hùng hồn cho tinh thần 'Anh hùng, bất khuất, trung hậu, đảm đang' của phụ nữ Việt Nam. Di sản của bà truyền cảm hứng cho thế hệ trẻ về ý chí vượt khó, dám nghĩ dám làm và khẳng định vai trò tiên phong của phụ nữ trong lãnh đạo, xây dựng xã hội bình đẳng và phát triển."
+},
+
+    {
+  name: "Lê Đức Thọ",
+  year: "1911 - 1990",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà lãnh đạo xuất sắc của cách mạng Việt Nam, người trực tiếp đàm phán và góp công lớn vào việc ký kết Hiệp định Paris 1973, chấm dứt chiến tranh tại Việt Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Ông tên thật là Phan Đình Khải, sinh năm 1911 tại Nam Định trong một gia đình giàu truyền thống yêu nước. Tham gia cách mạng từ sớm và gia nhập Đảng Cộng sản Đông Dương, ông từng nhiều lần bị thực dân Pháp bắt giam, trải qua những năm tháng lao tù khắc nghiệt nhưng vẫn giữ vững ý chí kiên định.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông giữ nhiều trọng trách trong hai cuộc kháng chiến chống Pháp và chống Mỹ. Đặc biệt, với vai trò Trưởng đoàn đàm phán tại Hội nghị Paris, ông đã thể hiện bản lĩnh ngoại giao kiên cường khi đối đầu trực tiếp với Henry Kissinger, dẫn đến thắng lợi của Hiệp định Paris 1973. Ông cũng là người Việt Nam duy nhất được trao giải Nobel Hòa bình nhưng đã từ chối vì hòa bình lúc đó chưa thực sự được lập lại.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Lê Đức Thọ để lại bài học quý giá về bản lĩnh ngoại giao 'vừa cứng rắn về nguyên tắc, vừa mềm dẻo về sách lược'. Tấm gương của ông truyền cảm hứng cho thế hệ trẻ về lòng yêu nước, trí tuệ và sự kiên định trong việc bảo vệ lợi ích quốc gia, đồng thời khẳng định vị thế của Việt Nam trên trường quốc tế."
+},
+
+    {
+  name: "Xuân Thủy",
+  year: "1912 - 1985",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà ngoại giao, nhà báo và chính khách tiêu biểu, người giữ vai trò Trưởng đoàn đàm phán của Chính phủ Việt Nam Dân chủ Cộng hòa tại Hội nghị Paris, góp công lớn vào thắng lợi trên mặt trận ngoại giao.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Ông tên thật là Nguyễn Trọng Nhâm, sinh năm 1912 tại Nam Định trong một gia đình nhà nho yêu nước. Tham gia cách mạng từ sớm và gia nhập Đảng Cộng sản Đông Dương, ông từng bị thực dân Pháp bắt giam nhiều năm nhưng vẫn giữ vững ý chí đấu tranh. Sau Cách mạng tháng Tám 1945, ông đảm nhiệm nhiều chức vụ quan trọng trong bộ máy nhà nước và báo chí.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông hoạt động nổi bật trên cả mặt trận báo chí (Tổng Biên tập báo Cứu quốc) và ngoại giao. Đặc biệt, từ năm 1968, ông là Trưởng đoàn đàm phán của Việt Nam tại Hội nghị Paris. Với bản lĩnh, trí tuệ và sự kiên định, ông đã dẫn dắt đoàn đàm phán đi đến việc ký kết Hiệp định Paris năm 1973, kết thúc chiến tranh, lập lại hòa bình tại Việt Nam.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Xuân Thủy để lại bài học về bản lĩnh và sự kiên định trong bảo vệ lợi ích quốc gia. Tấm gương của ông truyền cảm hứng cho thế hệ trẻ về nghệ thuật ngoại giao 'mềm dẻo nhưng nguyên tắc', biết kết hợp lý luận sắc bén với thực tiễn linh hoạt và sử dụng hiệu quả sức mạnh truyền thông để lan tỏa tiếng nói của dân tộc ra thế giới."
+},
+
+    {
+  name: "Võ Văn Kiệt",
+  year: "1922 - 2008",
+  period: "Thời đại Hồ Chí Minh / Thời kỳ Đổi mới",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà lãnh đạo kiệt xuất thời kỳ Đổi mới, giữ chức Thủ tướng Chính phủ (1991–1997), người có tư duy quyết đoán và đóng góp to lớn trong việc hiện đại hóa đất nước.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Tên thật là Phan Văn Hòa, sinh năm 1922 tại Vĩnh Long trong một gia đình nông dân yêu nước. Ông tham gia cách mạng từ sớm, kinh qua hai cuộc kháng chiến chống Pháp và chống Mỹ gian khổ tại chiến trường Nam Bộ. Với phong cách giản dị và thực tiễn, ông luôn gắn bó mật thiết với đời sống của nhân dân.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông từng giữ chức Bí thư Thành ủy TP. Hồ Chí Minh trước khi trở thành Thủ tướng. Ông là 'tổng công trình sư' của nhiều dự án đại diện cho ý chí phát triển như đường dây 500kV Bắc – Nam, xa lộ Bắc Thăng Long – Nội Bài. Ông đã mạnh dạn tháo gỡ các rào cản cơ chế cũ, thúc đẩy kinh tế thị trường và đưa Việt Nam hội nhập sâu rộng với thế giới.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Võ Văn Kiệt để lại bài học vô giá về tinh thần 'dám nghĩ, dám làm, dám chịu trách nhiệm'. Ông là biểu trưng của sự đổi mới, lòng tận tụy với dân và khả năng quy tụ nhân tài. Di sản của ông nhắc nhở thế hệ trẻ về tầm quan trọng của sự sáng tạo, tinh thần cầu thị và ý chí đặt lợi ích của Tổ quốc lên trên hết trong công cuộc phát triển đất nước hiện nay."
+},
+
+    {
+  name: "Nguyễn Văn Linh",
+  year: "1915 - 1998",
+  period: "Thời kỳ Đổi mới",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà lãnh đạo tiêu biểu, người khởi xướng và thúc đẩy mạnh mẽ công cuộc Đổi mới đất nước, giữ chức Tổng Bí thư Đảng Cộng sản Việt Nam (1986–1991).",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Tên thật là Nguyễn Văn Cúc, sinh năm 1915 tại Hưng Yên. Ông tham gia cách mạng từ sớm, từng bị thực dân Pháp bắt giam và tù đày nhiều lần qua các nhà tù khắc nghiệt. Những năm tháng gian khổ đã rèn luyện cho ông ý chí kiên cường, bản lĩnh chính trị vững vàng và sự gắn bó mật thiết với đời sống nhân dân.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Hoạt động lâu năm tại chiến trường miền Nam, ông giữ nhiều trọng trách quan trọng trong kháng chiến. Tại Đại hội VI (1986), ông được bầu làm Tổng Bí thư và trở thành linh hồn của công cuộc Đổi mới. Ông quyết liệt xóa bỏ cơ chế tập trung quan liêu bao cấp, chuyển sang kinh tế thị trường định hướng xã hội chủ nghĩa và nổi tiếng với những bài viết 'Những việc cần làm ngay' để chống tiêu cực.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Nguyễn Văn Linh để lại bài học về tinh thần dám nhìn thẳng vào sự thật và quyết tâm cải cách vì lợi ích của nhân dân. Tư duy đổi mới và thái độ kiên quyết chống tham nhũng của ông là nguồn cảm hứng cho thế hệ hôm nay trong việc xây dựng một đất nước phát triển bền vững, linh hoạt thích ứng với thời đại nhưng vẫn giữ vững định hướng dân tộc."
+},
+
     
 ];
