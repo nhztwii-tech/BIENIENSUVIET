@@ -587,8 +587,8 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
 },
 
     {
-  name: "Nguyễn Tất Thành",
-  year: "1890 - 1945",
+  name: "Chủ tịch Hồ Chí Minh",
+  year: "1890 - 1969",
   period: "Thời kỳ đấu tranh giải phóng dân tộc",
   image: "URL ảnh đại diện",
   side: "left",
