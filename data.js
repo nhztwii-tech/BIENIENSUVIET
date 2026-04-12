@@ -217,7 +217,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   image: "image/LyThuongKiet.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
-  summary: "Danh tướng kiệt xuất thời nhà Lý, người chỉ huy cuộc kháng chiến chống quân Tống thế kỷ XI và là tác giả của bản 'Tuyên ngôn độc lập' đầu tiên của Việt Nam.",
+  summary: "Danh tướng kiệt xuất thời nhà Lý, người chỉ huy cuộc kháng chiến chống quân Tống thế kỷ XI và được tương truyền là tác giả của bản 'Tuyên ngôn độc lập' đầu tiên của Việt Nam.",
   // Phần II - Tiểu sử / thân thế
   biography: "Lý Thường Kiệt tên thật là Ngô Tuấn, sinh năm 1019 tại kinh thành Thăng Long trong một gia đình truyền thống quan lại. Từ nhỏ ông đã thông minh, học rộng, giỏi cả văn lẫn võ. Sau này ông được ban quốc tính họ Lý và trở thành đại thần thân cận, giữ nhiều chức vụ quan trọng trong triều đình nhà Lý.",
   // Phần III - Hoạt động / Sự kiện chính
