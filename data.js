@@ -226,22 +226,6 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   legacy: "Để lại bài học về tinh thần yêu nước, ý chí bảo vệ độc lập và tư duy chiến lược chủ động 'tiên phát chế nhân'. Tấm gương của ông về sự chuẩn bị kỹ lưỡng, dám nghĩ dám làm và đặt lợi ích quốc gia lên trên hết vẫn là nguồn cảm hứng lớn cho thế hệ trẻ trong việc xây dựng và bảo vệ Tổ quốc hôm nay."
 },
 
-  {
-  name: "Trần Thái Tông",
-  year: "1218 - 1277",
-  period: "Nhà Trần",
-  image: "image/TranThaiTong.jpg",
-  side: "left",
-  // Phần I - Tóm tắt ngắn
-  summary: "Vị vua khai sáng triều Trần, nhà chính trị tài năng và nhà tư tưởng Phật giáo sâu sắc, người đặt nền móng vững chắc cho sự hưng thịnh của quốc gia.",
-  // Phần II - Tiểu sử / thân thế
-  biography: "Trần Thái Tông tên thật là Trần Cảnh, sinh năm 1218 trong gia tộc họ Trần có thế lực lớn cuối thời Lý. Ông lên ngôi năm 1225 khi mới 8 tuổi sau cuộc chuyển giao quyền lực từ nhà Lý sang nhà Trần dưới sự sắp đặt của Trần Thủ Độ. Dù lên ngôi khi còn nhỏ và chịu nhiều áp lực chính trị, ông đã dần trưởng thành, khẳng định bản lĩnh của một vị quân chủ có tư duy độc lập và trách nhiệm.",
-  // Phần III - Hoạt động / Sự kiện chính
-  activities: "Trong giai đoạn trị vì (1225–1258), ông chú trọng củng cố chính quyền, xây dựng quân đội và phát triển kinh tế. Thành tựu quân sự lớn nhất là trực tiếp lãnh đạo kháng chiến chống quân Mông Cổ lần thứ nhất (1258) giành thắng lợi. Sau khi nhường ngôi, ông làm Thái thượng hoàng cố vấn triều đình và nghiên cứu Phật học, để lại các tác phẩm giá trị như 'Khóa hư lục'.",
-  // Phần IV - Di sản / Ý nghĩa
-  legacy: "Để lại bài học về sự kết hợp giữa 'trị quốc' và 'tu thân', đề cao đạo đức và bản lĩnh của người lãnh đạo. Tinh thần gánh vác trách nhiệm sớm, không ngừng học hỏi và chú trọng xây dựng nội lực quốc gia của ông vẫn là tấm gương sáng cho thế hệ trẻ và mang ý nghĩa quản trị đất nước bền vững cho đến ngày nay."
-},
-
     {
   name: "Trần Hưng Đạo",
   year: "1228 - 1300",
