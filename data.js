@@ -1211,34 +1211,6 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
 },
 
     {
-  name: "Thủ Khoa Huân",
-  year: "1830 - 1875",
-  period: "Kháng chiến chống Pháp",
-  image: "URL_ANH_DAI_DIEN",
-  side: "left",
-  // Phần I - Tóm tắt ngắn
-  summary: "Sĩ phu yêu nước tiêu biểu tại Nam Kỳ nửa sau thế kỷ XIX, lãnh tụ nghĩa quân kiên cường chống thực dân Pháp.",
-  // Phần II - Tiểu sử / thân thế
-  biography: "Thủ Khoa Huân tên thật là Nguyễn Hữu Huân (1830-1875), quê tại tỉnh Định Tường (nay là Tiền Giang). Xuất thân từ gia đình nhà nho, ông nổi tiếng thông minh và đỗ đầu kỳ thi Hương (Thủ khoa), từ đó được nhân dân gọi là Thủ Khoa Huân. Ông lớn lên trong bối cảnh thực dân Pháp bắt đầu xâm lược nước ta.",
-  // Phần III - Hoạt động / Sự kiện chính
-  activities: "Sau khi Pháp chiếm Nam Kỳ, ông từ chối làm quan cho chính quyền thuộc địa để tổ chức khởi nghĩa tại vùng Mỹ Tho – Tân An. Dù bị bắt và đày ra Côn Đảo, ông vẫn giữ vững khí tiết và tiếp tục lãnh đạo nghĩa quân sau khi được trả tự do. Cuối cùng, ông bị thực dân Pháp bắt lại và xử tử vào năm 1875.",
-  // Phần IV - Di sản / Ý nghĩa
-  legacy: "Tấm gương của Thủ Khoa Huân là biểu tượng cho lòng yêu nước, ý chí bất khuất và trách nhiệm của người trí thức đối với dân tộc. Bài học về việc dùng tri thức để phục vụ đất nước và tinh thần sống có lý tưởng của ông vẫn luôn soi sáng cho thế hệ trẻ Việt Nam ngày nay."
-},
-
-    {
-  name: "Phan Tôn",
-  year: "1837 - 1893",
-  period: "Phong trào Cần Vương",
-  image: "",
-  side: "left",
-  summary: "Sĩ phu yêu nước tiêu biểu trong phong trào Cần Vương cuối thế kỷ XIX, lãnh đạo nghĩa quân kháng chiến chống Pháp tại Trung Kỳ.",
-  biography: "Phan Tôn sinh ra tại Quảng Nam trong một gia đình giàu truyền thống khoa bảng, là con trai của đại thần Phan Thanh Giản. Lớn lên khi đất nước rơi vào tay thực dân Pháp, ông sớm tiếp thu tư tưởng trung quân ái quốc và ý thức trách nhiệm sâu sắc của một người trí thức trước vận mệnh dân tộc.",
-  activities: "Sau năm 1885, hưởng ứng chiếu Cần Vương, ông cùng em trai Phan Liêm chiêu mộ binh sĩ, tổ chức kháng chiến mạnh mẽ tại vùng Quảng Nam. Dù gây nhiều thiệt hại cho quân Pháp trong giai đoạn đầu, nhưng do sự chênh lệch về vũ khí và lực lượng, phong trào dần suy yếu; cuối cùng ông bị giặc bắt.",
-  legacy: "Phan Tôn là biểu tượng về lòng yêu nước và ý chí bất khuất của tầng lớp trí thức xưa. Cuộc đời ông để lại bài học về tinh thần trách nhiệm với quốc gia, nhắc nhở thế hệ trẻ hôm nay về lý tưởng sống cống hiến, sẵn sàng bảo vệ và xây dựng đất nước trong mọi hoàn cảnh."
-},
-
-    {
   name: "Nguyễn Thiện Thuật",
   year: "1844 - 1926",
   period: "Phong trào Cần Vương",
