@@ -1019,6 +1019,86 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
 },
 
     {
+  name: "Chu Văn An",
+  year: "1292 - 1370",
+  period: "Thời Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà giáo, nhà nho tiêu biểu thời Trần, được tôn vinh là 'Vạn thế sư biểu' nhờ nhân cách thanh cao và tinh thần cương trực.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Chu Văn An sinh năm 1292 tại làng Văn Thôn, huyện Thanh Đàm (nay thuộc Hà Nội). Sinh trưởng trong một gia đình hiếu học, từ nhỏ ông đã nổi tiếng thông minh và có ý chí tự học. Dù đỗ Thái học sinh, ông không theo đuổi quan trường ngay mà mở trường dạy học tại quê nhà, lấy việc rèn luyện đạo đức làm gốc.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông từng giữ chức Tư nghiệp Quốc Tử Giám, dạy dỗ các thái tử triều Trần. Trước cảnh triều chính suy vi, nịnh thần lộng hành, ông dũng cảm dâng 'Thất trảm sớ' xin chém bảy kẻ nịnh thần. Khi vua không chấp thuận, ông chọn cách từ quan về ở ẩn tại núi Phượng Hoàng, sống thanh bạch và tiếp tục nghề giáo đến cuối đời.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Chu Văn An là biểu tượng bất diệt về đạo làm thầy và khí tiết của người trí thức. Tấm gương của ông dạy cho thế hệ trẻ bài học về sự trung thực, dám bảo vệ lẽ phải và coi trọng giá trị nhân cách hơn danh lợi. Ông mãi là hình mẫu cho nền giáo dục Việt Nam về tinh thần 'học thật, làm thật'."
+},
+
+    {
+  name: "Lương Thế Vinh",
+  year: "1441 - 1496",
+  period: "Thời Lê sơ",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh nhân văn hóa tiêu biểu thời Lê sơ, được mệnh danh là 'Trạng Lường' nhờ trí tuệ xuất chúng và những đóng góp to lớn cho toán học Việt Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lương Thế Vinh sinh năm 1441 tại làng Cao Hương, huyện Thiên Bản (nay thuộc Nam Định). Từ nhỏ, ông đã nổi tiếng thông minh, ham học và có khả năng tư duy logic vượt trội. Năm 1463, dưới triều vua Lê Thánh Tông, ông thi đỗ Trạng nguyên khi mới 22 tuổi, khởi đầu sự nghiệp phụng sự triều đình bằng tri thức.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau khi đỗ đạt, ông giữ nhiều chức vụ quan trọng trong triều đình và tham gia biên soạn, giảng dạy. Thành tựu rực rỡ nhất của ông là biên soạn cuốn 'Đại thành toán pháp' - công trình tổng hợp kiến thức toán học cổ truyền. Ngoài ra, ông còn nghiên cứu Phật học và có những đóng góp quan trọng trong lĩnh vực nghệ thuật sân khấu chèo.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Ông là biểu tượng của tinh thần hiếu học, tư duy khoa học và sự cống hiến bền bỉ. Tấm gương của Lương Thế Vinh truyền cảm hứng cho thế hệ trẻ về việc học đi đôi với sáng tạo và ứng dụng thực tiễn. Ông cũng minh chứng cho giá trị của một nhân cách phát triển toàn diện, vừa giỏi chuyên môn vừa am hiểu sâu sắc văn hóa dân tộc."
+},
+
+    {
+  name: "Nguyễn Khuyến",
+  year: "1835 - 1909",
+  period: "Thời Nhà Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà thơ lớn của dân tộc, được mệnh danh là 'Tam nguyên Yên Đổ' với tâm hồn gắn bó sâu sắc với làng quê và khí tiết thanh cao trước thời cuộc.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Khuyến sinh năm 1835 tại làng Yên Đổ (Hà Nam) trong gia đình nhà nho nghèo hiếu học. Ông nổi tiếng thông minh và đạt thành tích hiếm có khi đỗ đầu cả ba kỳ thi Hương, Hội, Đình vào năm 1871. Dù giữ nhiều chức vụ quan trọng trong triều đình, ông sớm cáo quan về quê khi thực dân Pháp xâm lược để giữ trọn khí tiết.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong sự nghiệp quan trường, ông là người thanh liêm và chính trực. Sau khi về ở ẩn, ông không hợp tác với chính quyền thực dân và chuyên tâm sáng tác văn chương. Những tác phẩm tiêu biểu như chùm thơ Thu ('Thu điếu', 'Thu ẩm', 'Thu vịnh') đã khắc họa vẻ đẹp tĩnh lặng của làng quê Bắc Bộ và nỗi lòng u hoài trước cảnh nước mất nhà tan.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Ông để lại bài học về lòng yêu nước và nhân cách sống cao đẹp, không màng danh lợi. Thơ ca của ông là kho tàng văn hóa giúp bảo tồn hình ảnh làng quê Việt Nam truyền thống. Tấm gương Nguyễn Khuyến nhắc nhở thế hệ trẻ hôm nay về việc giữ gìn bản sắc dân tộc, sống có đạo đức và trân trọng những giá trị bình dị của quê hương."
+},
+
+    {
+  name: "Ngô Sĩ Liên",
+  year: "Thế kỷ XV",
+  period: "Thời Lê Sơ",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà sử học lớn thời Lê sơ, chủ biên bộ 'Đại Việt sử ký toàn thư' – tác phẩm chính sử quan trọng nhất trong lịch sử dân tộc Việt Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Ngô Sĩ Liên sinh vào khoảng thế kỷ XV, quê ở làng Chúc Lý (nay thuộc Hà Nội). Ông đỗ tiến sĩ dưới triều vua Lê Thái Tông và phục vụ trong triều đình nhà Lê. Được đào tạo bài bản trong môi trường Nho học, ông có nền tảng học vấn vững chắc, đặc biệt am hiểu kinh sử và tư tưởng chính trị.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Dưới thời vua Lê Thánh Tông, ông được giao nhiệm vụ biên soạn quốc sử. Ông đã kế thừa, chỉnh lý các bộ sử trước đó để hoàn thành 'Đại Việt sử ký toàn thư'. Trong quá trình này, ông thể hiện quan điểm lịch sử rõ ràng, đề cao các triều đại chính thống và đưa vào những nhận xét, bình luận mang tính giáo huấn sâu sắc.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Di sản của ông giúp hậu thế hiểu sâu hơn về lịch sử dân tộc, củng cố lòng tự hào và trách nhiệm với đất nước. Tinh thần làm việc nghiêm túc, tôn trọng sự thật lịch sử của ông là bài học quý báu cho thế hệ trẻ trong việc trân trọng quá khứ, giữ gìn bản sắc và xây dựng đất nước trên một nền tảng văn hóa vững chắc."
+},
+
+    {
+  name: "Lê Quý Đôn",
+  year: "1726 - 1784",
+  period: "Thời Lê Trung hưng",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà bác học lớn nhất lịch sử phong kiến Việt Nam với kiến thức uyên thâm đa ngành và khối lượng tác phẩm đồ sộ.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lê Quý Đôn sinh năm 1726 tại làng Diên Hà (nay thuộc tỉnh Thái Bình) trong gia đình có truyền thống học vấn. Từ nhỏ ông đã nổi tiếng là thần đồng, thông minh và ham học. Ông đỗ Bảng nhãn dưới triều Lê Trung hưng và dành cả cuộc đời cho việc học tập, làm quan và nghiên cứu khoa học.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông giữ nhiều chức vụ quan trọng trong triều đình và tham gia các hoạt động ngoại giao. Thành tựu lớn nhất là việc biên soạn các bộ sách giá trị như 'Phủ biên tạp lục', 'Kiến văn tiểu lục', 'Vân đài loại ngữ'. Ông đã hệ thống hóa toàn diện tri thức về lịch sử, địa lý, kinh tế và văn hóa Việt Nam thời bấy giờ.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Để lại bài học về tinh thần hiếu học, tự học và tư duy toàn diện, nhắc nhở thế hệ trẻ về tầm quan trọng của tri thức liên ngành. Các công trình nghiên cứu của ông vẫn là nguồn tư liệu quý báu, góp phần quan trọng vào việc bảo tồn bản sắc văn hóa và lịch sử dân tộc."
+},
+    
+    {
   name: "Tôn Thất Thuyết",
   year: "1839 - 1913",
   period: "Thời kỳ Nhà Nguyễn - Phong trào Cần Vương",
