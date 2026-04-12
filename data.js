@@ -459,7 +459,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
 },
 
     {
-  name: "Vua Tự Đức",
+  name: "Tự Đức",
   year: "1847 - 1883",
   period: "Nhà Nguyễn",
   image: "image/TuDuc.jpg",
@@ -568,22 +568,6 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   activities: "Ông là linh hồn của phong trào Duy Tân, cổ vũ đổi mới giáo dục, kinh tế và lối sống. Khác với xu hướng bạo động của Phan Bội Châu, ông chủ trương cải cách ôn hòa, bãi bỏ quân chủ chuyên chế và yêu cầu chính quyền thực dân thực thi dân chủ. Ông từng sang Pháp vận động và diễn thuyết trước khi về nước tiếp tục truyền bá tư tưởng dân chủ năm 1925.",
   // Phần IV - Di sản / Ý nghĩa
   legacy: "Tư tưởng của ông về vai trò của giáo dục (nâng cao dân trí), ý thức công dân và tinh thần tự lực tự cường vẫn là những bài học quý giá cho công cuộc đổi mới, xây dựng xã hội dân chủ và hội nhập quốc tế của Việt Nam ngày nay."
-},
-
-    {
-  name: "Chủ tịch Hồ Chí Minh",
-  year: "1890 - 1969",
-  period: "Thời kỳ đấu tranh giải phóng dân tộc",
-  image: "image/NguyenTatThanh.jpg",
-  side: "left",
-  // Phần I - Tóm tắt ngắn
-  summary: "Lãnh tụ vĩ đại của dân tộc Việt Nam, người tìm ra con đường giải phóng dân tộc theo hướng cách mạng vô sản và đặt nền móng cho Đảng Cộng sản Việt Nam.",
-  // Phần II - Tiểu sử / thân thế
-  biography: "Sinh ngày 19/5/1890 tại làng Kim Liên, Nam Đàn, Nghệ An trong một gia đình nhà nho yêu nước. Cha là Nguyễn Sinh Sắc và mẹ là Hoàng Thị Loan. Tuổi thơ của Người gắn liền với cảnh nước mất nhà tan, từ đó sớm hun đúc lòng yêu nước và ý chí cứu nước mãnh liệt.",
-  // Phần III - Hoạt động / Sự kiện chính
-  activities: "Năm 1911, Người rời bến Nhà Rồng ra đi tìm đường cứu nước, bôn ba qua nhiều châu lục và tiếp cận chủ nghĩa Mác – Lênin. Năm 1930, Người sáng lập Đảng Cộng sản Việt Nam. Năm 1945, Người trở về lãnh đạo Cách mạng Tháng Tám thành công, khai sinh ra nước Việt Nam Dân chủ Cộng hòa.",
-  // Phần IV - Di sản / Ý nghĩa
-  legacy: "Để lại tấm gương sáng ngời về lòng yêu nước, ý chí tự học và khát vọng vươn ra thế giới. Thế hệ trẻ hôm nay học được ở Người tinh thần dấn thân, bản lĩnh kiên trì và tư duy độc lập để xây dựng, bảo vệ Tổ quốc trong thời đại hội nhập."
 },
 
     {
@@ -1032,6 +1016,386 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   activities: "Hoạt động lâu năm tại chiến trường miền Nam, ông giữ nhiều trọng trách quan trọng trong kháng chiến. Tại Đại hội VI (1986), ông được bầu làm Tổng Bí thư và trở thành linh hồn của công cuộc Đổi mới. Ông quyết liệt xóa bỏ cơ chế tập trung quan liêu bao cấp, chuyển sang kinh tế thị trường định hướng xã hội chủ nghĩa và nổi tiếng với những bài viết 'Những việc cần làm ngay' để chống tiêu cực.",
   // Phần IV - Di sản / Ý nghĩa
   legacy: "Nguyễn Văn Linh để lại bài học về tinh thần dám nhìn thẳng vào sự thật và quyết tâm cải cách vì lợi ích của nhân dân. Tư duy đổi mới và thái độ kiên quyết chống tham nhũng của ông là nguồn cảm hứng cho thế hệ hôm nay trong việc xây dựng một đất nước phát triển bền vững, linh hoạt thích ứng với thời đại nhưng vẫn giữ vững định hướng dân tộc."
+},
+
+    {
+  name: "Tôn Thất Thuyết",
+  year: "1839 - 1913",
+  period: "Thời kỳ Nhà Nguyễn - Phong trào Cần Vương",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Đại thần triều Nguyễn, người lãnh đạo phe Chủ chiến và khởi xướng phong trào Cần Vương chống Pháp cuối thế kỷ XIX.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Tôn Thất Thuyết sinh năm 1839 tại Huế, xuất thân trong hoàng tộc nhà Nguyễn. Ông là người thông minh, cứng rắn, sớm tham gia triều chính và được tin dùng dưới các triều vua như Tự Đức. Với lập trường kiên quyết chống Pháp, ông trở thành một trong những nhân vật chủ chốt trong phe chủ chiến của triều đình Huế.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau khi thực dân Pháp từng bước xâm lược Việt Nam, Tôn Thất Thuyết cùng phe chủ chiến quyết tâm kháng cự. Năm 1885, ông chỉ huy cuộc phản công tại kinh thành Huế nhưng thất bại. Sau đó, ông đưa vua Hàm Nghi ra sơn phòng và ban bố Chiếu Cần Vương, kêu gọi toàn dân đứng lên chống Pháp. Dù phong trào sau đó bị đàn áp, hành động của ông đã thổi bùng tinh thần yêu nước trên cả nước.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tôn Thất Thuyết để lại bài học lớn về lòng yêu nước, ý chí kiên cường và tinh thần trách nhiệm trước vận mệnh dân tộc. Trong bối cảnh hiện nay, tinh thần dám đứng lên bảo vệ chủ quyền, không khuất phục trước khó khăn vẫn rất đáng để thế hệ trẻ học hỏi. Đồng thời, câu chuyện của ông cũng nhắc nhở rằng muốn thành công cần kết hợp lòng dũng cảm với chiến lược đúng đắn và sự đoàn kết toàn dân."
+},
+
+    {
+  name: "Hàm Nghi",
+  year: "1871 - 1944 (Trị vì: 1884 - 1885)",
+  period: "Nhà Nguyễn / Phong trào Cần Vương",
+  image: "URL_ANH_DAI_DIEN",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị vua thứ 8 của triều Nguyễn, biểu tượng bất khuất của phong trào Cần Vương kêu gọi nhân dân kháng chiến chống thực dân Pháp.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Hàm Nghi tên thật là Nguyễn Phúc Ưng Lịch, sinh năm 1871, là em ruột của vua Kiến Phúc. Ông lên ngôi năm 1884 trong bối cảnh triều đình Huế rối ren và thực dân Pháp đang siết chặt quyền kiểm soát. Do lên ngôi khi còn nhỏ tuổi, các quyết sách quan trọng của triều đình lúc bấy giờ chủ yếu do đại thần Tôn Thất Thuyết phụ trách.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1885, sau khi kinh thành Huế thất thủ, ông cùng Tôn Thất Thuyết ra vùng núi Quảng Trị, ban chiếu Cần Vương kêu gọi sĩ phu và dân chúng đứng lên chống Pháp. Suốt 3 năm bôn ba nơi núi rừng, ông là linh hồn của cuộc kháng chiến. Năm 1888, ông bị bắt do bị phản bội và bị thực dân Pháp đưa đi đày sang Algeria. Dù sống lưu vong tại xứ người cho đến cuối đời, ông vẫn giữ vững khí tiết dân tộc và tinh thần yêu nước.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hàm Nghi để lại bài học lớn về lòng yêu nước, ý chí kiên cường và tinh thần trách nhiệm với dân tộc trước họa ngoại xâm. Hình ảnh vị vua trẻ từ bỏ cung điện để chịu gian khổ cùng nhân dân chiến đấu đã trở thành biểu tượng khơi dậy lòng tự hào dân tộc, nhắc nhở thế hệ hôm nay về ý thức bảo vệ chủ quyền và bản sắc đất nước bền vững."
+},
+
+    {
+  name: "Cao Thắng",
+  year: "1864 - 1893",
+  period: "Phong trào Cần Vương",
+  image: "URL ảnh đại diện Cao Thắng",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Cao Thắng là thủ lĩnh tiêu biểu của khởi nghĩa Hương Khê, nổi tiếng với tài tổ chức quân sự và khả năng chế tạo súng trường theo kiểu phương Tây cho nghĩa quân.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Cao Thắng sinh năm 1864 tại Thanh Chương, Nghệ An trong một gia đình nông dân. Ông có tư chất thông minh, nhanh nhạy và sớm hình thành tinh thần yêu nước quyết liệt trong bối cảnh thực dân Pháp xâm lược.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Gia nhập khởi nghĩa Hương Khê, ông trở thành phó tướng đắc lực cho Phan Đình Phùng. Ông trực tiếp huấn luyện quân đội và lập kỳ tích khi nghiên cứu, chế tạo thành công hàng trăm khẩu súng trường theo mẫu của Pháp. Dưới sự chỉ huy của ông, nghĩa quân đã giành nhiều thắng lợi quan trọng cho đến khi ông anh dũng hi sinh vào năm 1893.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Cao Thắng để lại bài học về lòng yêu nước gắn liền với tư duy sáng tạo, tự lực tự cường và tinh thần dám nghĩ dám làm. Ông nhắc nhở thế hệ trẻ về tầm quan trọng của việc học hỏi, làm chủ công nghệ và ý chí kiên định để bảo vệ và phát triển đất nước."
+},
+
+    {
+  name: "Huỳnh Thúc Kháng",
+  year: "1876 - 1947",
+  period: "Thời kỳ đấu tranh giành độc lập (Đầu thế kỷ XX)",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Huỳnh Thúc Kháng là chí sĩ yêu nước tiêu biểu, nhà báo tài năng và từng giữ chức Quyền Chủ tịch nước Việt Nam Dân chủ Cộng hòa.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Huỳnh Thúc Kháng sinh ngày 1/10/1876 tại Quảng Nam trong một gia đình nhà nho hiếu học. Ông đỗ Tiến sĩ năm 1904, nổi tiếng là người học rộng tài cao, có khí tiết cứng cỏi và sớm mang lòng yêu nước, trăn trở trước cảnh nước nhà bị thực dân Pháp đô hộ.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là lãnh đạo phong trào Duy Tân cùng Phan Châu Trinh, cổ động cải cách và nâng cao dân trí. Sau hơn 10 năm bị đày tại Côn Đảo, ông ra tù và sáng lập báo Tiếng Dân để thức tỉnh quốc dân. Sau Cách mạng tháng Tám, ông giữ chức Bộ trưởng Bộ Nội vụ và được tin tưởng giao trọng trách Quyền Chủ tịch nước năm 1946 khi Chủ tịch Hồ Chí Minh sang Pháp thương thuyết.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Huỳnh Thúc Kháng để lại bài học về lòng yêu nước gắn liền với trí tuệ và đạo đức cách mạng. Ông là biểu tượng của người trí thức giữ vững khí tiết, luôn đặt lợi ích dân tộc lên trên hết, truyền cảm hứng cho thế hệ trẻ về tinh thần học tập nghiêm túc và trách nhiệm dấn thân vì tổ quốc."
+},
+
+    {
+  name: "Nguyễn Thái Học",
+  year: "1902 - 1930",
+  period: "Thời kỳ Pháp thuộc",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà yêu nước tiêu biểu đầu thế kỷ XX, người sáng lập và lãnh đạo Việt Nam Quốc dân đảng theo khuynh hướng cách mạng dân chủ tư sản.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Thái Học sinh năm 1902 tại làng Thổ Tang, huyện Vĩnh Tường, tỉnh Vĩnh Yên (nay thuộc Vĩnh Phúc). Xuất thân trong một gia đình nhà nho yêu nước, ông sớm tiếp xúc với tư tưởng tiến bộ và có lòng căm thù chế độ thực dân. Khi còn là học sinh, ông đã có tinh thần phản kháng mạnh mẽ trước sự bất công của xã hội, từ đó hình thành chí hướng cứu nước.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1927, ông thành lập Việt Nam Quốc dân đảng nhằm chống lại ách thống trị của thực dân Pháp qua con đường bạo động. Ông tích cực tổ chức, tuyên truyền và chuẩn bị lực lượng vũ trang, đỉnh cao là lãnh đạo Khởi nghĩa Yên Bái vào tháng 2 năm 1930. Tuy nhiên, cuộc khởi nghĩa thất bại, ông bị thực dân Pháp bắt và xử tử cùng các đồng chí. Trước khi hy sinh, ông để lại câu nói bất hủ: 'Không thành công thì cũng thành nhân'.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Nguyễn Thái Học truyền cảm hứng mạnh mẽ về lòng yêu nước, tinh thần dám nghĩ dám làm và sẵn sàng hy sinh vì lý tưởng lớn. Trong bối cảnh hiện nay, ông là biểu tượng của ý chí kiên định, tinh thần trách nhiệm với dân tộc và khát vọng cống hiến cho thế hệ trẻ học tập và noi theo."
+},
+
+    {
+  name: "Võ Duy Phương",
+  year: "Đầu thế kỷ XIX - Giữa thế kỷ XIX",
+  period: "Thời kỳ nhà Nguyễn chống Pháp",
+  image: "URL ảnh đại diện Võ Duy Phương",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Võ quan triều Nguyễn kiên cường, lãnh đạo quân dân Nam Kỳ chống thực dân Pháp xâm lược trong những ngày đầu gian khổ giữa thế kỷ XIX.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Võ Duy Phương sinh vào đầu thế kỷ XIX tại vùng Nam Bộ (Đồng Nai – Gia Định xưa). Xuất thân trong gia đình có truyền thống võ nghiệp, ông sớm bộc lộ tài năng quân sự và lòng trung thành, được triều đình nhà Nguyễn trọng dụng giữ nhiều chức vụ quân sự quan trọng trấn giữ phương Nam.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Khi thực dân Pháp xâm lược (1858–1862), ông trực tiếp chỉ huy quân đội phòng thủ và chiến đấu quyết liệt tại nhiều vị trí trọng yếu ở Nam Kỳ. Dù vũ khí thô sơ và lực lượng chênh lệch, ông vẫn kiên trì ngăn bước tiến quân thù. Ngay cả khi triều đình ký hòa ước nhượng đất, ông vẫn giữ vững khí tiết võ tướng, quyết tâm chống ngoại xâm đến cùng.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hình tượng của ông là bài học lớn về lòng yêu nước và ý chí kiên cường cho thế hệ trẻ. Giá trị ấy nhắc nhở chúng ta về tinh thần trách nhiệm với dân tộc, sống có lý tưởng và không ngừng rèn luyện để bảo vệ chủ quyền, xây dựng đất nước trong thời đại mới."
+},
+
+    {
+  name: "Nguyễn Hữu Huân",
+  year: "1830 - 1875",
+  period: "Kháng chiến chống Pháp thế kỷ XIX",
+  image: "URL ảnh đại diện Thủ khoa Huân",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà nho, nghĩa sĩ tiêu biểu trong phong trào kháng Pháp tại Nam Kỳ, nổi tiếng với lòng trung nghĩa và ý chí bất khuất, không chịu khuất phục trước mọi sự đày ải.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Hữu Huân (Thủ khoa Huân) sinh năm 1830 tại Định Tường (nay là Tiền Giang). Xuất thân trong gia đình nhà nho truyền thống, ông đỗ cử nhân (Thủ khoa) dưới triều Nguyễn. Từ nhỏ, ông đã nổi tiếng thông minh, học giỏi và sớm hình thành ý thức trách nhiệm sâu sắc với vận mệnh đất nước.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Khi Pháp xâm lược Nam Kỳ, ông từ bỏ quan trường để tổ chức nghĩa quân khởi nghĩa. Ông là một lãnh đạo kiên cường, dù nhiều lần bị bắt và đày đi Cayenne (Nam Mỹ), ông vẫn tìm cách trở về tiếp tục lãnh đạo nhân dân chiến đấu. Ông kiên trì kháng chiến cho đến khi bị bắt lại và bị thực dân Pháp xử tử vào năm 1875, giữ trọn khí tiết cho đến hơi thở cuối cùng.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông là biểu tượng sáng ngời về lòng yêu nước và tinh thần 'vị quốc vong thân'. Đối với thế hệ trẻ ngày nay, cuộc đời ông nhắc nhở về ý chí vượt khó, lòng trung nghĩa và trách nhiệm cống hiến năng lực bản thân để xây dựng và bảo vệ tổ quốc trong thời đại mới."
+},
+
+    {
+  name: "Thủ Khoa Huân",
+  year: "1830 - 1875",
+  period: "Kháng chiến chống Pháp",
+  image: "URL_ANH_DAI_DIEN",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Sĩ phu yêu nước tiêu biểu tại Nam Kỳ nửa sau thế kỷ XIX, lãnh tụ nghĩa quân kiên cường chống thực dân Pháp.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Thủ Khoa Huân tên thật là Nguyễn Hữu Huân (1830-1875), quê tại tỉnh Định Tường (nay là Tiền Giang). Xuất thân từ gia đình nhà nho, ông nổi tiếng thông minh và đỗ đầu kỳ thi Hương (Thủ khoa), từ đó được nhân dân gọi là Thủ Khoa Huân. Ông lớn lên trong bối cảnh thực dân Pháp bắt đầu xâm lược nước ta.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau khi Pháp chiếm Nam Kỳ, ông từ chối làm quan cho chính quyền thuộc địa để tổ chức khởi nghĩa tại vùng Mỹ Tho – Tân An. Dù bị bắt và đày ra Côn Đảo, ông vẫn giữ vững khí tiết và tiếp tục lãnh đạo nghĩa quân sau khi được trả tự do. Cuối cùng, ông bị thực dân Pháp bắt lại và xử tử vào năm 1875.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Thủ Khoa Huân là biểu tượng cho lòng yêu nước, ý chí bất khuất và trách nhiệm của người trí thức đối với dân tộc. Bài học về việc dùng tri thức để phục vụ đất nước và tinh thần sống có lý tưởng của ông vẫn luôn soi sáng cho thế hệ trẻ Việt Nam ngày nay."
+},
+
+    {
+  name: "Phan Tôn",
+  year: "1837 - 1893",
+  period: "Phong trào Cần Vương",
+  image: "",
+  side: "left",
+  summary: "Sĩ phu yêu nước tiêu biểu trong phong trào Cần Vương cuối thế kỷ XIX, lãnh đạo nghĩa quân kháng chiến chống Pháp tại Trung Kỳ.",
+  biography: "Phan Tôn sinh ra tại Quảng Nam trong một gia đình giàu truyền thống khoa bảng, là con trai của đại thần Phan Thanh Giản. Lớn lên khi đất nước rơi vào tay thực dân Pháp, ông sớm tiếp thu tư tưởng trung quân ái quốc và ý thức trách nhiệm sâu sắc của một người trí thức trước vận mệnh dân tộc.",
+  activities: "Sau năm 1885, hưởng ứng chiếu Cần Vương, ông cùng em trai Phan Liêm chiêu mộ binh sĩ, tổ chức kháng chiến mạnh mẽ tại vùng Quảng Nam. Dù gây nhiều thiệt hại cho quân Pháp trong giai đoạn đầu, nhưng do sự chênh lệch về vũ khí và lực lượng, phong trào dần suy yếu; cuối cùng ông bị giặc bắt.",
+  legacy: "Phan Tôn là biểu tượng về lòng yêu nước và ý chí bất khuất của tầng lớp trí thức xưa. Cuộc đời ông để lại bài học về tinh thần trách nhiệm với quốc gia, nhắc nhở thế hệ trẻ hôm nay về lý tưởng sống cống hiến, sẵn sàng bảo vệ và xây dựng đất nước trong mọi hoàn cảnh."
+},
+
+    {
+  name: "Nguyễn Thiện Thuật",
+  year: "1844 - 1926",
+  period: "Phong trào Cần Vương",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lãnh tụ tiêu biểu của phong trào kháng Pháp cuối thế kỷ XIX, người chỉ huy cuộc khởi nghĩa Bãi Sậy lừng lẫy tại vùng Hưng Yên - Hải Dương.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Thiện Thuật sinh năm 1844 tại làng Xuân Dục, huyện Mỹ Hào (nay thuộc tỉnh Hưng Yên) trong một gia đình hiếu học. Ông đỗ cử nhân và từng làm quan dưới triều Nguyễn, nhưng sau đó từ bỏ quan lộ để tham gia kháng chiến khi thực dân Pháp xâm lược.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau khi hưởng ứng phong trào Cần Vương, ông lãnh đạo cuộc khởi nghĩa Bãi Sậy (1883–1892). Nguyễn Thiện Thuật đã xây dựng căn cứ tại vùng đầm lầy hiểm trở, vận dụng chiến thuật đánh du kích tài tình khiến quân Pháp tổn thất nặng nề. Khi phong trào suy yếu, ông sang Trung Quốc tiếp tục tìm đường cứu nước.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông để lại bài học về lòng yêu nước gắn liền với hành động, sự sáng tạo trong nghệ thuật quân sự du kích và ý chí kiên trì bền bỉ. Với thế hệ trẻ, cuộc đời ông là lời nhắc nhở về tinh thần trách nhiệm, bản lĩnh và lòng tận trung với tổ quốc."
+},
+
+    {
+  name: "Đinh Công Tráng",
+  year: "1842 - 1887",
+  period: "Phong trào Cần Vương",
+  image: "URL ảnh đại diện Đinh Công Tráng",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Thủ lĩnh tiêu biểu của phong trào chống Pháp cuối thế kỷ XIX, nổi tiếng với việc lãnh đạo cuộc khởi nghĩa Ba Đình kiên cường.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Đinh Công Tráng sinh năm 1842 tại Thanh Hóa trong một gia đình nông dân yêu nước. Từ nhỏ, ông đã sớm hun đúc tinh thần chống ngoại xâm và ý thức bảo vệ quê hương. Chứng kiến cảnh đất nước bị đô hộ và nhân dân lầm than, ông đã quyết tâm đứng lên kháng chiến chống thực dân Pháp.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là lãnh tụ cao nhất của khởi nghĩa Ba Đình (1886–1887). Tại đây, ông cùng nghĩa quân xây dựng hệ thống phòng thủ độc đáo, kiên cố với hào lũy và công sự chắc chắn. Dưới sự chỉ huy của ông, nghĩa quân đã đẩy lui nhiều đợt tấn công quy mô của quân Pháp. Dù cuộc khởi nghĩa thất bại do chênh lệch lực lượng và bị bao vây, sự hy sinh của ông năm 1887 đã trở thành biểu tượng của lòng quả cảm.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Đinh Công Tráng là bài học lớn về lòng yêu nước, ý chí kiên cường và tinh thần đoàn kết dân tộc. Trong thời đại ngày nay, giá trị ấy chuyển hóa thành trách nhiệm học tập và rèn luyện để xây dựng đất nước. Bản lĩnh và sự kiên trì của ông vẫn luôn là nguồn cảm hứng để thế hệ trẻ giữ vững độc lập và phát triển quốc gia."
+},
+
+    {
+  name: "Phạm Bành",
+  year: "1827 - 1887",
+  period: "Phong trào Cần Vương",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Phạm Bành là thủ lĩnh tiêu biểu của cuộc khởi nghĩa Ba Đình trong phong trào Cần Vương, nổi tiếng với tinh thần kiên cường và lòng trung thành vô hạn với Tổ quốc.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Phạm Bành sinh năm 1827 tại Thanh Hóa trong một gia đình Nho học. Ông từng đỗ đạt và làm quan cho triều đình nhà Nguyễn. Tuy nhiên, khi thực dân Pháp xâm lược, ông đã từ bỏ quan trường để dấn thân vào con đường kháng chiến, thể hiện khí tiết của một trí thức yêu nước.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Hưởng ứng Chiếu Cần Vương, ông cùng các nghĩa sĩ xây dựng căn cứ Ba Đình (Thanh Hóa) thành một pháo đài kháng chiến kiên cố. Với vai trò chỉ huy, ông tổ chức phòng thủ chặt chẽ và đẩy lùi nhiều đợt tấn công của quân Pháp. Khi cuộc khởi nghĩa thất bại vào năm 1887, ông đã chọn cái chết để giữ trọn khí tiết, không để rơi vào tay giặc.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Phạm Bành để lại bài học sâu sắc về lòng yêu nước, ý chí bản lĩnh và sự kiên định với lý tưởng. Đối với thế hệ trẻ, ông là minh chứng cho tinh thần trách nhiệm, dám đứng lên vì lẽ phải và cống hiến hết mình cho sự nghiệp xây dựng, bảo vệ đất nước bền vững."
+},
+
+    {
+  name: "Tống Duy Tân",
+  year: "1838 - 1892",
+  period: "Phong trào Cần Vương",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Sĩ phu yêu nước tiêu biểu cuối thế kỷ XIX, thủ lĩnh kiên cường của phong trào Cần Vương tại Thanh Hóa.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Tống Duy Tân sinh năm 1838 tại Thanh Hóa trong một gia đình hiếu học. Ông đỗ cử nhân và từng làm quan dưới triều Nguyễn, nhưng sau đó từ bỏ quan lộ để dấn thân vào con đường kháng chiến khi đất nước bị thực dân Pháp xâm lược.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Hưởng ứng chiếu Cần Vương, ông tổ chức nghĩa quân tại Thanh Hóa, xây dựng căn cứ và lãnh đạo nhiều trận đánh ác liệt. Ông từng liên kết với Đinh Công Tráng để đẩy mạnh phong trào kháng chiến. Dù lực lượng chênh lệch, ông vẫn kiên trì chiến đấu cho đến khi bị bắt và hy sinh vào năm 1892, giữ trọn khí tiết người yêu nước.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông là biểu tượng cho tinh thần yêu nước và trách nhiệm của tầng lớp trí thức trước vận mệnh dân tộc. Ông nhắc nhở thế hệ trẻ về lòng tự hào dân tộc, ý thức bảo vệ Tổ quốc và sự kiên trì theo đuổi lý tưởng đúng đắn trong cả thời chiến lẫn thời bình."
+},
+
+    {
+  name: "Nguyễn Quang Bích",
+  year: "1832 - 1890",
+  period: "Thời kỳ kháng Pháp (Phong trào Cần Vương)",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nguyễn Quang Bích là sĩ phu yêu nước tiêu biểu cuối thế kỷ XIX, thủ lĩnh nghĩa quân kháng Pháp anh dũng tại vùng Tây Bắc.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Quang Bích (1832-1890) sinh tại Hưng Yên trong một gia đình nhà nho truyền thống. Ông đỗ Tiến sĩ dưới triều Nguyễn, từng giữ nhiều chức vụ quan trọng và sớm hình thành tinh thần yêu nước, trách nhiệm với vận mệnh dân tộc trong bối cảnh đất nước bị xâm lược.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Hưởng ứng chiếu Cần Vương, ông tổ chức lực lượng kháng chiến mạnh mẽ tại vùng Tây Bắc (Yên Bái, Lào Cai). Dù điều kiện vô cùng khó khăn và lực lượng chênh lệch, ông vẫn kiên trì lãnh đạo nghĩa quân xây dựng căn cứ, chống lại các cuộc tấn công của thực dân Pháp cho đến hơi thở cuối cùng.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông là bài học lớn về lòng yêu nước gắn liền với hành động thực tế và ý chí kiên cường. Trong thời đại ngày nay, tinh thần ấy truyền cảm hứng cho thế hệ trẻ về trách nhiệm với cộng đồng, ý thức rèn luyện bản thân để xây dựng và bảo vệ Tổ quốc."
+},
+
+    {
+  name: "Trần Phú",
+  year: "1904 - 1931",
+  period: "Thời kỳ đấu tranh giải phóng dân tộc",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam, người soạn thảo Luận cương chính trị năm 1930 đặt nền móng lý luận cho cách mạng Việt Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Phú sinh ngày 1/5/1904 tại Hà Tĩnh trong một gia đình nhà nho yêu nước. Ông từng học tại Trường Quốc học Huế, sau đó sang Liên Xô học tập tại Trường Đại học Phương Đông, nơi ông tiếp thu sâu sắc chủ nghĩa Mác - Lênin và tư tưởng cách mạng vô sản.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1930, ông được bầu làm Tổng Bí thư đầu tiên của Đảng và trực tiếp soạn thảo Luận cương chính trị. Năm 1931, ông bị thực dân Pháp bắt giam và tra tấn dã man. Dù chịu cực hình, ông vẫn giữ vững khí tiết cách mạng với lời nhắn nhủ nổi tiếng 'Hãy giữ vững chí khí chiến đấu' trước khi hy sinh tại nhà tù ở tuổi 27.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Trần Phú là biểu tượng về lòng kiên định lý tưởng và sự hy sinh cao cả vì độc lập dân tộc. Đối với thế hệ trẻ, ông là nguồn cảm hứng về tinh thần học tập, rèn luyện bản lĩnh chính trị và trách nhiệm xây dựng đất nước vững mạnh trước những thách thức của thời đại mới."
+},
+
+    {
+  name: "Lê Hồng Phong",
+  year: "1902 - 1942",
+  period: "Thời kỳ đấu tranh giành độc lập (Đầu thế kỷ XX)",
+  image: "",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lê Hồng Phong là Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương, người có công lớn trong việc khôi phục tổ chức Đảng và kết nối cách mạng Việt Nam với phong trào quốc tế.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lê Hồng Phong tên thật là Lê Huy Doãn, sinh năm 1902 tại Nghệ An trong một gia đình lao động nghèo. Sớm chứng kiến cảnh áp bức, ông nuôi chí đấu tranh và từng sang học tập tại Liên Xô, được đào tạo bài bản về quân sự và lý luận cách mạng.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông hoạt động tích cực tại Quốc tế Cộng sản và giữ chức Tổng Bí thư Đảng giai đoạn 1935–1936, lãnh đạo khôi phục hệ thống tổ chức Đảng sau thời kỳ bị khủng bố. Năm 1939, ông bị thực dân Pháp bắt giam và anh dũng hy sinh tại nhà tù Côn Đảo vào năm 1942.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông để lại bài học về lòng kiên định lý tưởng, tinh thần dấn thân vì dân tộc và tầm quan trọng của việc kết hợp lòng yêu nước với tri thức, bản lĩnh để hội nhập với xu thế phát triển của thế giới."
+},
+
+    {
+  name: "Hà Huy Tập",
+  year: "1906 - 1941",
+  period: "Thời kỳ đấu tranh giải phóng dân tộc (1930-1945)",
+  image: "URL ảnh đại diện Hà Huy Tập",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà lãnh đạo tiêu biểu của cách mạng Việt Nam, nguyên Tổng Bí thư Đảng Cộng sản Đông Dương với tư duy lý luận sắc bén và tinh thần đấu tranh kiên định.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Hà Huy Tập sinh năm 1906 tại xã Cẩm Hưng, huyện Cẩm Xuyên, tỉnh Hà Tĩnh trong một gia đình nhà nho yêu nước. Ông từng học tại Trường Quốc học Huế và làm giáo viên trước khi dấn thân vào con đường cách mạng. Hoàn cảnh đất nước bị đô hộ đã sớm hun đúc trong ông ý chí đấu tranh giải phóng dân tộc.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông tham gia cách mạng từ sớm, gia nhập Hội Việt Nam Cách mạng Thanh niên và từng học tại Trường Đại học Phương Đông (Liên Xô). Năm 1936, ông được bầu làm Tổng Bí thư Đảng Cộng sản Đông Dương, trực tiếp lãnh đạo phong trào đấu tranh dân chủ. Sau khi bị thực dân Pháp bắt và tra tấn dã man, ông vẫn giữ vững khí tiết và bị xử bắn vào năm 1941.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông đại diện cho tinh thần kiên trung và sự cống hiến trọn đời cho lý tưởng. Đối với thế hệ trẻ hiện nay, cuộc đời ông là bài học về ý chí học tập không ngừng, bản lĩnh vượt khó và trách nhiệm với đất nước, khuyến khích thái độ sống nghiêm túc và kỷ luật để xây dựng quốc gia."
+},
+
+    {
+  name: "Nguyễn Văn Cừ",
+  year: "1912 - 1941",
+  period: "Thời kỳ vận động giải phóng dân tộc (1930 - 1945)",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà lãnh đạo xuất sắc, Tổng Bí thư trẻ tuổi nhất của Đảng Cộng sản Đông Dương với tư duy lý luận sắc bén và tinh thần đổi mới.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Văn Cừ sinh ngày 9/7/1912 tại làng Phù Khê, huyện Từ Sơn, tỉnh Bắc Ninh, trong một gia đình nhà nho yêu nước. Được giáo dục trong môi trường coi trọng học vấn và lòng yêu nước từ nhỏ, ông sớm tiếp xúc với tinh thần đấu tranh chống thực dân và tham gia hoạt động cách mạng từ tuổi thiếu niên với ý chí kiên định.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Gia nhập Hội Việt Nam Cách mạng Thanh niên từ những năm 1920, ông trở thành đảng viên Đảng Cộng sản Đông Dương và được bầu làm Tổng Bí thư năm 1938 khi mới 26 tuổi. Ông có đóng góp lớn trong việc chỉnh đốn Đảng qua tác phẩm 'Tự chỉ trích'. Năm 1940, ông bị thực dân Pháp bắt và hy sinh năm 1941 tại Hóc Môn.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông để lại bài học về tinh thần dám nghĩ, dám đổi mới và tự hoàn thiện bản thân. Đặc biệt, tư tưởng về tự phê bình và phê bình của ông vẫn giữ nguyên giá trị trong việc xây dựng tổ chức và phát triển cá nhân hiện đại, giúp nhận diện sai lầm để vững bước trên con đường dài."
+},
+
+    {
+  name: "Hồ Chí Minh",
+  year: "1890 - 1969",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lãnh tụ vĩ đại của dân tộc Việt Nam, người sáng lập Đảng Cộng sản Việt Nam và khai sinh ra nước Việt Nam Dân chủ Cộng hòa.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Tên khai sinh là Nguyễn Sinh Cung, sinh ngày 19/5/1890 tại làng Kim Liên, Nam Đàn, Nghệ An. Lớn lên trong một gia đình nhà nho yêu nước có thân phụ là cụ Nguyễn Sinh Sắc và thân mẫu là bà Hoàng Thị Loan, ông sớm hình thành ý chí cứu nước khi chứng kiến cảnh nước mất nhà tan.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1911, ông ra đi tìm đường cứu nước tại bến cảng Nhà Rồng. Sau nhiều năm bôn ba hải ngoại, năm 1930, ông hợp nhất và thành lập Đảng Cộng sản Việt Nam. Năm 1941, ông về nước trực tiếp lãnh đạo phong trào cách mạng, dẫn đến thắng lợi của Cách mạng Tháng Tám năm 1945 và đọc Tuyên ngôn Độc lập tại quảng trường Ba Đình.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tư tưởng Hồ Chí Minh là tài sản tinh thần vô giá, đề cao lòng yêu nước, tinh thần tự lực tự cường và lối sống giản dị, liêm khiết. Tấm gương của Người là kim chỉ nam cho thế hệ trẻ học tập về nhân cách, đạo đức và trách nhiệm cống hiến cho tổ quốc trong thời đại hội nhập."
+},
+
+    {
+  name: "Hoàng Văn Thụ",
+  year: "1909 - 1944",
+  period: "Thời kỳ tiền khởi nghĩa (1930 - 1945)",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lãnh đạo tiêu biểu của cách mạng Việt Nam thời kỳ tiền khởi nghĩa, người góp công lớn xây dựng phong trào cách mạng tại Bắc Kỳ và củng cố tổ chức Đảng.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Hoàng Văn Thụ sinh năm 1909 tại tỉnh Lạng Sơn trong một gia đình giàu truyền thống yêu nước. Sống trong cảnh đất nước bị thực dân Pháp đô hộ, ông sớm được giáo dục lòng yêu nước và ý thức dân tộc sâu sắc, từ đó lựa chọn con đường cách mạng ngay khi còn rất trẻ.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Tham gia cách mạng từ những năm 1920, ông trở thành đảng viên Đảng Cộng sản Đông Dương và giữ chức Xứ ủy viên Bắc Kỳ. Ông trực tiếp lãnh đạo, gây dựng phong trào tại nhiều địa phương và củng cố hệ thống tổ chức của Đảng. Năm 1944, ông bị thực dân Pháp bắt và xử tử, nhưng trước họng súng quân thù, ông vẫn giữ vững khí tiết bất khuất của người chiến sĩ cộng sản.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông để lại giá trị sâu sắc về tinh thần yêu nước, ý chí kiên định và lòng trung thành tuyệt đối với lý tưởng. Đối với thế hệ trẻ hôm nay, cuộc đời ông là bài học về sống có lý tưởng, biết cống hiến và giữ vững bản lĩnh để xây dựng, bảo vệ Tổ quốc trong thời kỳ mới."
+},
+
+    {
+  name: "Chu Văn Tấn",
+  year: "1910 - 1984",
+  period: "Thời đại Hồ Chí Minh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà cách mạng tiêu biểu người dân tộc Tày, người có công lớn trong việc xây dựng lực lượng vũ trang và phong trào cách mạng tại căn cứ địa Việt Bắc.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Chu Văn Tấn sinh năm 1910 tại tỉnh Lạng Sơn trong một gia đình dân tộc Tày giàu truyền thống yêu nước. Lớn lên trong cảnh nước mất nhà tan, ông sớm nuôi dưỡng tinh thần đấu tranh. Nhờ am hiểu sâu sắc địa hình vùng núi và phong tục tập quán của đồng bào dân tộc thiểu số, ông đã trở thành một cán bộ vận động quần chúng xuất sắc.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông tham gia cách mạng từ sớm, hoạt động tích cực trong phong trào Việt Minh và trở thành lãnh đạo chủ chốt tại căn cứ địa Bắc Sơn - Võ Nhai. Ông có vai trò quan trọng trong việc xây dựng các đơn vị Cứu quốc quân, tiền thân của Quân đội nhân dân Việt Nam. Trong Cách mạng Tháng Tám, ông chỉ huy lực lượng vũ trang góp phần giành chính quyền. Sau năm 1945, ông giữ nhiều chức vụ cao cấp trong quân đội như Bộ trưởng Bộ Quốc phòng, Thượng tướng, góp công lớn vào thắng lợi của các cuộc kháng chiến chống ngoại xâm.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Chu Văn Tấn là biểu tượng cho tinh thần đại đoàn kết dân tộc và ý chí kiên cường của người chiến sĩ cách mạng. Ông để lại bài học quý báu về việc gắn bó mật thiết với nhân dân, đặc biệt là đồng bào vùng cao. Thế hệ trẻ hôm nay học được từ ông lòng yêu nước, trách nhiệm với cộng đồng và sự trân trọng bản sắc văn hóa dân tộc trong sự nghiệp xây dựng và bảo vệ Tổ quốc."
+},
+
+    {
+  name: "Hoàng Văn Thái",
+  year: "1915 - 1986",
+  period: "Kháng chiến chống Pháp và chống Mỹ",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị Đại tướng tiêu biểu, Tổng Tham mưu trưởng đầu tiên của Quân đội Nhân dân Việt Nam, người có công lớn trong việc định hình nghệ thuật quân sự hiện đại.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Hoàng Văn Thái tên thật là Hoàng Văn Xiêm, sinh năm 1915 tại Thái Bình trong một gia đình yêu nước. Ông tham gia cách mạng từ sớm, gia nhập các tổ chức tiền thân của Đảng và được rèn luyện toàn diện về cả tư tưởng chính trị lẫn năng lực quân sự trong phong trào đấu tranh giành độc lập.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Là một trong những cán bộ quân sự đầu tiên, ông tham gia xây dựng lực lượng vũ trang từ thời tiền khởi nghĩa. Trong hai cuộc kháng chiến, ông giữ các chức vụ quan trọng như Tổng Tham mưu trưởng, Thứ trưởng Bộ Quốc phòng. Ông trực tiếp chỉ đạo nhiều chiến dịch lớn và có đóng góp xuất sắc trong việc tổ chức, huấn luyện quân đội chính quy, hiện đại.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông thể hiện tinh thần kỷ luật, tư duy chiến lược và sự tận tụy vô hạn. Những đóng góp của ông là bài học quý báu trong xây dựng quốc phòng hiện nay, truyền cảm hứng về bản lĩnh, ý chí vượt khó và trách nhiệm bảo vệ Tổ quốc cho thế hệ trẻ."
+},
+
+    {
+  name: "Lê Trọng Tấn",
+  year: "1914 - 1986",
+  period: "Kháng chiến chống Pháp & chống Mỹ",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị tướng tiêu biểu của Quân đội Nhân dân Việt Nam với tư duy chiến lược sắc bén, người chỉ huy cánh quân phía Đông trong Chiến dịch Hồ Chí Minh lịch sử.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lê Trọng Tấn sinh năm 1914 tại Hà Nội trong một gia đình có truyền thống yêu nước. Sớm tiếp xúc với tinh thần cách mạng, ông gia nhập quân đội và trưởng thành trong môi trường chiến đấu khốc liệt, luôn thể hiện phẩm chất kiên cường, kỷ luật và lòng trung thành tuyệt đối với Tổ quốc.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong kháng chiến chống Pháp, ông giữ nhiều vị trí chỉ huy chủ chốt tại các chiến dịch quan trọng. Thời kỳ chống Mỹ, ông đảm nhận trọng trách lớn, trực tiếp chỉ huy chiến dịch Đường 9 – Nam Lào và đặc biệt là cánh quân phía Đông tiến vào Sài Gòn trong Chiến dịch Hồ Chí Minh, góp phần tạo nên thắng lợi bước ngoặt giải phóng miền Nam.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của ông là bài học lớn về tinh thần kỷ luật, ý chí kiên định và năng lực tổ chức xuất sắc. Trong bối cảnh hiện đại, tinh thần dám nghĩ dám làm và sự cống hiến tận tụy của ông vẫn luôn truyền cảm hứng cho thế hệ trẻ trong công cuộc xây dựng và bảo vệ Tổ quốc."
+},
+
+    {
+  name: "Nguyễn Bình",
+  year: "1908 - 1951",
+  period: "Kháng chiến chống Pháp",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị Trung tướng đầu tiên của Quân đội Nhân dân Việt Nam, người có công lớn trong việc thống nhất các lực lượng vũ trang và xây dựng thế trận chiến tranh nhân dân tại Nam Bộ.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Bình tên thật là Nguyễn Phương Thảo, sinh năm 1908 tại tỉnh Hưng Yên trong một gia đình giàu truyền thống yêu nước. Ông sớm giác ngộ lý tưởng cách mạng, tham gia hoạt động chống thực dân từ trẻ và luôn giữ vững ý chí kiên cường dù trải qua nhiều lần bị bắt giam, tù đày.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau Cách mạng tháng Tám 1945, ông được cử vào Nam Bộ để lãnh đạo kháng chiến. Tại đây, ông đã thực hiện nhiệm vụ quan trọng là thống nhất các lực lượng vũ trang phân tán, xây dựng hệ thống chỉ huy thống nhất và phát triển mạnh mẽ phong trào chiến tranh du kích. Năm 1948, ông được phong quân hàm Trung tướng. Năm 1951, ông hy sinh trên đường đi công tác tại Campuchia.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Nguyễn Bình để lại bài học quý báu về tinh thần kiên định, dám nghĩ dám làm và sẵn sàng hy sinh vì độc lập dân tộc. Di sản của ông nhấn mạnh tầm quan trọng của sự đoàn kết, kỷ luật và tư duy linh hoạt — những giá trị vẫn còn nguyên vẹn ý nghĩa trong việc giáo dục trách nhiệm của thế hệ trẻ đối với sự phát triển của đất nước hôm nay."
 },
 
     
