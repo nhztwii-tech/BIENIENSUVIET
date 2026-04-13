@@ -1406,7 +1406,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Hoàng Văn Thái",
   year: "1915 - 1986",
   period: "Kháng chiến chống Pháp và chống Mỹ",
-  image: "",
+  image: "image/HoangVanThai.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị Đại tướng tiêu biểu, Tổng Tham mưu trưởng đầu tiên của Quân đội Nhân dân Việt Nam, người có công lớn trong việc định hình nghệ thuật quân sự hiện đại.",
@@ -1422,7 +1422,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lê Trọng Tấn",
   year: "1914 - 1986",
   period: "Kháng chiến chống Pháp & chống Mỹ",
-  image: "URL ảnh đại diện",
+  image: "image/LeTrongTan.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị tướng tiêu biểu của Quân đội Nhân dân Việt Nam với tư duy chiến lược sắc bén, người chỉ huy cánh quân phía Đông trong Chiến dịch Hồ Chí Minh lịch sử.",
@@ -1438,7 +1438,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Bình",
   year: "1908 - 1951",
   period: "Kháng chiến chống Pháp",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenBinh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị Trung tướng đầu tiên của Quân đội Nhân dân Việt Nam, người có công lớn trong việc thống nhất các lực lượng vũ trang và xây dựng thế trận chiến tranh nhân dân tại Nam Bộ.",
