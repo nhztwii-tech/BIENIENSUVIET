@@ -574,7 +574,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Thiệu Trị (Nguyễn Phúc Miên Tông)",
   year: "1841 - 1847",
   period: "Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/Thiệu Trị.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị hoàng đế thứ ba của triều Nguyễn, người nỗ lực duy trì trật tự Nho giáo và bảo vệ chủ quyền quốc gia theo đường lối của vua cha Minh Mạng.",
@@ -590,7 +590,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Công Trứ",
   year: "1778 - 1858",
   period: "Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenCongTru.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Một danh nhân lớn thời nhà Nguyễn, nổi bật trong nhiều lĩnh vực từ chính trị, quân sự đến văn học, với tư tưởng sống phóng khoáng và chí làm trai lừng lẫy.",
@@ -606,7 +606,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Tri Phương",
   year: "1800 - 1873",
   period: "Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenTriPhuong.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị danh tướng, đại thần tiêu biểu của triều Nguyễn, biểu tượng của tinh thần trung quân ái quốc và ý chí kiên cường chống thực dân Pháp xâm lược.",
@@ -622,7 +622,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Hoàng Diệu",
   year: "1829 - 1882",
   period: "Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/HoangDieu.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị quan trung nghĩa tiêu biểu của triều Nguyễn, người đã anh dũng chiến đấu và tuẫn tiết để bảo vệ thành Hà Nội trước cuộc xâm lược của thực dân Pháp.",
@@ -638,7 +638,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Phan Thanh Giản",
   year: "1796 - 1867",
   period: "Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/Phan_Thanh_Gian.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Một đại thần lỗi lạc của triều Nguyễn, nổi tiếng với sự thanh liêm và những nỗ lực ngoại giao không mệt mỏi trong bối cảnh thực dân Pháp xâm lược.",
@@ -654,7 +654,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Du",
   year: "1765 - 1820",
   period: "Thời Lê Trung hưng - Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenDu.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Đại thi hào dân tộc, danh nhân văn hóa thế giới, tác giả của kiệt tác Truyện Kiều và là người đưa tiếng Việt cùng thể thơ lục bát đạt đến đỉnh cao nghệ thuật.",
@@ -670,7 +670,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Cao Bá Quát",
   year: "1809 - 1855",
   period: "Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/CaoBaQuat.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Danh sĩ lỗi lạc thời Nguyễn được mệnh danh là 'Thánh Quát', nổi tiếng với tài văn chương xuất chúng và khí phách hiên ngang, dám đứng lên chống lại bất công.",
@@ -686,7 +686,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Đình Chiểu",
   year: "1822 - 1888",
   period: "Nhà Nguyễn / Thời kỳ chống Pháp",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenDinhChieu.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà thơ, nhà văn hóa lớn của dân tộc, biểu tượng cho tinh thần yêu nước quật cường và đạo lý nhân nghĩa sáng ngời dù trong hoàn cảnh mù lòa.",
@@ -702,7 +702,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lê Chiêu Thống",
   year: "1765 - 1793",
   period: "Nhà Lê Trung Hưng (Giai đoạn cuối)",
-  image: "URL ảnh đại diện",
+  image: "image/LeChieuThong.jpeg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị vua cuối cùng của triều Lê, trị vì trong giai đoạn đất nước rối ren và gắn liền với sự kiện cầu viện nhà Thanh đầy tranh cãi.",
@@ -718,7 +718,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Mạc Đăng Dung",
   year: "1483 - 1541",
   period: "Nhà Mạc",
-  image: "URL ảnh đại diện",
+  image: "image/MacDangDung.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị vua sáng lập triều Mạc, xuất thân từ bình dân, có công ổn định xã hội sau thời kỳ loạn lạc cuối triều Lê sơ nhưng cũng gây nhiều tranh cãi về tính chính danh.",
@@ -734,7 +734,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Hồ Quý Ly",
   year: "1336 - 1407",
   period: "Nhà Hồ",
-  image: "URL ảnh đại diện",
+  image: "image/HoQuyLy.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Chính trị gia và nhà cải cách lỗi lạc, người thành lập nhà Hồ và thực hiện những thay đổi táo bạo về kinh tế, quân sự nhưng chưa thu phục được lòng dân.",
@@ -750,7 +750,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Trần Thủ Độ",
   year: "1194 - 1264",
   period: "Nhà Trần",
-  image: "URL ảnh đại diện",
+  image: "image/TranThuDo.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Công thần khai quốc có vai trò quyết định trong việc thành lập nhà Trần, nổi tiếng là nhà chính trị cứng rắn, quyết đoán và luôn đặt lợi ích quốc gia lên hàng đầu.",
@@ -766,7 +766,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lý Chiêu Hoàng",
   year: "1218 - 1278 (Trị vì: 1224 - 1225)",
   period: "Nhà Lý / Nhà Trần",
-  image: "URL ảnh đại diện",
+  image: "image/LyChieuHoang.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị nữ hoàng đầu tiên và duy nhất trong lịch sử phong kiến Việt Nam, người đã thực hiện cuộc chuyển giao vương triều lịch sử từ nhà Lý sang nhà Trần.",
@@ -782,7 +782,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Trần Thái Tông (Trần Cảnh)",
   year: "1218 - 1277 (Trị vì: 1225 - 1258)",
   period: "Nhà Trần",
-  image: "URL ảnh đại diện",
+  image: "image/TranThaiTong-TranCanh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị vua khai sáng triều đại nhà Trần, người có công lớn trong việc củng cố nền chính trị vững mạnh và lãnh đạo cuộc kháng chiến chống quân Mông Cổ lần thứ nhất.",
@@ -798,7 +798,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Võ Nguyên Giáp",
   year: "1911 - 2013",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/VoNguyenGiap.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam, nhà quân sự kiệt xuất với tài thao lược lỗi lạc, người có đóng góp quyết định vào chiến thắng Điện Biên Phủ chấn động địa cầu.",
@@ -814,7 +814,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Chí Thanh",
   year: "1914 - 1967",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenChiThanh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị tướng xuất sắc của Quân đội nhân dân Việt Nam, nhà lãnh đạo chính trị lỗi lạc với tư duy chiến lược sắc bén và đóng góp quan trọng trong việc phát triển nghệ thuật chiến tranh nhân dân.",
@@ -830,7 +830,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Văn Tiến Dũng",
   year: "1917 - 2002",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/VanTienDUng.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị tướng chiến lược xuất sắc, Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam, người trực tiếp chỉ huy Chiến dịch Hồ Chí Minh lịch sử giải phóng miền Nam năm 1975.",
@@ -846,7 +846,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Trường Chinh",
   year: "1907 - 1988",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/TruongChinh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà lãnh đạo kiệt xuất, nhà lý luận chính trị lỗi lạc của cách mạng Việt Nam, người từng nhiều lần giữ chức Tổng Bí thư và có công lớn trong việc định hướng đường lối chiến lược của Đảng.",
@@ -862,7 +862,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Phạm Văn Đồng",
   year: "1906 - 2000",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/PhamVanDong.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà lãnh đạo xuất sắc, người học trò gần gũi của Chủ tịch Hồ Chí Minh, từng giữ cương vị Thủ tướng Chính phủ lâu đời nhất trong lịch sử Việt Nam với nhiều đóng góp to lớn cho sự nghiệp giải phóng và kiến thiết đất nước.",
@@ -878,7 +878,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lê Duẩn",
   year: "1907 - 1986",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/LeDuan.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lãnh đạo chủ chốt của cách mạng Việt Nam, người giữ cương vị Tổng Bí thư trong thời kỳ kháng chiến chống Mỹ cứu nước và giai đoạn đầu xây dựng đất nước sau thống nhất.",
@@ -894,7 +894,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Tạ Quang Bửu",
   year: "1910 - 1986",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/TaQuangBuu.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Một trí thức lớn, nhà toán học và nhà quản lý giáo dục chiến lược, người đặt nền móng cho hệ thống đại học và khoa học - kỹ thuật của nước Việt Nam độc lập.",
@@ -910,7 +910,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Trần Đại Nghĩa",
   year: "1913 - 1997",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/TranDaiNghia.jpeg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà khoa học, kỹ sư quân sự lỗi lạc, người đặt nền móng cho ngành công nghiệp quốc phòng Việt Nam với những sáng chế vũ khí mang tính quyết định trong kháng chiến.",
@@ -926,7 +926,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Thị Bình",
   year: "1927 - Hiện nay",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenThiBInh.webp",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nữ lãnh đạo, nhà ngoại giao xuất sắc, Trưởng phái đoàn đàm phán tại Hiệp định Paris, biểu tượng của trí tuệ và bản lĩnh Việt Nam trên mặt trận quốc tế.",
@@ -942,7 +942,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Thị Định",
   year: "1920 - 1992",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenThiDinh.jpeg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nữ Thiếu tướng đầu tiên của Quân đội nhân dân Việt Nam, linh hồn của phong trào Đồng khởi và 'Đội quân tóc dài' huyền thoại.",
@@ -958,7 +958,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lê Đức Thọ",
   year: "1911 - 1990",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/LeDucTho.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà lãnh đạo xuất sắc của cách mạng Việt Nam, người trực tiếp đàm phán và góp công lớn vào việc ký kết Hiệp định Paris 1973, chấm dứt chiến tranh tại Việt Nam.",
@@ -974,7 +974,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Xuân Thủy",
   year: "1912 - 1985",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/XuanThuy.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà ngoại giao, nhà báo và chính khách tiêu biểu, người giữ vai trò Trưởng đoàn đàm phán của Chính phủ Việt Nam Dân chủ Cộng hòa tại Hội nghị Paris, góp công lớn vào thắng lợi trên mặt trận ngoại giao.",
@@ -990,7 +990,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Võ Văn Kiệt",
   year: "1922 - 2008",
   period: "Thời đại Hồ Chí Minh / Thời kỳ Đổi mới",
-  image: "URL ảnh đại diện",
+  image: "image/VoVanKiet.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà lãnh đạo kiệt xuất thời kỳ Đổi mới, giữ chức Thủ tướng Chính phủ (1991–1997), người có tư duy quyết đoán và đóng góp to lớn trong việc hiện đại hóa đất nước.",
@@ -1006,7 +1006,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Văn Linh",
   year: "1915 - 1998",
   period: "Thời kỳ Đổi mới",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenVanLinh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà lãnh đạo tiêu biểu, người khởi xướng và thúc đẩy mạnh mẽ công cuộc Đổi mới đất nước, giữ chức Tổng Bí thư Đảng Cộng sản Việt Nam (1986–1991).",
@@ -1022,7 +1022,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Chu Văn An",
   year: "1292 - 1370",
   period: "Thời Trần",
-  image: "URL ảnh đại diện",
+  image: "image/ChuVanAn.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà giáo, nhà nho tiêu biểu thời Trần, được tôn vinh là 'Vạn thế sư biểu' nhờ nhân cách thanh cao và tinh thần cương trực.",
@@ -1038,7 +1038,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lương Thế Vinh",
   year: "1441 - 1496",
   period: "Thời Lê sơ",
-  image: "URL ảnh đại diện",
+  image: "image/LuongTheVInh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Danh nhân văn hóa tiêu biểu thời Lê sơ, được mệnh danh là 'Trạng Lường' nhờ trí tuệ xuất chúng và những đóng góp to lớn cho toán học Việt Nam.",
@@ -1054,7 +1054,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Khuyến",
   year: "1835 - 1909",
   period: "Thời Nhà Nguyễn",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenKhuyen.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà thơ lớn của dân tộc, được mệnh danh là 'Tam nguyên Yên Đổ' với tâm hồn gắn bó sâu sắc với làng quê và khí tiết thanh cao trước thời cuộc.",
@@ -1070,7 +1070,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Ngô Sĩ Liên",
   year: "Thế kỷ XV",
   period: "Thời Lê Sơ",
-  image: "URL ảnh đại diện",
+  image: "image/NgoSiLien.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà sử học lớn thời Lê sơ, chủ biên bộ 'Đại Việt sử ký toàn thư' – tác phẩm chính sử quan trọng nhất trong lịch sử dân tộc Việt Nam.",
@@ -1086,7 +1086,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lê Quý Đôn",
   year: "1726 - 1784",
   period: "Thời Lê Trung hưng",
-  image: "URL ảnh đại diện",
+  image: "image/LeQuyDon.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà bác học lớn nhất lịch sử phong kiến Việt Nam với kiến thức uyên thâm đa ngành và khối lượng tác phẩm đồ sộ.",
@@ -1102,7 +1102,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Tôn Thất Thuyết",
   year: "1839 - 1913",
   period: "Thời kỳ Nhà Nguyễn - Phong trào Cần Vương",
-  image: "URL ảnh đại diện",
+  image: "image/TonThatThuyet.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Đại thần triều Nguyễn, người lãnh đạo phe Chủ chiến và khởi xướng phong trào Cần Vương chống Pháp cuối thế kỷ XIX.",
@@ -1118,7 +1118,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Hàm Nghi",
   year: "1871 - 1944 (Trị vì: 1884 - 1885)",
   period: "Nhà Nguyễn / Phong trào Cần Vương",
-  image: "URL_ANH_DAI_DIEN",
+  image: "image/HamNghi.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị vua thứ 8 của triều Nguyễn, biểu tượng bất khuất của phong trào Cần Vương kêu gọi nhân dân kháng chiến chống thực dân Pháp.",
@@ -1134,7 +1134,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Cao Thắng",
   year: "1864 - 1893",
   period: "Phong trào Cần Vương",
-  image: "URL ảnh đại diện Cao Thắng",
+  image: "image/CaoThang.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Cao Thắng là thủ lĩnh tiêu biểu của khởi nghĩa Hương Khê, nổi tiếng với tài tổ chức quân sự và khả năng chế tạo súng trường theo kiểu phương Tây cho nghĩa quân.",
@@ -1150,7 +1150,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Huỳnh Thúc Kháng",
   year: "1876 - 1947",
   period: "Thời kỳ đấu tranh giành độc lập (Đầu thế kỷ XX)",
-  image: "URL ảnh đại diện",
+  image: "image/HuynhThucKhang.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Huỳnh Thúc Kháng là chí sĩ yêu nước tiêu biểu, nhà báo tài năng và từng giữ chức Quyền Chủ tịch nước Việt Nam Dân chủ Cộng hòa.",
@@ -1166,7 +1166,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Thái Học",
   year: "1902 - 1930",
   period: "Thời kỳ Pháp thuộc",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenThaiHoc.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà yêu nước tiêu biểu đầu thế kỷ XX, người sáng lập và lãnh đạo Việt Nam Quốc dân đảng theo khuynh hướng cách mạng dân chủ tư sản.",
@@ -1182,7 +1182,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Võ Duy Phương",
   year: "Đầu thế kỷ XIX - Giữa thế kỷ XIX",
   period: "Thời kỳ nhà Nguyễn chống Pháp",
-  image: "URL ảnh đại diện Võ Duy Phương",
+  image: "image/VoDuyPhuong.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Võ quan triều Nguyễn kiên cường, lãnh đạo quân dân Nam Kỳ chống thực dân Pháp xâm lược trong những ngày đầu gian khổ giữa thế kỷ XIX.",
@@ -1198,7 +1198,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Hữu Huân",
   year: "1830 - 1875",
   period: "Kháng chiến chống Pháp thế kỷ XIX",
-  image: "URL ảnh đại diện Thủ khoa Huân",
+  image: "image/NguyenHuuHuan.jpeg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà nho, nghĩa sĩ tiêu biểu trong phong trào kháng Pháp tại Nam Kỳ, nổi tiếng với lòng trung nghĩa và ý chí bất khuất, không chịu khuất phục trước mọi sự đày ải.",
@@ -1214,7 +1214,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Thiện Thuật",
   year: "1844 - 1926",
   period: "Phong trào Cần Vương",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenThietThuat.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lãnh tụ tiêu biểu của phong trào kháng Pháp cuối thế kỷ XIX, người chỉ huy cuộc khởi nghĩa Bãi Sậy lừng lẫy tại vùng Hưng Yên - Hải Dương.",
@@ -1230,7 +1230,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Đinh Công Tráng",
   year: "1842 - 1887",
   period: "Phong trào Cần Vương",
-  image: "URL ảnh đại diện Đinh Công Tráng",
+  image: "image/DInhCOngTrang.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Thủ lĩnh tiêu biểu của phong trào chống Pháp cuối thế kỷ XIX, nổi tiếng với việc lãnh đạo cuộc khởi nghĩa Ba Đình kiên cường.",
@@ -1246,7 +1246,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Phạm Bành",
   year: "1827 - 1887",
   period: "Phong trào Cần Vương",
-  image: "URL ảnh đại diện",
+  image: "image/PhamBanh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Phạm Bành là thủ lĩnh tiêu biểu của cuộc khởi nghĩa Ba Đình trong phong trào Cần Vương, nổi tiếng với tinh thần kiên cường và lòng trung thành vô hạn với Tổ quốc.",
@@ -1262,7 +1262,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Tống Duy Tân",
   year: "1838 - 1892",
   period: "Phong trào Cần Vương",
-  image: "URL ảnh đại diện",
+  image: "image/TongDuyTan.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Sĩ phu yêu nước tiêu biểu cuối thế kỷ XIX, thủ lĩnh kiên cường của phong trào Cần Vương tại Thanh Hóa.",
@@ -1278,7 +1278,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Quang Bích",
   year: "1832 - 1890",
   period: "Thời kỳ kháng Pháp (Phong trào Cần Vương)",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenQuangBich.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nguyễn Quang Bích là sĩ phu yêu nước tiêu biểu cuối thế kỷ XIX, thủ lĩnh nghĩa quân kháng Pháp anh dũng tại vùng Tây Bắc.",
@@ -1294,7 +1294,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Trần Phú",
   year: "1904 - 1931",
   period: "Thời kỳ đấu tranh giải phóng dân tộc",
-  image: "URL ảnh đại diện",
+  image: "image/TranPhu.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam, người soạn thảo Luận cương chính trị năm 1930 đặt nền móng lý luận cho cách mạng Việt Nam.",
@@ -1310,7 +1310,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Lê Hồng Phong",
   year: "1902 - 1942",
   period: "Thời kỳ đấu tranh giành độc lập (Đầu thế kỷ XX)",
-  image: "",
+  image: "image/LeHongPhong.gif",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lê Hồng Phong là Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương, người có công lớn trong việc khôi phục tổ chức Đảng và kết nối cách mạng Việt Nam với phong trào quốc tế.",
@@ -1326,7 +1326,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Hà Huy Tập",
   year: "1906 - 1941",
   period: "Thời kỳ đấu tranh giải phóng dân tộc (1930-1945)",
-  image: "URL ảnh đại diện Hà Huy Tập",
+  image: "image/HaHuyTap.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà lãnh đạo tiêu biểu của cách mạng Việt Nam, nguyên Tổng Bí thư Đảng Cộng sản Đông Dương với tư duy lý luận sắc bén và tinh thần đấu tranh kiên định.",
@@ -1342,7 +1342,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Nguyễn Văn Cừ",
   year: "1912 - 1941",
   period: "Thời kỳ vận động giải phóng dân tộc (1930 - 1945)",
-  image: "URL ảnh đại diện",
+  image: "image/NguyenVanCu.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà lãnh đạo xuất sắc, Tổng Bí thư trẻ tuổi nhất của Đảng Cộng sản Đông Dương với tư duy lý luận sắc bén và tinh thần đổi mới.",
@@ -1358,7 +1358,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Hồ Chí Minh",
   year: "1890 - 1969",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/ChuTichHoChiMinh.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lãnh tụ vĩ đại của dân tộc Việt Nam, người sáng lập Đảng Cộng sản Việt Nam và khai sinh ra nước Việt Nam Dân chủ Cộng hòa.",
@@ -1374,7 +1374,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Hoàng Văn Thụ",
   year: "1909 - 1944",
   period: "Thời kỳ tiền khởi nghĩa (1930 - 1945)",
-  image: "URL ảnh đại diện",
+  image: "image/HoangVanThu.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Lãnh đạo tiêu biểu của cách mạng Việt Nam thời kỳ tiền khởi nghĩa, người góp công lớn xây dựng phong trào cách mạng tại Bắc Kỳ và củng cố tổ chức Đảng.",
@@ -1390,7 +1390,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Chu Văn Tấn",
   year: "1910 - 1984",
   period: "Thời đại Hồ Chí Minh",
-  image: "URL ảnh đại diện",
+  image: "image/ChuVanTan.jpg",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Nhà cách mạng tiêu biểu người dân tộc Tày, người có công lớn trong việc xây dựng lực lượng vũ trang và phong trào cách mạng tại căn cứ địa Việt Bắc.",
@@ -1406,7 +1406,7 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   name: "Hoàng Văn Thái",
   year: "1915 - 1986",
   period: "Kháng chiến chống Pháp và chống Mỹ",
-  image: "URL ảnh đại diện",
+  image: "",
   side: "left",
   // Phần I - Tóm tắt ngắn
   summary: "Vị Đại tướng tiêu biểu, Tổng Tham mưu trưởng đầu tiên của Quân đội Nhân dân Việt Nam, người có công lớn trong việc định hình nghệ thuật quân sự hiện đại.",
