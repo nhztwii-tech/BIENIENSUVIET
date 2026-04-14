@@ -25,7 +25,6 @@
         }
 
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
         html { scroll-behavior: smooth; }
 
         body {
@@ -40,7 +39,7 @@
         /* ─── HEADER ─── */
         header {
             position: relative;
-            min-height: 55vh;
+            min-height: 45vh;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -49,7 +48,7 @@
             color: white;
             text-align: center;
             overflow: hidden;
-            padding: 2rem 1rem 3rem;
+            padding: 2rem 1rem;
         }
 
         .header-bg {
@@ -81,27 +80,18 @@
         }
 
         .header-title {
-            font-size: clamp(2.2rem, 8vw, 5rem);
+            font-size: clamp(2rem, 6vw, 4rem);
             font-weight: 700;
-            letter-spacing: -0.02em;
             color: var(--gold);
-            line-height: 1.1;
             text-transform: uppercase;
-        }
-
-        .header-sub {
-            font-size: clamp(0.85rem, 2.5vw, 1.1rem);
-            font-weight: 300;
-            font-style: italic;
-            opacity: 0.75;
-            margin: 0.6rem 0 1.8rem;
+            margin-bottom: 0.5rem;
         }
 
         /* ─── SEARCH ─── */
         .search-wrap {
             position: relative;
             max-width: 520px;
-            margin: 0 auto 1.4rem;
+            margin: 1.5rem auto;
         }
 
         .search-wrap input {
@@ -110,324 +100,146 @@
             border-radius: 0.75rem;
             border: none;
             background: white;
-            color: var(--zinc-800);
-            font-family: 'Quicksand', sans-serif;
-            font-size: 0.95rem;
-            font-weight: 500;
+            font-family: inherit;
             box-shadow: 0 8px 32px rgba(0,0,0,0.3);
             outline: none;
-            transition: box-shadow 0.2s;
         }
 
-        .search-wrap input:focus {
-            box-shadow: 0 8px 32px rgba(0,0,0,0.3), 0 0 0 3px rgba(212,175,55,0.4);
+        /* ─── TABS (FIXED SCROLL) ─── */
+        .tab-nav-container {
+            width: 100%;
+            overflow: hidden;
+            margin-top: 1rem;
         }
 
-        .search-icon {
-            position: absolute;
-            right: 1rem;
-            top: 50%;
-            transform: translateY(-50%);
-            color: var(--zinc-400);
-            pointer-events: none;
-        }
-
-        /* ─── TABS ─── */
         .tab-nav {
             display: flex;
-            gap: 0.4rem;
-            justify-content: center;
+            gap: 0.6rem;
+            padding: 0.5rem 1rem;
             overflow-x: auto;
-            padding: 0.25rem 0.5rem;
+            /* Quan trọng: Để scroll hoạt động tự nhiên */
+            justify-content: flex-start; 
             scrollbar-width: none;
             -webkit-overflow-scrolling: touch;
-            flex-wrap: nowrap;
+        }
+
+        /* Căn giữa nếu nội dung ít, nhưng vẫn cho phép scroll nếu nội dung nhiều */
+        @media (min-width: 768px) {
+            .tab-nav { justify-content: center; }
         }
 
         .tab-nav::-webkit-scrollbar { display: none; }
 
         .tab-btn {
             white-space: nowrap;
-            padding: 0.45rem 1rem;
+            padding: 0.5rem 1.2rem;
             border-radius: 2rem;
             border: none;
             background: rgba(255,255,255,0.1);
-            color: rgba(255,255,255,0.6);
-            font-family: 'Quicksand', sans-serif;
-            font-size: 0.7rem;
+            color: rgba(255,255,255,0.7);
+            font-size: 0.75rem;
             font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.08em;
             cursor: pointer;
-            transition: all 0.25s;
+            transition: all 0.2s;
             flex-shrink: 0;
         }
-
-        .tab-btn:hover { background: rgba(255,255,255,0.18); color: white; }
 
         .tab-btn.active-tab {
             background: var(--gold);
             color: var(--zinc-900);
-            box-shadow: 0 4px 16px rgba(212,175,55,0.35);
         }
 
         /* ─── MAIN ─── */
         main {
-            max-width: 960px;
+            max-width: 1000px;
             margin: 0 auto;
-            padding: 3rem 1rem 4rem;
-            min-height: 60vh;
+            padding: 2rem 1rem;
         }
 
-        #contentSection { display: flex; flex-direction: column; gap: 3.5rem; }
+        #contentSection { display: flex; flex-direction: column; gap: 4rem; }
 
-        /* ─── CARD ─── */
         .char-card {
             display: grid;
             grid-template-columns: 1fr;
-            gap: 1.5rem;
+            gap: 2rem;
             opacity: 0;
-            transform: translateY(32px);
-            transition: opacity 0.7s cubic-bezier(0.2,0.8,0.2,1), transform 0.7s cubic-bezier(0.2,0.8,0.2,1);
+            transform: translateY(30px);
+            transition: all 0.6s ease-out;
         }
 
         .char-card.visible { opacity: 1; transform: translateY(0); }
 
         @media (min-width: 768px) {
-            .char-card {
-                grid-template-columns: 5fr 8fr;
-                gap: 2.5rem;
-                align-items: start;
-            }
-        }
-
-        /* ─── PROFILE CARD ─── */
-        .profile-wrap {
-            position: relative;
-        }
-
-        @media (min-width: 768px) {
-            .profile-wrap {
-                position: sticky;
-                top: 1.5rem;
-            }
+            .char-card { grid-template-columns: 320px 1fr; }
         }
 
         .profile-card {
             background: white;
             border-radius: 1.25rem;
             overflow: hidden;
-            box-shadow: 0 8px 32px rgba(0,0,0,0.1), 0 2px 8px rgba(0,0,0,0.06);
-            transition: transform 0.4s ease, box-shadow 0.4s ease;
-            border: 3px solid white;
-        }
-
-        .profile-card:hover {
-            transform: translateY(-4px) rotate(0.5deg);
-            box-shadow: 0 16px 48px rgba(0,0,0,0.15);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 2rem;
+            height: fit-content;
         }
 
         .profile-img {
             width: 100%;
-            aspect-ratio: 4/5;
+            aspect-ratio: 3/4;
             object-fit: cover;
-            display: block;
         }
 
-        @media (min-width: 768px) {
-            .profile-img { aspect-ratio: 3/4; }
-        }
-
-        .profile-info {
-            padding: 1rem 1.1rem 1.2rem;
-            text-align: center;
-            background: white;
-        }
-
-        .profile-name {
-            font-family: 'Playfair Display', serif;
-            font-size: 1.25rem;
-            font-weight: 700;
-            color: var(--zinc-800);
-            line-height: 1.25;
-        }
-
-        .profile-year {
-            font-size: 0.7rem;
-            font-weight: 700;
-            color: var(--gold);
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            margin-top: 0.3rem;
-        }
-
-        .profile-period {
-            display: inline-block;
-            margin-top: 0.5rem;
-            padding: 0.2rem 0.7rem;
-            background: var(--gold-dim);
-            color: var(--red);
-            border-radius: 2rem;
-            font-size: 0.65rem;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.06em;
-        }
+        .profile-info { padding: 1.5rem; text-align: center; }
 
         /* ─── ACCORDIONS ─── */
-        .accordions { display: flex; flex-direction: column; gap: 0.6rem; }
-
+        .accordions { display: flex; flex-direction: column; gap: 0.75rem; }
         details {
             background: white;
-            border-radius: 1rem;
-            border: 1.5px solid var(--zinc-200);
-            overflow: hidden;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-            transition: box-shadow 0.2s;
-        }
-
-        details[open] {
-            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
-        }
-
-        summary {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 0.9rem 1rem;
-            cursor: pointer;
-            list-style: none;
-            user-select: none;
-            transition: background 0.15s;
-            gap: 0.75rem;
-        }
-
-        summary:hover { background: #fafaf9; }
-
-        summary::-webkit-details-marker { display: none; }
-
-        .summary-left {
-            display: flex;
-            align-items: center;
-            gap: 0.65rem;
-            min-width: 0;
-        }
-
-        .acc-icon {
-            width: 2rem;
-            height: 2rem;
-            border-radius: 0.5rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-shrink: 0;
-            font-size: 0.9rem;
-        }
-
-        .acc-title {
-            font-weight: 800;
-            font-size: 0.72rem;
-            text-transform: uppercase;
-            letter-spacing: 0.06em;
-            color: var(--zinc-800);
-            line-height: 1.3;
-        }
-
-        .chevron {
-            width: 1.1rem;
-            height: 1.1rem;
-            flex-shrink: 0;
-            color: var(--zinc-400);
-            transition: transform 0.3s ease;
-        }
-
-        details[open] .chevron { transform: rotate(180deg); }
-
-        .acc-body {
-            padding: 0 1.1rem 1.2rem;
-            border-top: 1.5px solid var(--zinc-100);
-            color: var(--zinc-700);
-            font-size: 0.88rem;
-            line-height: 1.75;
-            text-align: justify;
-        }
-
-        .acc-body img {
-            max-width: 100%;
-            height: auto;
             border-radius: 0.75rem;
-            margin: 0.8rem 0;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-            display: block;
+            border: 1px solid var(--zinc-200);
+        }
+        summary {
+            padding: 1rem;
+            cursor: pointer;
+            font-weight: 700;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .acc-body {
+            padding: 1rem;
+            border-top: 1px solid var(--zinc-100);
+            line-height: 1.8;
+            font-size: 0.95rem;
         }
 
-        /* ─── TOOLTIP ─── */
+        /* TOOLTIP */
         .tooltip-link {
-            border-bottom: 2px solid var(--gold);
+            color: var(--red);
+            font-weight: 600;
+            border-bottom: 1.5px dashed var(--gold);
             cursor: help;
             position: relative;
-            font-weight: 700;
-            color: var(--red);
         }
 
         .tooltip-box {
-            display: none;
+            visibility: hidden;
             position: absolute;
-            bottom: 130%;
+            bottom: 125%;
             left: 50%;
             transform: translateX(-50%);
-            background: rgba(24,24,27,0.97);
+            background: #18181b;
             color: white;
-            padding: 0.85rem 1rem;
-            border-radius: 0.6rem;
-            width: 240px;
-            z-index: 200;
-            font-size: 0.75rem;
-            box-shadow: 0 12px 32px rgba(0,0,0,0.45);
-            font-weight: 400;
-            text-align: left;
-            line-height: 1.55;
+            padding: 0.75rem;
+            border-radius: 0.5rem;
+            width: 220px;
+            z-index: 100;
+            font-size: 0.8rem;
+            line-height: 1.4;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
             pointer-events: none;
         }
-
-        .tooltip-link:hover .tooltip-box { display: block; }
-
-        /* ─── EMPTY STATE ─── */
-        .empty-state {
-            text-align: center;
-            padding: 4rem 1rem;
-            color: var(--zinc-500);
-        }
-
-        .empty-state p { font-size: 1rem; margin-top: 0.5rem; }
-
-        /* ─── FOOTER ─── */
-        footer {
-            background: var(--zinc-900);
-            color: var(--zinc-500);
-            padding: 2.5rem 1rem;
-            text-align: center;
-            border-top: 1px solid var(--zinc-800);
-        }
-
-        footer .footer-brand {
-            font-family: 'Playfair Display', serif;
-            font-size: 1.4rem;
-            color: #d97706;
-            margin-bottom: 0.3rem;
-        }
-
-        footer p { font-size: 0.8rem; }
-
-        /* ─── MOBILE TOUCH SCROLL FIX ─── */
-        @media (max-width: 767px) {
-            .tab-nav { justify-content: flex-start; padding-left: 0.25rem; }
-            .char-card { gap: 1.2rem; }
-            .profile-card { max-width: 280px; margin: 0 auto; }
-            .profile-img { aspect-ratio: 3/3.5; }
-            summary { padding: 0.75rem 0.85rem; }
-            .acc-body { padding: 0 0.85rem 1rem; font-size: 0.85rem; }
-        }
+        .tooltip-link:hover .tooltip-box { visibility: visible; }
     </style>
 </head>
 <body>
@@ -437,14 +249,12 @@
     <div class="header-overlay"></div>
     <div class="header-content">
         <h1 class="header-title">Biên Niên Sử Việt</h1>
-        <p class="header-sub">Hành trình tìm về cội nguồn và những anh hùng dân tộc</p>
-
         <div class="search-wrap">
             <input type="text" id="searchInput" placeholder="Tìm tên anh hùng hoặc thời kỳ..." autocomplete="off">
-            <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
         </div>
-
-        <nav class="tab-nav" id="tabNav"></nav>
+        <div class="tab-nav-container">
+            <nav class="tab-nav" id="tabNav"></nav>
+        </div>
     </div>
 </header>
 
@@ -452,26 +262,30 @@
     <div id="contentSection"></div>
 </main>
 
-<footer>
-    <p class="footer-brand">BIÊN NIÊN SỬ VIỆT</p>
-    <p>Kiến thức lịch sử dành cho người Việt</p>
-</footer>
-
 <script src="data.js"></script>
 <script>
+    // 1. Dữ liệu và Config
     const DATA = window.HISTORICAL_DATA || [];
     let currentTab = "Tất cả";
+    
+    // Tạo Map dữ liệu để truy xuất O(1) thay vì O(N)
+    const dataMap = new Map(DATA.map(item => [item.name, item]));
+    
+    // 2. TỐI ƯU QUAN TRỌNG: Tạo 1 Regex duy nhất cho tất cả tên nhân vật
+    // Điều này giúp hàm formatLinks chỉ chạy 1 lần quét thay vì lặp lại theo số nhân vật
+    const allNamesPattern = DATA.map(d => d.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+    const globalNameRegex = new RegExp(`\\b(${allNamesPattern})\\b`, 'g');
+
+    const SECTION_CONFIG = [
+        { key: 'summary',    title: 'I. Tóm lược', emoji: '📜', open: true },
+        { key: 'biography',  title: 'II. Tiểu sử', emoji: '👤' },
+        { key: 'activities', title: 'III. Hoạt động', emoji: '⚔️' },
+        { key: 'legacy',     title: 'IV. Di sản', emoji: '❤️' },
+    ];
 
     const contentSection = document.getElementById('contentSection');
     const tabNav = document.getElementById('tabNav');
     const searchInput = document.getElementById('searchInput');
-
-    const SECTION_CONFIG = [
-        { key: 'summary',    title: 'I. Tóm lược nhân vật',    color: '#d97706', bg: '#fef3c7', emoji: '📜', open: true },
-        { key: 'biography',  title: 'II. Tiểu sử & Thân thế',   color: '#1d4ed8', bg: '#dbeafe', emoji: '👤' },
-        { key: 'activities', title: 'III. Quá trình hoạt động', color: '#065f46', bg: '#d1fae5', emoji: '⚔️' },
-        { key: 'legacy',     title: 'IV. Giá trị cho hiện tại', color: '#9f1239', bg: '#ffe4e6', emoji: '❤️' },
-    ];
 
     function initApp() {
         const periods = ["Tất cả", ...new Set(DATA.map(d => d.period))];
@@ -480,43 +294,46 @@
             const btn = document.createElement('button');
             btn.className = 'tab-btn' + (p === currentTab ? ' active-tab' : '');
             btn.textContent = p;
-            btn.addEventListener('click', () => { currentTab = p; initApp(); });
+            btn.onclick = () => { 
+                currentTab = p; 
+                document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active-tab'));
+                btn.classList.add('active-tab');
+                renderContent();
+            };
             tabNav.appendChild(btn);
         });
         renderContent();
     }
 
+    // 3. Render hiệu năng cao
     function renderContent() {
-        const q = searchInput.value.toLowerCase();
+        const q = searchInput.value.toLowerCase().trim();
         const filtered = DATA.filter(item => {
             const matchTab = currentTab === "Tất cả" || item.period === currentTab;
-            const matchSearch = !q ||
-                item.name.toLowerCase().includes(q) ||
-                item.period.toLowerCase().includes(q) ||
-                (item.summary || '').toLowerCase().includes(q);
+            const matchSearch = !q || 
+                item.name.toLowerCase().includes(q) || 
+                item.period.toLowerCase().includes(q);
             return matchTab && matchSearch;
         });
 
         contentSection.innerHTML = '';
-
-        if (!filtered.length) {
-            contentSection.innerHTML = `<div class="empty-state"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#a1a1aa" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><p>Không tìm thấy kết quả phù hợp.</p></div>`;
-            return;
-        }
+        
+        // Sử dụng Fragment để tránh reflow liên tục
+        const fragment = document.createDocumentFragment();
 
         filtered.forEach((item, i) => {
             const card = document.createElement('div');
             card.className = 'char-card';
-            card.style.transitionDelay = `${i * 80}ms`;
-
+            
+            // Build nội dung cơ bản trước
             card.innerHTML = `
                 <div class="profile-wrap">
                     <div class="profile-card">
-                        <img src="${item.image}" alt="${item.name}" class="profile-img" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1621066551323-863a3434199c?auto=format&fit=crop&q=80&w=600'">
+                        <img src="${item.image}" class="profile-img" loading="lazy" onerror="this.src='https://placehold.co/400x500?text=Lịch+Sử+Việt'">
                         <div class="profile-info">
-                            <h2 class="profile-name">${item.name}</h2>
-                            <p class="profile-year">${item.year}</p>
-                            <span class="profile-period">${item.period}</span>
+                            <h2 class="serif">${item.name}</h2>
+                            <p style="color:var(--gold); font-weight:700; margin: 0.5rem 0;">${item.year}</p>
+                            <span style="font-size:0.7rem; background:var(--gold-dim); padding:0.2rem 0.6rem; border-radius:1rem;">${item.period}</span>
                         </div>
                     </div>
                 </div>
@@ -524,75 +341,54 @@
                     ${SECTION_CONFIG.map(s => buildAccordion(s, item[s.key], item.name)).join('')}
                 </div>
             `;
-
-            contentSection.appendChild(card);
+            fragment.appendChild(card);
         });
 
+        contentSection.appendChild(fragment);
         setupReveal();
     }
 
-    function buildAccordion(cfg, rawContent, currentName) {
-        if (!rawContent) return '';
-        const body = formatLinks(rawContent, currentName);
+    function buildAccordion(cfg, content, currentName) {
+        if (!content) return '';
         return `
             <details ${cfg.open ? 'open' : ''}>
                 <summary>
-                    <div class="summary-left">
-                        <div class="acc-icon" style="background:${cfg.bg}; color:${cfg.color};">${cfg.emoji}</div>
-                        <span class="acc-title" style="color:${cfg.color}">${cfg.title}</span>
-                    </div>
-                    <svg class="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+                    <span>${cfg.emoji} ${cfg.title}</span>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="m6 9 12 0-6 6z"/></svg>
                 </summary>
-                <div class="acc-body">${body}</div>
+                <div class="acc-body">${formatLinks(content, currentName)}</div>
             </details>
         `;
     }
 
-    function formatLinks(html, currentName) {
-        if (!html) return '';
-        // Convert \n to <br> for plain text content
-        let processed = html.replace(/\\n\\n/g, '<br><br>').replace(/\\n/g, '<br>');
+    // 4. Hàm Format tối ưu O(N)
+    function formatLinks(text, currentName) {
+        if (!text) return '';
+        
+        // Bước 1: Xử lý xuống dòng
+        let processed = text.replace(/\\n/g, '<br>');
 
-        const tempDiv = document.createElement('div');
-        tempDiv.innerHTML = processed;
+        // Bước 2: Dùng Regex duy nhất thay thế toàn bộ tên nhân vật
+        // Tránh replace tên của chính nhân vật đang xem
+        return processed.replace(globalNameRegex, (match) => {
+            if (match === currentName) return match;
+            
+            const p = dataMap.get(match);
+            if (!p) return match;
 
-        // Style existing images
-        tempDiv.querySelectorAll('img').forEach(img => {
-            img.style.maxWidth = '100%';
-            img.style.borderRadius = '0.75rem';
-            img.style.margin = '0.8rem 0';
+            const sum = p.summary ? p.summary.substring(0, 80) + '...' : 'Đang cập nhật...';
+            
+            return `<span class="tooltip-link">${match}
+                <span class="tooltip-box">
+                    <strong>${p.name}</strong><br>
+                    <small>${p.period}</small><br>
+                    <p style="font-size:0.7rem; margin-top:0.3rem; opacity:0.8">${sum}</p>
+                </span>
+            </span>`;
         });
-
-        const walker = document.createTreeWalker(tempDiv, NodeFilter.SHOW_TEXT, null, false);
-        const replacements = [];
-        let node;
-
-        while (node = walker.nextNode()) {
-            let text = node.textContent;
-            let changed = false;
-            DATA.forEach(person => {
-                if (person.name === currentName) return;
-                const safe = person.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                const regex = new RegExp(`(${safe})`, 'g');
-                if (regex.test(text)) {
-                    changed = true;
-                    text = text.replace(regex, `<span class="tooltip-link">$1<span class="tooltip-box"><strong style="color:#f0d060">${person.name}</strong><br><span style="font-size:0.65rem;opacity:0.6;text-transform:uppercase">${person.period}</span><br><span style="opacity:0.85;font-style:italic">"${(person.summary||'').substring(0,90)}..."</span></span></span>`);
-                }
-            });
-            if (changed) replacements.push({ node, text });
-        }
-
-        replacements.forEach(({ node, text }) => {
-            const span = document.createElement('span');
-            span.innerHTML = text;
-            node.parentNode.replaceChild(span, node);
-        });
-
-        return tempDiv.innerHTML;
     }
 
     function setupReveal() {
-        const cards = document.querySelectorAll('.char-card');
         const observer = new IntersectionObserver(entries => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
@@ -600,12 +396,17 @@
                     observer.unobserve(entry.target);
                 }
             });
-        }, { threshold: 0.08 });
-        cards.forEach(c => observer.observe(c));
+        }, { threshold: 0.1 });
+        document.querySelectorAll('.char-card').forEach(c => observer.observe(c));
     }
 
-    searchInput.addEventListener('input', renderContent);
-    initApp();
+    let searchTimeout;
+    searchInput.addEventListener('input', () => {
+        clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(renderContent, 300); // Debounce để không render liên tục khi gõ
+    });
+
+    window.onload = initApp;
 </script>
 </body>
 </html>
