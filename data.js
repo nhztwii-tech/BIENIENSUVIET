@@ -1450,5 +1450,161 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   legacy: "Tấm gương của Nguyễn Bình để lại bài học quý báu về tinh thần kiên định, dám nghĩ dám làm và sẵn sàng hy sinh vì độc lập dân tộc. Di sản của ông nhấn mạnh tầm quan trọng của sự đoàn kết, kỷ luật và tư duy linh hoạt — những giá trị vẫn còn nguyên vẹn ý nghĩa trong việc giáo dục trách nhiệm của thế hệ trẻ đối với sự phát triển của đất nước hôm nay."
 },
 
+    {
+  name: "Phạm Ngũ Lão",
+  year: "1255 - 1320",
+  period: "Nhà Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh tướng kiệt xuất thời Trần, biểu tượng của hào khí Đông A với tài năng quân sự lỗi lạc và lòng trung quân ái quốc.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Sinh năm 1255 tại làng Phù Ủng (Hưng Yên) trong một gia đình bình dân. Ông nổi tiếng với giai thoại ngồi đan sọt giữa đường mải mê suy nghĩ việc nước đến mức giáo đâm vào đùi không biết, từ đó được Trần Hưng Đạo phát hiện, trọng dụng và gả con gái nuôi cho.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Góp công lớn trong hai cuộc kháng chiến chống quân Nguyên - Mông lần thứ hai (1285) và lần thứ ba (1287-1288). Ông giữ nhiều chức vụ quân sự cao cấp, bách chiến bách thắng trong các cuộc bình định biên giới. Ngoài ra, ông còn để lại bài thơ 'Thuật hoài' (Tỏ lòng) nổi tiếng, khẳng định chí khí nam nhi và khát vọng cống hiến.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Để lại bài học về ý chí vươn lên từ hoàn cảnh bình dân và tinh thần tự học bền bỉ. Hình tượng của ông là nguồn cảm hứng cho thế hệ trẻ về lòng yêu nước, sống có lý tưởng, trách nhiệm và nỗ lực rèn luyện để cống hiến cho tổ quốc trong thời đại mới."
+},
+
+    {
+  name: "Lê Lai",
+  year: "1385 - 1418",
+  period: "Khởi nghĩa Lam Sơn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lê Lai là công thần tiêu biểu của cuộc khởi nghĩa Lam Sơn, nổi tiếng với hành động liều mình cứu chúa để bảo toàn lực lượng cho nghĩa quân.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lê Lai sinh khoảng cuối thế kỷ XIV tại vùng Lam Sơn (Thanh Hóa) trong một gia đình nông dân yêu nước. Ông là người trung nghĩa, dũng cảm và quyết đoán, sớm gia nhập phong rào chống quân Minh và trở thành tướng lĩnh thân cận được Lê Lợi tuyệt đối tin tưởng.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1418, khi nghĩa quân bị vây khốn tại Chí Linh, Lê Lai đã tình nguyện cải trang, mặc áo bào của Lê Lợi và chỉ huy đội quân cảm tử xông ra đánh lạc hướng quân Minh. Nhờ sự hy sinh này, Lê Lợi và các thủ lĩnh chủ chốt đã thoát vây an toàn. Lê Lai sau đó bị quân địch bắt và xử tử.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Lê Lai là biểu tượng cao đẹp về lòng trung thành và sự hy sinh quên mình vì lợi ích chung của dân tộc. Trong thời đại ngày nay, tinh thần ấy nhắc nhở thế hệ trẻ về trách nhiệm cống hiến, đặt lợi ích tập thể lên trên cá nhân để xây dựng và bảo vệ Tổ quốc."
+},
+
+    {
+  name: "Nguyễn Hữu Cảnh",
+  year: "1650 - 1700",
+  period: "Thời chúa Nguyễn (Đàng Trong)",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh tướng thời chúa Nguyễn, người có công lớn trong việc khai phá, xác lập chủ quyền và đặt nền móng hành chính đầu tiên cho vùng đất Nam Bộ vào cuối thế kỷ XVII.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Hữu Cảnh sinh năm 1650 tại Quảng Bình, là con trai của danh tướng Nguyễn Hữu Dật. Xuất thân trong một gia đình có truyền thống võ tướng lẫy lừng, ông sớm được rèn luyện văn võ song toàn. Với tài năng và uy tín thừa hưởng từ gia đình, ông nhanh chóng trở thành một vị tướng trẻ đầy triển vọng và được chính quyền Đàng Trong hết lòng trọng dụng trong bối cảnh đất nước đang mở rộng về phía Nam.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1698, nhận lệnh từ chúa Nguyễn Phúc Chu, ông tiến vào kinh lược vùng đất Nam Bộ. Tại đây, ông thực hiện một cuộc cải cách hành chính quy mô lớn: thành lập phủ Gia Định, chia đất thành dinh Trấn Biên và dinh Phiên Trấn. Ông tổ chức di dân khai hoang, lập làng xóm, thiết lập hệ thống quản lý nhà nước chặt chẽ và ổn định đời sống nhân dân. Bên cạnh đó, ông còn trực tiếp cầm quân bảo vệ vùng biên cương mới trước các thế lực xâm lấn từ bên ngoài.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Nguyễn Hữu Cảnh là biểu tượng của tinh thần khai phá, dám nghĩ dám làm và tầm nhìn chiến lược về chủ quyền lãnh thổ. Đối với học sinh và thế hệ trẻ, tấm gương của ông nhắc nhở về trách nhiệm bảo vệ biên cương và phát triển đất nước. Tư duy 'mở đất' của ông ngày nay được hiểu là sự chủ động mở rộng tri thức, hội nhập quốc tế và phát triển kinh tế, đồng thời luôn giữ vững ý thức về chủ quyền quốc gia trong thời đại mới."
+},
+
+    {
+  name: "Lê Văn Hưu",
+  year: "1230 - 1322",
+  period: "Thời Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  summary: "Lê Văn Hưu là nhà sử học tiêu biểu thời Trần, người đặt nền móng cho nền sử học dân tộc với bộ quốc sử đầu tiên của Việt Nam.",
+  biography: "Lê Văn Hưu sinh năm 1230 tại làng Phủ Lý (nay thuộc Đông Sơn, Thanh Hóa). Từ nhỏ ông đã nổi tiếng thông minh, sớm đỗ đạt cao trong các kỳ khoa cử triều Trần. Ông từng giữ nhiều chức vụ quan trọng như Hàn lâm học sĩ, Binh bộ thượng thư và là người trực tiếp tham gia biên soạn quốc sử theo lệnh nhà vua.",
+  activities: "Hoạt động nổi bật nhất của ông là biên soạn bộ 'Đại Việt sử ký' gồm 30 quyển theo lệnh vua Trần Thái Tông. Tác phẩm ghi chép lịch sử dân tộc từ thời Triệu Đà đến hết thời Lý. Trong quá trình viết sử, ông luôn thể hiện quan điểm đề cao tinh thần dân tộc, ca ngợi các vị anh hùng và đưa ra những nhận xét, phê phán khách quan về các triều đại trước.",
+  legacy: "Di sản của ông góp phần quan trọng trong việc hình thành ý thức lịch sử và lòng tự hào dân tộc. Tư duy viết sử khách quan, trung thực của ông là bài học quý giá cho việc nghiên cứu ngày nay. Đối với học sinh, ông là tấm gương về tinh thần học tập nghiêm túc, trách nhiệm với cội nguồn và ý thức giữ gìn bản sắc văn hóa dân tộc."
+},
+
+    {
+  name: "Kiều Công Hãn",
+  year: "Không rõ - 967",
+  period: "Loạn 12 sứ quân",
+  image: "URL ảnh đại diện", // Hãy điền đường dẫn ảnh tại đây
+  side: "left",
+  summary: "Kiều Công Hãn là một trong 12 sứ quân cát cứ tại Phong Châu trong thời kỳ loạn lạc thế kỷ X, tự xưng là Kiều Tam Chế.",
+  biography: "Kiều Công Hãn là cháu của Kiều Công Tiễn – người từng giết Dương Đình Nghệ để đoạt quyền. Xuất thân từ gia đình có thế lực quân sự mạnh, ông kế thừa lực lượng dòng họ để xây dựng căn cứ riêng.",
+  activities: "Trong bối cảnh nhà Ngô suy yếu, ông chiếm giữ vùng Phong Châu (Phú Thọ) và trở thành thế lực cát cứ lớn. Khi Đinh Bộ Lĩnh tiến hành công cuộc thống nhất đất nước, lực lượng của ông đã bị đánh bại và tiêu diệt.",
+  legacy: "Nhân vật này để lại bài học về hậu quả của sự phân tranh, cát cứ khi chính quyền trung ương suy yếu. Qua đó khẳng định giá trị của sự đoàn kết dân tộc và vai trò quan trọng của một chính quyền thống nhất, vững mạnh."
+},
+
+    {
+  name: "Trần Quý Khoáng (Trùng Quang Đế)",
+  year: "1409 - 1414",
+  period: "Nhà Hậu Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Trần Quý Khoáng là vị vua thứ hai của nhà Hậu Trần, một lãnh tụ tiêu biểu lãnh đạo nhân dân kháng chiến chống quân xâm lược nhà Minh đầu thế kỷ XV.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Quý Khoáng là con của vua Trần Nghệ Tông, thuộc dòng dõi hoàng tộc nhà Trần. Sinh ra trong bối cảnh đất nước rơi vào tay nhà Minh sau khi nhà Hồ thất bại, ông sớm mang trong mình ý chí phục quốc. Nhờ xuất thân hoàng tộc và uy tín lớn, ông đã tập hợp được lực lượng để tiếp nối sự nghiệp của Trần Ngỗi, đứng lên chống lại ách thống trị ngoại bang.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1409, sau khi Trần Ngỗi thất bại, ông được tôn lên làm vua (Trùng Quang Đế). Ông cùng các danh tướng như Đặng Dung, Nguyễn Cảnh Dị tổ chức nhiều cuộc kháng chiến quyết liệt chống quân Minh, địa bàn hoạt động chủ yếu tại vùng Nghệ An – Thanh Hóa. Dù chiến đấu anh dũng nhưng do lực lượng chênh lệch và bị đàn áp mạnh, phong trào dần suy yếu. Năm 1414, ông bị quân Minh bắt và đã tuẫn tiết trên đường bị giải về Trung Quốc để giữ trọn khí tiết.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tinh thần kiên cường và sự hy sinh của Trần Quý Khoáng là biểu tượng sáng ngời cho lòng yêu nước, không khuất phục trước ngoại xâm. Dù cuộc khởi nghĩa thất bại, ông đã góp phần duy trì ngọn lửa đấu tranh, tạo tiền đề tinh thần quan trọng cho cuộc khởi nghĩa Lam Sơn về sau. Hình ảnh ông nhắc nhở thế hệ trẻ về bản lĩnh, trách nhiệm giữ gìn độc lập dân tộc và ý chí đứng lên bảo vệ Tổ quốc."
+},
+
+    {
+  name: "Trần Quý Khoáng (Trùng Quang Đế)",
+  year: "1374 - 1414",
+  period: "Nhà Hậu Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Trần Quý Khoáng là vị vua thứ hai của nhà Hậu Trần, một lãnh tụ tiêu biểu lãnh đạo nhân dân kháng chiến chống quân xâm lược nhà Minh đầu thế kỷ XV.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Quý Khoáng là con của vua Trần Nghệ Tông, thuộc dòng dõi hoàng tộc nhà Trần. Sinh ra trong bối cảnh đất nước rơi vào tay nhà Minh sau khi nhà Hồ thất bại, ông sớm mang trong mình ý chí phục quốc. Nhờ xuất thân hoàng tộc và uy tín lớn, ông đã tập hợp được lực lượng để tiếp nối sự nghiệp của Trần Ngỗi, đứng lên chống lại ách thống trị ngoại bang.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1409, sau khi Trần Ngỗi thất bại, ông được tôn lên làm vua (Trùng Quang Đế). Ông cùng các danh tướng như Đặng Dung, Nguyễn Cảnh Dị tổ chức nhiều cuộc kháng chiến quyết liệt chống quân Minh, địa bàn hoạt động chủ yếu tại vùng Nghệ An – Thanh Hóa. Dù chiến đấu anh dũng nhưng do lực lượng chênh lệch và bị đàn áp mạnh, phong trào dần suy yếu. Năm 1414, ông bị quân Minh bắt và đã tuẫn tiết trên đường bị giải về Trung Quốc để giữ trọn khí tiết.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tinh thần kiên cường và sự hy sinh của Trần Quý Khoáng là biểu tượng sáng ngời cho lòng yêu nước, không khuất phục trước ngoại xâm. Dù cuộc khởi nghĩa thất bại, ông đã góp phần duy trì ngọn lửa đấu tranh, tạo tiền đề tinh thần quan trọng cho cuộc khởi nghĩa Lam Sơn về sau. Hình ảnh ông nhắc nhở thế hệ trẻ về bản lĩnh, trách nhiệm giữ gìn độc lập dân tộc và ý chí đứng lên bảo vệ Tổ quốc."
+},
+
+    {
+  name: "Dương Tam Kha",
+  year: "Không rõ - 966",
+  period: "Nhà Ngô",
+  image: "URL ảnh đại diện",
+  side: "left",
+  summary: "Dương Tam Kha là nhân vật quyền lực thời nhà Ngô, người đã phế truất hậu duệ của Ngô Quyền để tự xưng vương, gây ra nhiều tranh cãi trong lịch sử thế kỷ X.",
+  biography: "Dương Tam Kha là em vợ của Tiền Ngô Vương Ngô Quyền, xuất thân từ dòng họ Dương có thế lực lớn. Nhờ sự tin tưởng của Ngô Quyền, ông giữ chức vụ trọng yếu trong triều đình. Sau khi Ngô Quyền qua đời năm 944, ông được giao trọng trách nhiếp chính để hỗ trợ các hoàng tử còn nhỏ tuổi.",
+  activities: "Sau khi nắm quyền nhiếp chính, Dương Tam Kha đã phế truất con trưởng của Ngô Quyền là Ngô Xương Ngập để tự lập làm vua (Dương Bình Vương). Hành động chiếm ngôi này khiến triều đình bất mãn và các sứ quân địa phương không phục tùng. Đến năm 950, con thứ của Ngô Quyền là Ngô Xương Văn lật đổ ông thành công. Thay vì bị xử tử, ông bị giáng xuống làm Chương Dương công.",
+  legacy: "Cuộc đời Dương Tam Kha để lại bài học đắt giá về việc giữ gìn chính danh và đạo lý trong chính trị; việc đặt lợi ích cá nhân lên trên lòng dân sẽ dẫn đến thất bại. Đối với học sinh, đây là câu chuyện nhắc nhở về lòng trung thành, trách nhiệm và tầm quan trọng của sự ổn định quốc gia trong những giai đoạn chuyển giao lịch sử."
+},
+
+    {
+  name: "Hồ Nguyên Trừng",
+  year: "1374 - 1446",
+  period: "Nhà Hồ",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh thần, kỹ sư quân sự lỗi lạc cuối thế kỷ XIV - đầu XV, người phát minh ra súng thần cơ và là con trai cả của Hồ Quý Ly.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Hồ Nguyên Trừng sinh khoảng năm 1374 trong gia đình quyền quý. Từ nhỏ ông đã nổi tiếng thông minh, có năng khiếu đặc biệt về kỹ thuật và quân sự. Khi cha ông là Hồ Quý Ly lập ra nhà Hồ, ông bước vào con đường chính trị và gắn bó chặt chẽ với công cuộc cải cách, xây dựng đất nước.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Dưới triều Hồ, ông trực tiếp chỉ huy chế tạo vũ khí và xây dựng hệ thống phòng thủ, nổi bật nhất là việc cải tiến súng thần cơ có sức công phá lớn. Sau khi nhà Hồ thất bại năm 1407, ông bị bắt sang Trung Quốc. Tại đây, nhờ tài năng kiệt xuất, ông được triều Minh trọng dụng làm quan phụ trách chế tạo vũ khí. Ông cũng là tác giả tập tùy bút 'Nam Ông mộng lục' viết về quê hương.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hồ Nguyên Trừng là biểu tượng của trí tuệ, sự sáng tạo và tinh thần vượt khó. Ông để lại bài học về tầm quan trọng của khoa học - công nghệ trong quốc phòng và phát triển đất nước. Cuộc đời ông truyền cảm hứng cho thế hệ trẻ về việc không ngừng học hỏi, cống hiến tài năng trong mọi hoàn cảnh và luôn giữ lòng hướng về cội nguồn dân tộc."
+},
+
+    {
+  name: "Trần Bình Trọng",
+  year: "1259 - 1285",
+  period: "Nhà Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  summary: "Trần Bình Trọng là danh tướng tiêu biểu thời Trần, nổi tiếng với khí phách hiên ngang và câu nói bất hủ 'Ta thà làm quỷ nước Nam còn hơn làm vương đất Bắc'.",
+  biography: "Trần Bình Trọng sinh năm 1259 tại Tức Mặc (Nam Định), xuất thân từ dòng dõi quý tộc nhà Trần. Từ trẻ, ông đã thể hiện là người cương trực, dũng cảm và có tài thao lược, được triều đình tin tưởng giao phó nhiều trọng trách quân sự quan trọng.",
+  activities: "Trong kháng chiến chống Nguyên - Mông lần hai (1285), ông chỉ huy quân đội chặn giặc tại bãi Đà Mạc để bảo vệ cuộc rút lui chiến lược của triều đình. Ông bị giặc bắt và dù bị dụ hàng bằng tước vương, ông đã khẳng khái từ chối trước khi hi sinh, góp phần cổ vũ mạnh mẽ tinh thần quân dân Đại Việt.",
+  legacy: "Tấm gương của ông là bài học sâu sắc về lòng trung thành với Tổ quốc và bản lĩnh trước cám dỗ. Trong thời đại hội nhập, tinh thần đặt lợi ích dân tộc lên trên hết của ông nhắc nhở thế hệ trẻ giữ vững bản sắc và sẵn sàng cống hiến để bảo vệ, xây dựng đất nước."
+},
+
+    {
+  name: "Tả Ao",
+  year: "Đầu TK XV - Đầu TK XVI",
+  period: "Thời Lê Trung Hưng",
+  image: "URL ảnh đại diện",
+  side: "left",
+  summary: "Tả Ao là danh sư phong thủy lừng lẫy trong lịch sử Việt Nam, được dân gian tôn kính gọi là 'Thánh địa lý' nhờ khả năng am hiểu sâu sắc về long mạch và địa thế.",
+  biography: "Tả Ao tên thật là Nguyễn Đức Huy, sinh vào khoảng thế kỷ XVII tại Nghệ An. Từ nhỏ ông đã nổi tiếng thông minh, hiếu học, sau đó có cơ hội sang Trung Hoa tầm sư học đạo, chuyên sâu về thuật địa lý và phong thủy trước khi trở về nước hành nghề giúp đời.",
+  activities: "Ông dành cả cuộc đời đi khắp mọi miền đất nước để khảo sát địa hình và tìm kiếm long mạch. Tả Ao nổi tiếng với tài 'điểm huyệt' chính xác, giúp người dân chọn đất xây nhà, đặt mồ mả để gia đình phát đạt. Nhiều giai thoại về việc ông yểm hoặc giải các thế đất linh vẫn được lưu truyền rộng rãi trong dân gian.",
+  legacy: "Hình tượng Tả Ao đại diện cho trí tuệ dân gian và sự gắn bó mật thiết giữa con người với tự nhiên. Trong bối cảnh hiện đại, di sản của ông nhắc nhở chúng ta về tầm quan trọng của việc quan sát môi trường, tôn trọng quy luật tự nhiên và giữ gìn các giá trị tri thức truyền thống một cách khoa học."
+},
+
     
 ];
