@@ -1606,5 +1606,37 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   legacy: "Hình tượng Tả Ao đại diện cho trí tuệ dân gian và sự gắn bó mật thiết giữa con người với tự nhiên. Trong bối cảnh hiện đại, di sản của ông nhắc nhở chúng ta về tầm quan trọng của việc quan sát môi trường, tôn trọng quy luật tự nhiên và giữ gìn các giá trị tri thức truyền thống một cách khoa học."
 },
 
+    {
+  name: "Nguyễn Chích",
+  year: "1382 - 1448",
+  period: "Thời Hậu Lê (Khởi nghĩa Lam Sơn)",
+  image: "URL_ANH_DAI_DIEN",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh tướng, công thần khai quốc nhà Hậu Lê, người đề ra kế sách tiến quân vào Nghệ An tạo bước ngoặt chiến lược cho cuộc khởi nghĩa Lam Sơn.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Chích sinh ra tại Đông Sơn, Thanh Hóa trong một gia đình bình dân. Trước khi gia nhập nghĩa quân Lam Sơn, ông đã tự xây dựng một lực lượng yêu nước riêng biệt tại vùng núi phía Tây Thanh Hóa để chống lại ách đô hộ của nhà Minh, thể hiện tài thao lược và uy tín lớn ngay từ khi còn trẻ.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1418, ông đem toàn bộ lực lượng gia nhập khởi nghĩa Lam Sơn dưới cờ Lê Lợi. Năm 1424, trong bối cảnh nghĩa quân gặp nhiều khó khăn, ông đưa ra đề xuất lịch sử: tạm rời bỏ vùng núi Thanh Hóa để tiến đánh Nghệ An. Kế sách này giúp nghĩa quân mở rộng địa bàn, xây dựng căn cứ vững chắc và tạo tiền đề để giải phóng hoàn toàn đất nước sau này. Ông trực tiếp cầm quân tham gia nhiều trận đánh quan trọng, lập nhiều chiến công hiển hách.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Nguyễn Chích để lại bài học vô giá về tư duy chiến lược và tinh thần 'dám nghĩ dám làm'. Trong bối cảnh hiện đại, sự sáng tạo và khả năng 'chuyển hướng đúng lúc' của ông là nguồn cảm hứng cho thế hệ trẻ về tính chủ động, quyết đoán và tinh thần đoàn kết để vượt qua thử thách, phát triển bền vững."
+},
+
+    {
+  name: "Lý Triện",
+  year: "Thế kỷ XIII",
+  period: "Nhà Trần",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Lý Triện là tướng lĩnh tiêu biểu thời kháng chiến chống Nguyên Mông, đại diện cho lớp võ tướng kiên cường và trung thành của triều Trần.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Ông sống vào thế kỷ XIII, xuất thân trong bối cảnh đất nước đối đầu với giặc phương Bắc. Là người có võ nghệ và chí khí, ông sớm gia nhập quân đội nhà Trần và phục vụ dưới quyền các danh tướng như Trần Hưng Đạo.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông trực tiếp tham gia các cuộc kháng chiến chống quân Mông Cổ, luôn xông pha nơi tuyến đầu với tinh thần không lùi bước. Dù trong hoàn cảnh khó khăn nhất, ông vẫn giữ vững khí tiết, chiến đấu đến cùng, góp phần tạo nên sức mạnh tổng hợp giúp quân dân Đại Việt giành thắng lợi vang dội.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Lý Triện để lại bài học về lòng yêu nước và ý chí không khuất phục. Câu chuyện của ông nhắc nhở thế hệ trẻ rằng mỗi cá nhân khi làm tròn vai trò với kỷ luật và bản lĩnh đều góp phần tạo nên thành công lớn cho dân tộc. Đây là biểu tượng của sức mạnh bền bỉ trong học tập và cuộc sống."
+},
+
     
 ];
