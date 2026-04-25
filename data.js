@@ -1638,5 +1638,269 @@ legacy: "Ngô Quyền để lại bài học lớn về tinh thần yêu nước
   legacy: "Tấm gương của Lý Triện để lại bài học về lòng yêu nước và ý chí không khuất phục. Câu chuyện của ông nhắc nhở thế hệ trẻ rằng mỗi cá nhân khi làm tròn vai trò với kỷ luật và bản lĩnh đều góp phần tạo nên thành công lớn cho dân tộc. Đây là biểu tượng của sức mạnh bền bỉ trong học tập và cuộc sống."
 },
 
+    {
+  name: "Tô Hiến Thành",
+  year: "1102 - 1179",
+  period: "Thời nhà Lý",
+  image: "URL ảnh đại diện Tô Hiến Thành",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Đại thần phụ chính nhà Lý, biểu tượng của lòng trung thành, sự liêm khiết và tinh thần thượng tôn pháp luật trong lịch sử Việt Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Tô Hiến Thành sinh đầu thế kỷ XII, quê quán tại Thanh Hóa. Xuất thân trong gia đình có truyền thống học hành, ông sớm nổi tiếng với tài năng và nhân cách ngay thẳng. Nhờ học vấn uyên thâm, ông được triều đình nhà Lý trọng dụng và thăng tiến qua nhiều chức vụ quan trọng nhờ phẩm chất đạo đức cao đẹp.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông từng giữ chức Thái úy, có công lớn trong việc ổn định nội bộ triều đình và bảo vệ quyền lực chính thống. Khi vua Lý Anh Tông qua đời, ông được giao phó phò tá vua trẻ Lý Cao Tông. Dù bị Đỗ Thái hậu đem vàng bạc mua chuộc để thay đổi người kế vị theo ý bà, ông vẫn kiên quyết thực hiện đúng di chiếu của tiên đế. Sự kiện ông từ chối đưa người thân tín vào chức vụ cao để chọn người tài giỏi thực sự cho đất nước đã trở thành điển tích về sự công minh.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tô Hiến Thành là bài học lớn về việc đặt lợi ích quốc gia và nguyên tắc công việc lên trên tình cảm cá nhân. Trong xã hội hiện đại, tinh thần liêm chính và 'chí công vô tư' của ông là tấm gương sáng cho thế hệ trẻ về lòng tự trọng, giữ chữ tín và trách nhiệm đối với cộng đồng, thay vì chạy theo những lợi ích nhỏ nhen trước mắt."
+},
+
+    {
+  name: "Phạm Bạch Hổ",
+  year: "Thế kỷ X",
+  period: "Loạn 12 sứ quân",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Một trong mười hai sứ quân cát cứ vùng Đằng Châu, sau này quy phục Đinh Bộ Lĩnh để giúp thống nhất đất nước.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Phạm Bạch Hổ sinh vào đầu thế kỷ X, quê ở vùng Đằng Châu (nay thuộc Hưng Yên). Ông xuất thân trong một gia đình hào trưởng có thế lực địa phương, sớm xây dựng được uy tín và sự ủng hộ rộng rãi của dân chúng trong vùng.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong thời kỳ Loạn 12 sứ quân, ông kiểm soát vùng Đằng Châu với quân đội riêng hùng mạnh. Nhận thấy sức mạnh và chính nghĩa của Đinh Bộ Lĩnh trong việc thống nhất giang sơn, ông đã chủ động quy thuận. Sau khi nhà Đinh thành lập, ông được trọng dụng làm tướng lĩnh trong triều đình, góp công lớn vào việc ổn định tình hình đất nước sau chiến tranh.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Cuộc đời ông là bài học lớn về việc đặt lợi ích dân tộc lên trên lợi ích cá nhân và sự thức thời trong lịch sử. Hành động quy thuận của ông đã giúp giảm bớt máu xương trong quá trình thống nhất đất nước. Với thế hệ trẻ, ông là tấm gương về tinh thần đoàn kết, biết gạt bỏ cái tôi riêng để hướng tới mục tiêu chung vĩ đại của quốc gia."
+},
+
+    {
+  name: "Lê Sát",
+  year: "Cuối thế kỷ XIV - 1438",
+  period: "Thời Hậu Lê",
+  image: "URL ảnh đại diện",
+  side: "left",
+  summary: "Công thần khai quốc thời Hậu Lê, vị tướng tài ba trong khởi nghĩa Lam Sơn và là đại thần nhiếp chính dưới thời vua Lê Thái Tông.",
+  biography: "Lê Sát sinh vào cuối thế kỷ XIV tại Thanh Hóa. Ông xuất thân trong một gia đình bình thường nhưng sớm bộc lộ phẩm chất trung thành, cương trực và năng lực quân sự xuất chúng. Ông gia nhập nghĩa quân Lam Sơn từ những ngày đầu, trở thành tướng lĩnh thân cận nhất của Bình Định vương Lê Lợi.",
+  activities: "Trong khởi nghĩa Lam Sơn, ông lập nhiều chiến công lớn trong việc chỉ huy và tổ chức quân đội chống quân Minh. Sau khi đất nước độc lập, ông giữ chức vị cao trong triều đình, nắm quyền nhiếp chính khi vua Lê Thái Tông lên ngôi lúc còn nhỏ. Tuy nhiên, do tính cách cứng rắn, chuyên quyền và thiếu khôn khéo trong chính trị, ông dần mất đi sự ủng hộ. Năm 1438, ông bị thất sủng và phải nhận án tử, kết thúc một sự nghiệp lừng lẫy nhưng bi kịch.",
+  legacy: "Cuộc đời Lê Sát để lại bài học về lòng trung thành và sự cống hiến hết mình cho tổ quốc trong gian khó. Đồng thời, câu chuyện về sự nghiệp của ông cũng là lời nhắc nhở sâu sắc về việc sử dụng quyền lực: người nắm giữ trọng trách cần sự khiêm nhường, biết lắng nghe và luôn đặt lợi ích quốc gia lên trên cá nhân."
+},
+
+    {
+  name: "Lý Văn Bưu",
+  year: "Cuối thế kỷ XIX",
+  period: "Kháng chiến chống Pháp",
+  image: "URL_ANH_TAI_DAY",
+  side: "left",
+  summary: "Một nghĩa sĩ yêu nước tiêu biểu trong phong trào đấu tranh vũ trang của nhân dân Nam Bộ chống thực dân Pháp cuối thế kỷ XIX.",
+  biography: "Lý Văn Bưu sinh ra trong một gia đình nông dân tại Nam Bộ. Lớn lên giữa bối cảnh đất nước bị xâm lược, chứng kiến cảnh nhân dân lầm than dưới ách đô hộ và sự đàn áp của thực dân Pháp, ông đã sớm hình thành lòng căm thù giặc sâu sắc và ý chí đấu tranh bảo vệ quê hương.",
+  activities: "Ông tham gia và tổ chức các phong trào khởi nghĩa tại địa phương, liên kết với các đơn vị nghĩa quân để tiến hành nhiều cuộc tấn công vào quân địch. Bên cạnh việc trực tiếp cầm súng chiến đấu, ông còn tích cực vận động nhân dân xây dựng lực lượng và hậu phương kháng chiến. Dù đối mặt với sự đàn áp khốc liệt và điều kiện thiếu thốn, ông vẫn kiên cường chiến đấu đến hơi thở cuối cùng với tinh thần 'thà chết chứ không chịu mất nước'.",
+  legacy: "Hình ảnh Lý Văn Bưu là bài học vô giá về lòng yêu nước và tinh thần trách nhiệm với Tổ quốc cho thế hệ trẻ. Trong thời bình, tấm gương của ông nhắc nhở chúng ta về ý chí vượt khó, tinh thần cống hiến để xây dựng tương lai bền vững, đồng thời khẳng định rằng sức mạnh của dân tộc luôn bắt nguồn từ những con người bình dị nhưng mang chí khí phi thường."
+},
+
+    {
+  name: "Nguyễn Bặc",
+  year: "924 - 979",
+  period: "Thời Nhà Đinh",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nguyễn Bặc là vị công thần khai quốc, Định Quốc Công của nhà Đinh, người có công lớn giúp Đinh Bộ Lĩnh dẹp loạn 12 sứ quân và thống nhất đất nước.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Bặc sinh năm 924 tại Hoa Lư, Ninh Bình. Xuất thân từ gia đình bình dân, ông sớm bộc lộ chí khí và là bạn thân từ thuở hàn vi của Đinh Bộ Lĩnh, cùng nuôi chí lớn dẹp loạn giữa bối cảnh đất nước chia cắt.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Là cánh tay phải đắc lực, ông trực tiếp chỉ huy nhiều trận đánh quan trọng giúp Đinh Bộ Lĩnh thống nhất giang sơn. Khi nhà Đinh thành lập, ông được phong chức Định Quốc Công (tương đương Tể tướng). Sau khi Đinh Tiên Hoàng bị ám hại, ông cùng các trung thần đứng lên bảo vệ ngôi báu nhà Đinh chống lại sự lộng quyền nhưng thất bại và bị xử tử năm 979.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương Nguyễn Bặc để lại giá trị sâu sắc về lòng trung thành tuyệt đối và ý chí kiên định. Đối với thế hệ trẻ ngày nay, ông là biểu tượng của tinh thần sống có lý tưởng, giữ vững nguyên tắc đạo đức và đặt lợi ích quốc gia, tập thể lên trên cá nhân."
+},
+
+    {
+  name: "Trương Minh Giảng",
+  year: "1792 - 1841",
+  period: "Triều Nguyễn (thời Minh Mạng - Thiệu Trị)",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Đại thần, danh tướng tiêu biểu triều Nguyễn, có công lớn trong việc quản lý hành chính và bảo vệ chủ quyền biên giới Tây Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trương Minh Giảng sinh năm 1792 tại Gia Định (nay thuộc Nam Bộ). Xuất thân trong bối cảnh đất nước vừa ổn định dưới triều Nguyễn, ông sớm tham gia bộ máy quan lại và thể hiện năng lực vượt trội về học vấn lẫn phẩm chất, được triều đình tin tưởng giao phó nhiều trọng trách lớn.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông từng giữ các chức vụ cao cấp như Thượng thư, Tổng đốc. Trương Minh Giảng có đóng góp quan trọng trong việc quản lý vùng Gia Định và lãnh đạo các chiến dịch quân sự tại Chân Lạp nhằm củng cố quyền kiểm soát của triều Nguyễn. Tuy nhiên, cuối đời ông gặp nhiều khó khăn do biến động chính trị và tình hình phức tạp tại biên giới, ông qua đời vào năm 1841.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Ông là hình mẫu vị quan tận tụy, dám gánh vác việc lớn và cống hiến hết mình cho quốc gia. Câu chuyện về cuộc đời ông để lại bài học quý giá cho thế hệ trẻ về trách nhiệm với đất nước, tầm nhìn chiến lược và sự thích ứng linh hoạt trước những biến động khắc nghiệt của thời cuộc lịch sử."
+},
+
+    {
+  name: "Trịnh Tùng",
+  year: "1550 - 1623",
+  period: "Lê Trung Hưng",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Nhà lãnh đạo quyền lực thời Lê Trung Hưng, người có công khôi phục nhà Lê và thiết lập chế độ 'vua Lê - chúa Trịnh' đặc thù trong lịch sử Việt Nam.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trịnh Tùng sinh năm 1550, là con trai của Trịnh Kiểm. Ông lớn lên trong bối cảnh cuộc đối đầu Nam - Bắc triều giữa nhà Lê và nhà Mạc đang diễn ra quyết liệt. Được đào tạo bài bản về quân sự và chính trị từ sớm, ông sớm bộc lộ tài năng lãnh đạo xuất chúng và kế thừa sự nghiệp của cha để trở thành người đứng đầu thế lực họ Trịnh.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là tổng chỉ huy quân đội nhà Lê trong cuộc chiến chống nhà Mạc, giành thắng lợi vang dội khi chiếm lại kinh thành Thăng Long năm 1592, chấm dứt cơ bản sự thống trị của nhà Mạc. Sau chiến tranh, ông thiết lập 'phủ chúa', chính thức hóa mô hình chính trị: vua Lê giữ danh nghĩa thiên tử, còn chúa Trịnh nắm toàn bộ thực quyền điều hành đất nước.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Cuộc đời Trịnh Tùng để lại bài học về bản lĩnh lãnh đạo và chiến lược ổn định quốc gia trong thời kỳ khủng hoảng. Đồng thời, mô hình quyền lực của ông cũng đặt ra những suy ngẫm về sự cần thiết của việc cân bằng quyền lực và tính minh bạch trong quản trị quốc gia cho các thế hệ mai sau."
+},
+
+    {
+  name: "Lý Thiên Bảo",
+  year: "Thế kỷ VI",
+  period: "Thời Bắc thuộc (Triều đại nhà Lương)",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Thủ lĩnh địa phương và là nhân tố quan trọng trong cuộc khởi nghĩa chống nhà Lương, góp phần thành lập nhà nước Vạn Xuân.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Lý Thiên Bảo xuất thân trong một gia đình hào trưởng thế lực tại vùng Giao Châu. Ông có mối quan hệ gần gũi với dòng họ Lý – lực lượng nòng cốt trong phong trào chống nhà Lương, giúp ông sớm tham gia vào các hoạt động chính trị, quân sự và có uy tín lớn trong việc tập hợp nhân dân.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông giữ vai trò quan trọng trong các cuộc nổi dậy chống lại ách đô hộ của nhà Lương, phối hợp chặt chẽ với lực lượng của Lý Bí. Lý Thiên Bảo cùng nghĩa quân xây dựng căn cứ, tổ chức kháng chiến bền bỉ, đóng góp to lớn vào quá trình thành lập và duy trì nhà nước Vạn Xuân - dấu mốc tự chủ quan trọng của dân tộc.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hình ảnh của ông để lại bài học quý báu về tinh thần đoàn kết và vai trò của những cá nhân thầm lặng nhưng thiết yếu trong tập thể. Câu chuyện về Lý Thiên Bảo khơi dậy trong thế hệ trẻ ý thức giữ gìn độc lập, sự chủ động và tinh thần đồng lòng để xây dựng quốc gia bền vững."
+},
+
+    {
+  name: "Thoại Ngọc Hầu",
+  year: "1761 - 1829",
+  period: "Nhà Nguyễn",
+  image: "URL_ANH_THOAI_NGOC_HAU",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh tướng và công thần triều Nguyễn, người có công lao to lớn trong việc khai phá, bảo vệ vùng đất Nam Bộ và chỉ huy những công trình kênh đào vĩ đại.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Thoại Ngọc Hầu tên thật là Nguyễn Văn Thoại (1761–1829), quê ở Quảng Nam. Sinh ra trong thời kỳ đất nước biến động, ông sớm theo phò chúa Nguyễn Ánh (vua Gia Long sau này) và trở thành một trong những khai quốc công thần tận tụy, được tin dùng nhờ tài năng và lòng trung thành tuyệt đối.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông giữ nhiều trọng trách quân sự và hành chính tại vùng biên viễn phía Nam. Thành tựu rực rỡ nhất là việc chỉ huy đào kênh Thoại Hà (1818) và kênh Vĩnh Tế (1819–1824). Đây là những công trình thủy lợi khổng lồ giúp thoát lũ, xả phèn, khai hoang lập ấp, phát triển giao thương và có ý nghĩa chiến lược cực kỳ quan trọng trong việc bảo vệ an ninh biên giới Tây Nam.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hệ thống kênh đào của ông vẫn là mạch máu giao thông và thủy lợi quan trọng của vùng đồng bằng sông Cửu Long ngày nay. Tầm nhìn chiến lược về kinh tế kết hợp quốc phòng cùng tinh thần dám nghĩ dám làm của ông là bài học quý giá cho thế hệ trẻ về tư duy phát triển bền vững và ý thức bảo vệ chủ quyền lãnh thổ quốc gia."
+},
+
+    {
+  name: "Nguyễn Kim",
+  year: "1468 - 1545",
+  period: "Lê trung hưng",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh tướng và công thần hàng đầu có vai trò then chốt trong việc khôi phục nhà Lê, đặt nền móng cho sự nghiệp Lê trung hưng và thế lực họ Nguyễn.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Kim sinh năm 1468 tại Thanh Hóa trong một gia đình có truyền thống làm quan. Khi nhà Mạc chiếm ngôi nhà Lê, ông sang Ai Lao tập hợp lực lượng, phò tá Lê Trang Tông lên ngôi để khôi phục chính thống.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Ông là người tổ chức và lãnh đạo lực lượng chống nhà Mạc, xây dựng căn cứ và chiêu mộ binh lính để giành lại đất đai. Dưới sự chỉ huy của ông, phong trào trung hưng phát triển mạnh mẽ cho đến khi ông bị đầu độc qua đời năm 1545.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Biểu tượng của tinh thần trung quân và ý chí kiên định phục hưng đất nước. Bài học về sự kiên trì, tầm nhìn chiến lược và khả năng đoàn kết nhân tâm để vượt qua nghịch cảnh vẫn còn nguyên giá trị cho thế hệ trẻ ngày nay."
+},
+
+    {
+  name: "Nguyễn Hiền",
+  year: "1234 - 1256",
+  period: "Nhà Trần",
+  image: "",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Vị Trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam, đỗ đầu khi mới 13 tuổi dưới triều nhà Trần, nổi tiếng với tư chất thông minh và ý chí vượt khó.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Hiền sinh năm 1234 tại làng Dương A (nay thuộc Nam Định) trong một gia đình nghèo khó. Mồ côi cha từ sớm, ông lớn lên nhờ sự tần tảo của mẹ. Dù hoàn cảnh thiếu thốn, ông đã bộc lộ thiên tư khác thường và tinh thần tự học bền bỉ ngay từ khi còn nhỏ.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Năm 1247, ông tham gia khoa thi Thiên ứng và xuất sắc đỗ Trạng nguyên ở tuổi 13. Do tuổi còn quá nhỏ, triều đình từng yêu cầu ông về quê tiếp tục rèn luyện lễ nghĩa trước khi chính thức ra giúp nước. Ông là minh chứng điển hình cho chính sách trọng dụng nhân tài của nhà Trần và là tấm gương sáng về tinh thần học tập.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Câu chuyện về Nguyễn Hiền truyền cảm hứng mạnh mẽ về tinh thần hiếu học và ý chí vươn lên cho thế hệ trẻ. Ông khẳng định giá trị của nỗ lực bền bỉ, nhắc nhở học sinh rằng tài năng chỉ thực sự tỏa sáng khi đi cùng với sự kiên trì, kỷ luật và thái độ nghiêm túc đối với tri thức."
+},
+
+    {
+  name: "Đào Duy Từ",
+  year: "1572 - 1634",
+  period: "Thời kỳ Trịnh - Nguyễn phân tranh",
+  image: "URL ảnh đại diện của Đào Duy Từ",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Danh sĩ, nhà quân sự và chiến lược gia lỗi lạc thế kỷ XVII, người đóng vai trò then chốt trong việc giúp các chúa Nguyễn củng cố thế lực tại Đàng Trong.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Đào Duy Từ sinh năm 1572 tại Thanh Hóa trong một gia đình có truyền thống nghệ thuật (cha làm nghề hát tuồng). Dù thông minh và học giỏi, ông bị cấm thi cử ở Đàng Ngoài do xuất thân gia đình. Vì không thể tìm được lối thoát cho hoài bão, ông quyết định vào Đàng Trong để tìm cơ hội phò tá minh quân, phát triển tài năng.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Tại Đàng Trong, ông được chúa Nguyễn Phúc Nguyên trọng dụng và phong làm Nha úy Nội tán. Đào Duy Từ là kiến trúc sư trưởng của hệ thống phòng thủ 'Lũy Thầy' (Lũy Đào Xá, Lũy Trường Dục) tại Quảng Bình, tạo thành lá chắn thép giúp Đàng Trong đứng vững trước các đợt tấn công của quân Trịnh. Ông cũng đề xuất nhiều kế sách phát triển kinh tế, ổn định xã hội và tổ chức lại bộ máy chính quyền.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương của Đào Duy Từ là bài học lớn về ý chí vượt lên số phận và xuất phát điểm khó khăn. Tư duy chiến lược về quốc phòng, tầm nhìn xa trông rộng trong việc xây dựng thực lực quốc gia của ông vẫn còn nguyên giá trị. Với thế hệ trẻ, ông là biểu tượng của tinh thần kiên trì, dùng bản lĩnh và trí tuệ để tự định đoạt số phận và cống hiến cho đất nước."
+},
+
+    {
+  name: "Trần Kính",
+  year: "Chưa rõ năm sinh - năm mất",
+  period: "Thời kỳ phong kiến",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Một nhân vật lịch sử thời phong kiến với vai trò ổn định bộ máy chính trị và đóng góp thầm lặng cho sự phát triển của đất nước.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Trần Kính sinh trưởng trong bối cảnh xã hội phong kiến, xuất thân từ tầng lớp quan lại hoặc gia đình có truyền thống học vấn. Nhờ nền tảng giáo dục Nho học bài bản, ông đã từng bước dấn thân vào con đường quan lộ. Mặc dù vậy, các tư liệu lịch sử phổ biến hiện nay chưa ghi chép rõ ràng về năm sinh, năm mất cũng như quê quán cụ thể của ông.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Xuyên suốt sự nghiệp, Trần Kính chủ yếu tập trung vào công tác quản lý nhà nước và hỗ trợ các hoạt động quân sự - hành chính của triều đình. Ông đảm nhiệm các chức vụ quan trọng giúp duy trì trật tự xã hội và thực thi các chính sách của trung ương. Dù không sở hữu những chiến công hiển hách gây tiếng vang lớn, nhưng sự hiện diện của ông đóng vai trò then chốt trong việc giữ vững sự ổn định của hệ thống chính trị đương thời.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Câu chuyện về Trần Kính để lại bài học sâu sắc về giá trị của sự cống hiến thầm lặng. Không nhất thiết phải là người nổi bật nhất mới có thể tạo ra giá trị; những cá nhân làm việc bền bỉ, có trách nhiệm và chắc tay luôn là nền tảng vững chắc cho mọi tổ chức. Đối với thế hệ trẻ, ông là minh chứng cho tinh thần kiên trì và đóng góp bền bỉ, không cần hào nhoáng nhưng vẫn mang lại giá trị lâu dài cho cộng đồng."
+},
+
+    {
+  name: "Phạm Cự Lạng",
+  year: "Thế kỷ X",
+  period: "Thời Đinh - Tiền Lê",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Võ tướng kiệt xuất cuối thế kỷ X, người có vai trò quyết định trong việc đưa Lê Hoàn lên ngôi và tổ chức kháng chiến chống quân Tống xâm lược.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Phạm Cự Lượng quê ở vùng Hoa Lư (Ninh Bình), sinh ra khi đất nước mới giành độc lập. Ông là võ tướng cấp cao dưới triều Nhà Đinh, giữ chức Thập đạo tướng quân. Sau khi Đinh Tiên Hoàng qua đời, ông trở thành nhân vật chủ chốt giải quyết khủng hoảng chính trị của triều đình.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong bối cảnh quân Tống chuẩn bị xâm lược, ông cùng các tướng lĩnh đã quyết đoán ủng hộ và trực tiếp khoác long bào mời Lê Hoàn lên ngôi vua. Năm 981, ông giữ vai trò quan trọng trong việc tổ chức lực lượng và trực tiếp chỉ huy quân đội đánh tan quân xâm lược Tống, bảo vệ vững chắc nền độc lập của Đại Cồ Việt.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Ông là tấm gương sáng về tinh thần đặt lợi ích quốc gia lên trên hết và khả năng quyết đoán trong thời điểm lịch sử then chốt. Bài học về lòng yêu nước, tinh thần đoàn kết và tư duy 'biết chọn người, chọn thời' của ông vẫn còn nguyên giá trị cho thế hệ trẻ ngày nay trong việc xây dựng và bảo vệ đất nước."
+},
+
+  {
+  name: "Nguyễn Xí",
+  year: "1397 - 1465",
+  period: "Thời Lê sơ",
+  image: "URL ảnh đại diện nhân vật Nguyễn Xí",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Công thần khai quốc hàng đầu triều Lê sơ, mưu sĩ và tướng lĩnh xuất sắc của nghĩa quân Lam Sơn, người giữ vai trò trụ cột trong việc xây dựng và ổn định nhà nước Đại Việt.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Xí sinh năm 1397 tại Nghệ An trong một gia đình yêu nước. Từ nhỏ, ông đã nổi tiếng thông minh, khỏe mạnh và có chí lớn. Khi trưởng thành, ông sớm gia nhập nghĩa quân Lam Sơn và trở thành một trong những tướng lĩnh thân cận, tin cậy nhất của Lê Lợi.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong cuộc khởi nghĩa Lam Sơn (1418–1427), ông tham gia nhiều trận đánh quyết định quét sạch quân Minh. Sau độc lập, ông giữ chức vụ quan trọng, là đại thần phụ chính trải qua nhiều đời vua Lê, có công lớn trong việc dẹp loạn, ổn định triều chính và bảo vệ trật tự quốc gia.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Tấm gương sáng về tinh thần yêu nước, ý chí vươn lên và lòng trung thành tuyệt đối với lý tưởng. Ông để lại bài học về sự kết hợp giữa tài năng cầm quân và đạo đức chính trị, nhắc nhở thế hệ trẻ về trách nhiệm cống hiến và giữ vững bản lĩnh trước mọi thử thách của thời đại."
+},
+
+    {
+  name: "Đinh Lễ",
+  year: "Thế kỷ XV (mất năm 1427)",
+  period: "Khởi nghĩa Lam Sơn / Nhà Lê sơ",
+  image: "",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Đinh Lễ là danh tướng trụ cột của nghĩa quân Lam Sơn, nổi tiếng với tài cầm quân binh pháp và lòng dũng cảm, góp công lớn trong các chiến thắng quyết định trước quân Minh.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Đinh Lễ sinh ra trong một gia đình có truyền thống yêu nước, là con của Đinh Liệt – một khai quốc công thần nhà Lê. Từ nhỏ, ông đã sớm bộc lộ tư chất võ nghệ và ý chí của một người làm tướng. Khi nhà Minh đô hộ, ông đã sớm gia nhập nghĩa quân Lam Sơn dưới trướng Lê Lợi để cống hiến cho sự nghiệp giải phóng dân tộc.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Trong cuộc khởi nghĩa Lam Sơn, Đinh Lễ lập nhiều chiến công hiển hách, tiêu diệt nhiều đạo quân mạnh của giặc Minh. Ông là vị tướng mưu lược trong các chiến dịch tiến quân ra Bắc. Đặc biệt, ông đóng vai trò quan trọng trong việc tạo tiền đề cho trận Chi Lăng – Xương Giang. Tuy nhiên, ông đã anh dũng hy sinh tại trận Tốt Động – Chúc Động (hoặc trong một cuộc vây hãm tại Đông Quan) khi đang chiến đấu quên mình.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Hình ảnh Đinh Lễ là biểu tượng của tinh thần yêu nước, ý chí kiên cường và sự hy sinh vì lý tưởng dân tộc. Di sản của ông để lại cho thế hệ trẻ bài học về sự rèn luyện, kỷ luật và lòng trung thành. Tên ông hiện nay được đặt cho nhiều con phố và trường học tại Việt Nam nhằm tôn vinh một vị tướng văn võ song toàn."
+},
+
+    {
+  name: "Nguyễn Siêu",
+  year: "1799 - 1872",
+  period: "Thời Nguyễn",
+  image: "URL ảnh đại diện",
+  side: "left",
+  // Phần I - Tóm tắt ngắn
+  summary: "Một học giả lớn và danh sĩ tiêu biểu thời Nguyễn, được mệnh danh là 'Thần Siêu' trong bộ đôi văn chương lỗi lạc 'Thần Siêu, Thánh Quát'.",
+  // Phần II - Tiểu sử / thân thế
+  biography: "Nguyễn Siêu sinh năm 1799 tại làng Kim Lũ, huyện Thanh Trì (nay thuộc Hà Nội) trong một gia đình có truyền thống hiếu học. Từ nhỏ ông đã bộc lộ sự thông minh, học rộng hiểu sâu và sớm đỗ cử nhân dưới triều Nguyễn. Dù có tài năng xuất chúng, ông không đặt nặng con đường quan lộ mà dành phần lớn cuộc đời cho việc dạy học, nghiên cứu và viết sách.",
+  // Phần III - Hoạt động / Sự kiện chính
+  activities: "Sau một thời gian ngắn làm quan, ông lui về mở trường dạy học và đào tạo được nhiều nhân tài. Ông là tác giả của nhiều công trình nghiên cứu giá trị về sử học, địa lý và văn học. Một trong những đóng góp văn hóa quan trọng nhất của ông là việc chủ trì trùng tu Đền Ngọc Sơn tại hồ Hoàn Kiếm, biến nơi đây thành biểu tượng văn hóa tiêu biểu của kinh thành Thăng Long.",
+  // Phần IV - Di sản / Ý nghĩa
+  legacy: "Nguyễn Siêu là biểu tượng sáng ngời về tinh thần hiếu học, lối sống thanh cao và lòng tận tụy với giáo dục. Di sản của ông nhắc nhở thế hệ trẻ hôm nay về tầm quan trọng của tri thức, ý thức giữ gìn bản sắc văn hóa dân tộc và trách nhiệm bồi đắp đạo đức để xây dựng đất nước bền vững."
+},
+
     
 ];
